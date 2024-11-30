@@ -1,0 +1,1429 @@
+"season"	"county"	"locality"	"birds_seen"	"variety_seen"	"birder_count"	"avg_birds_seen"	"seen_rank"	"variety_rank"	"score"	"hot_spot_rank"	"latitude"	"longitude"
+"1"	"Fall"	"baker"	"Baker Sewage Treatment Ponds (restricted access)"	14471	67	9	1607.88888888889	1	4	95	1	44.8135987	-117.8437478
+"2"	"Fall"	"baker"	"Bob's Lake"	9927	67	19	522.473684210526	2	4	94	2	44.8375823	-117.8182411
+"3"	"Fall"	"baker"	"Coral Ditch"	6100	60	25	244	9	7	84	9	44.7987496	-117.8081346
+"4"	"Fall"	"baker"	"Farewell Bend SP"	8341	83	35	238.314285714286	10	2	88	4	44.3059155	-117.2263527
+"5"	"Fall"	"baker"	"Halfway (town)"	269	34	1	269	8	12	80	10	44.877085	-117.108465
+"6"	"Fall"	"baker"	"Hewitt Park"	2489	67	5	497.8	3	4	93	3	44.7566797	-117.126859
+"7"	"Fall"	"baker"	"Hwy. 203 Pond"	2836	47	7	405.142857142857	5	9	86	7.5	44.8598844	-117.8142929
+"8"	"Fall"	"baker"	"North Powder Pond"	8432	100	36	234.222222222222	12	1	87	5.5	45.013214	-117.930166
+"9"	"Fall"	"baker"	"Thief Valley Reservoir (Baker Co.)"	4207	60	12	350.583333333333	6	7	87	5.5	45.0315222	-117.8069544
+"10"	"Fall"	"baker"	"Unity Lake SP--Reservoir"	1763	39	4	440.75	4	10	86	7.5	44.5025468	-118.1909695
+"11"	"Fall"	"benton"	"Butterfield Wetland"	54234	102	26	2085.92307692308	7	13	80	6	44.5345942	-123.2580936
+"12"	"Fall"	"benton"	"Philomath Sewage Ponds (restricted access)"	2319834	192	423	5484.24113475177	1	1	98	1	44.5185755	-123.3444586
+"13"	"Fall"	"benton"	"Stewart Lake (restricted access)"	40004	93	29	1379.44827586207	14	18.5	67.5	10	44.5870442	-123.2442856
+"14"	"Fall"	"benton"	"Willamette Park (Benton Co.)"	239321	156	104	2301.16346153846	3	4	93	2.5	44.5410582	-123.2462597
+"15"	"Fall"	"benton"	"Willamette Park--South Side"	74555	134	56	1331.33928571429	16	6	78	7	44.5373738	-123.2487487
+"16"	"Fall"	"benton"	"William L. Finley NWR"	295543	164	198	1492.64141414141	12	2	86	5	44.4215209	-123.3151817
+"17"	"Fall"	"benton"	"William L. Finley NWR--Bruce Rd."	166433	127	127	1310.49606299213	17	7	76	8	44.3895666	-123.3003867
+"18"	"Fall"	"benton"	"William L. Finley NWR--Cabell Marsh"	431001	163	194	2221.65463917526	5	3	92	4	44.4152525	-123.319205
+"19"	"Fall"	"benton"	"William L. Finley NWR--Cheadle Marsh"	33639	113	27	1245.88888888889	18	9	73	9	44.3954315	-123.3006334
+"20"	"Fall"	"benton"	"William L. Finley NWR--McFadden Marsh"	1297537	150	294	4413.39115646259	2	5	93	2.5	44.3907013	-123.2976294
+"21"	"Fall"	"clackamas"	"Anderson Rd. Swale"	36606	80	32	1143.9375	4	15	81	6	45.240578	-122.746159
+"22"	"Fall"	"clackamas"	"Brown's Ferry Park"	35920	112	109	329.54128440367	22	2	76	10	45.3830796	-122.7380133
+"23"	"Fall"	"clackamas"	"Canby Logging Trail"	13931	65	5	2786.2	1	22.5	76.5	9	45.2926411	-122.6840687
+"24"	"Fall"	"clackamas"	"Happy Valley Nature Park"	13243	83	23	575.782608695652	7	13	80	7	45.4498306	-122.5215654
+"25"	"Fall"	"clackamas"	"Ivor Davies Park"	21476	102	34	631.647058823529	6	4	90	1	45.136353	-122.570065
+"26"	"Fall"	"clackamas"	"Mary S. Young SP"	23878	84	46	519.086956521739	10	12	78	8	45.3818978	-122.6311717
+"27"	"Fall"	"clackamas"	"Milo McIver SP"	8808	99	20	440.4	12	6.5	81.5	5	45.2948027	-122.364006
+"28"	"Fall"	"clackamas"	"River Island Natural Area--North Unit"	4292	89	6	715.333333333333	5	10.5	84.5	4	45.377883	-122.3986139
+"29"	"Fall"	"clackamas"	"River Island Natural Area--South Unit"	14466	110	26	556.384615384615	9	3	88	2.5	45.371773	-122.405607
+"30"	"Fall"	"clackamas"	"Timothy Lake"	23968	119	51	469.960784313725	11	1	88	2.5	45.1187305	-121.7934036
+"31"	"Fall"	"clatsop"	"Airport Dike Trail"	23250	94	20	1162.5	8	23	69	9	46.1637457	-123.8780808
+"32"	"Fall"	"clatsop"	"Brownsmead area"	59502	111	35	1700.05714285714	3	12.5	84.5	2	46.2151793	-123.5395432
+"33"	"Fall"	"clatsop"	"Cannon Beach Settling Ponds"	67863	140	177	383.406779661017	19	5	76	5	45.8972364	-123.9574099
+"34"	"Fall"	"clatsop"	"Fort Stevens SP--South Jetty/Parking Area C"	54608	146	159	343.446540880503	23	3	74	6	46.2286726	-124.0217721
+"35"	"Fall"	"clatsop"	"Seaside Cove"	72178	151	263	274.441064638783	32	1	67	10	45.9755964	-123.9397073
+"36"	"Fall"	"clatsop"	"Silver Point"	42808	107	65	658.584615384615	12	14.5	73.5	7.5	45.8547974	-123.9647484
+"37"	"Fall"	"clatsop"	"Sunset Beach Recreation Area"	33699	129	87	387.344827586207	18	8.5	73.5	7.5	46.1011393	-123.9375036
+"38"	"Fall"	"clatsop"	"Svenson Island Rd."	52683	107	43	1225.18604651163	7	14.5	78.5	4	46.1760972	-123.6502433
+"39"	"Fall"	"clatsop"	"Warrenton Sewage Ponds (restricted access)"	26719	111	18	1484.38888888889	4	12.5	83.5	3	46.1744221	-123.921833
+"40"	"Fall"	"clatsop"	"Wireless Rd."	206376	150	148	1394.43243243243	5	2	93	1	46.1602748	-123.8265181
+"41"	"Fall"	"columbia"	"Crown Zellerbach Trail (east end)"	108188	135	103	1050.36893203884	14	2	84	7	45.754063	-122.850469
+"42"	"Fall"	"columbia"	"Marshland Bottoms"	21126	100	16	1320.375	10	13	77	9.5	46.1190902	-123.281343
+"43"	"Fall"	"columbia"	"Sauvie Island (Columbia Co.)"	72543	130	43	1687.04651162791	6	3	91	2	45.763691	-122.7948761
+"44"	"Fall"	"columbia"	"Sauvie Island--Multnomah Channel (Columbia Co.)"	38106	99	27	1411.33333333333	9	14	77	9.5	45.7350623	-122.8404093
+"45"	"Fall"	"columbia"	"Sauvie Island--Racetrack Lake"	23488	106	16	1468	8	10	82	8	45.7449186	-122.7841514
+"46"	"Fall"	"columbia"	"Sauvie Island--Reeder Rd. Observation Shelter"	406754	124	265	1534.92075471698	7	4	89	4.5	45.73246	-122.7739978
+"47"	"Fall"	"columbia"	"Sauvie Island--Rentenaar Rd."	1136632	142	287	3960.39024390244	1	1	98	1	45.7574596	-122.776551
+"48"	"Fall"	"columbia"	"Sauvie Island--The Narrows"	56207	108	25	2248.28	4	8	88	6	45.7336245	-122.8162479
+"49"	"Fall"	"columbia"	"Sauvie Island--The Wash"	51645	107	19	2718.15789473684	2	9	89	4.5	45.7416518	-122.8041726
+"50"	"Fall"	"columbia"	"Scappoose Bottoms"	44181	114	26	1699.26923076923	5	5	90	3	45.779824	-122.824323
+"51"	"Fall"	"coos"	"Bandon Marsh NWR--Observation Deck"	53539	134	105	509.895238095238	15	3	82	4	43.130861	-124.4013423
+"52"	"Fall"	"coos"	"Bradley Lake"	8299	95	3	2766.33333333333	2	17	81	5	43.0658468	-124.4267299
+"53"	"Fall"	"coos"	"Cape Arago SP"	147858	122	107	1381.85046728972	6	6	88	2	43.306011	-124.3990517
+"54"	"Fall"	"coos"	"Coquille River--South Jetty "	44575	130	109	408.94495412844	20	4	76	9	43.1222404	-124.4282663
+"55"	"Fall"	"coos"	"Johnson Pond"	30982	120	22	1408.27272727273	5	7.5	87.5	3	43.1323095	-124.1843891
+"56"	"Fall"	"coos"	"Millicoma Marsh"	38922	146	84	463.357142857143	18	2	80	6	43.3682768	-124.1908908
+"57"	"Fall"	"coos"	"Myrtle Point Marsh"	10603	101	10	1060.3	10	13	77	8	43.0584156	-124.138577
+"58"	"Fall"	"coos"	"North Spit--Jarvis Turn Bayside Trail"	6210	105	12	517.5	14	12	74	10	43.4218504	-124.2732882
+"59"	"Fall"	"coos"	"North Spit--old Weyco Settling Pond & deflation plain"	110564	175	87	1270.85057471264	8	1	91	1	43.4210895	-124.2850935
+"60"	"Fall"	"coos"	"Pigeon Point"	14401	118	26	553.884615384615	13	9	78	7	43.3629632	-124.3008113
+"61"	"Fall"	"crook"	"Crooked River Park"	7195	102	19	378.684210526316	11	2	87	4	44.2893883	-120.8439617
+"62"	"Fall"	"crook"	"Crooked River Wetlands Complex"	93819	124	125	750.552	6	1	93	2.5	44.3165109	-120.897857
+"63"	"Fall"	"crook"	"Houston Lakes"	35585	98	28	1270.89285714286	3	4	93	2.5	44.2941213	-120.9893417
+"64"	"Fall"	"crook"	"Ochoco Lake County Park"	3973	79	16	248.3125	13	6	81	8	44.3054467	-120.7012939
+"65"	"Fall"	"crook"	"Ochoco Reservoir"	10960	95	27	405.925925925926	9	5	86	5	44.3066526	-120.6975174
+"66"	"Fall"	"crook"	"Ochoco Reservoir--east end"	5144	43	5	1028.8	5	15	80	9	44.3179229	-120.6638986
+"67"	"Fall"	"crook"	"Prineville Reservoir State Park"	2404	76	13	184.923076923077	15	7	78	10	44.1322645	-120.7262707
+"68"	"Fall"	"crook"	"Prineville Reservoir--Social Security Beach"	4579	50	4	1144.75	4	11	85	6	44.1260937	-120.6952402
+"69"	"Fall"	"crook"	"Prineville Sewage Ponds (closed to the public as of 6/9/21)"	77717	100	26	2989.11538461538	2	3	95	1	44.3067524	-120.8712494
+"70"	"Fall"	"crook"	"Prineville Sewage Ponds New (closed to the public as of 6/9/21)"	3788	64	10	378.8	10	8	82	7	44.3182601	-120.888319
+"71"	"Fall"	"curry"	"Arizona Beach State Recreation Site"	14076	140	60	234.6	17	2	81	6	42.6144248	-124.3954897
+"72"	"Fall"	"curry"	"Cape Blanco SP--Sixes River Bottomlands"	11159	125	45	247.977777777778	14	5.5	80.5	7	42.8447425	-124.5380974
+"73"	"Fall"	"curry"	"Chetco Pt."	23110	136	61	378.852459016393	8	4	88	2	42.0443211	-124.2902613
+"74"	"Fall"	"curry"	"Floras Lake"	108821	171	73	1490.69863013699	1	1	98	1	42.9038274	-124.5049667
+"75"	"Fall"	"curry"	"Gold Beach--Marina"	19288	112	52	370.923076923077	9	8	83	5	42.4230764	-124.4195652
+"76"	"Fall"	"curry"	"Pistol River lowlands"	13490	139	40	337.25	10	3	87	3	42.2717782	-124.3969738
+"77"	"Fall"	"curry"	"Pistol River--ODOT Pullout Riparian"	3394	90	8	424.25	6	19.5	74.5	10	42.2676357	-124.382178
+"78"	"Fall"	"curry"	"Rogue River mouth"	26758	90	35	764.514285714286	2	19.5	78.5	8	42.4219676	-124.4292641
+"79"	"Fall"	"curry"	"Rogue River--North Jetty"	8829	94	22	401.318181818182	7	17.5	75.5	9	42.4259274	-124.4264317
+"80"	"Fall"	"curry"	"Rogue River--South Jetty"	16951	103	30	565.033333333333	4	11	85	4	42.4180233	-124.4310933
+"81"	"Fall"	"deschutes"	"Awbrey Meadows"	20247	81	8	2530.875	1	32.5	66.5	5	44.094724	-121.341221
+"82"	"Fall"	"deschutes"	"Davis Lake--Lava Flow Campground"	46990	71	24	1957.91666666667	3	40.5	56.5	9	43.6224696	-121.8206978
+"83"	"Fall"	"deschutes"	"Deschutes River Trail--Old Mill (Mill A  and  Loggers Loops)"	127717	132	115	1110.58260869565	8	4	88	2	44.045064	-121.316421
+"84"	"Fall"	"deschutes"	"Farewell Bend Park"	29951	117	62	483.08064516129	26	10.5	63.5	6	44.0413879	-121.3250685
+"85"	"Fall"	"deschutes"	"Hatfield Lake"	472716	176	271	1744.33948339483	5	1	94	1	44.1232081	-121.198554
+"86"	"Fall"	"deschutes"	"North Wickiup Boat Ramp"	25513	125	75	340.173333333333	39	7	54	10	43.705608	-121.7521191
+"87"	"Fall"	"deschutes"	"Redmond Sewage Ponds (restricted access)"	76967	139	85	905.494117647059	12	2	86	3	44.3352042	-121.2192706
+"88"	"Fall"	"deschutes"	"River Meadows (restricted access)"	8144	89	10	814.4	15	25	60	8	43.8249157	-121.4900945
+"89"	"Fall"	"deschutes"	"Wickiup Reservoir"	14117	123	19	743	18	8	74	4	43.6821993	-121.6995049
+"90"	"Fall"	"deschutes"	"Wickiup Reservoir--Kiosk Ponds"	20506	127	51	402.078431372549	31	6	63	7	43.700289	-121.7088343
+"91"	"Fall"	"douglas"	"Cooper Creek Reservoir"	4139	80	15	275.933333333333	17	10	73	8.5	43.371635	-123.2592818
+"92"	"Fall"	"douglas"	"Diamond Lake"	43730	79	15	2915.33333333333	1	11	88	3.5	43.1557188	-122.1514893
+"93"	"Fall"	"douglas"	"Diamond Lake--sewage ponds (restricted access)"	3448	55	5	689.6	6	23	71	10	43.1853403	-122.1426487
+"94"	"Fall"	"douglas"	"Fords Pond"	135416	150	80	1692.7	2	1	97	1	43.3913165	-123.363111
+"95"	"Fall"	"douglas"	"Plat I Reservoir"	12138	109	23	527.739130434783	9	3	88	3.5	43.394346	-123.2522678
+"96"	"Fall"	"douglas"	"Stables Rd."	7950	85	20	397.5	11	7	82	6	43.717063	-124.091042
+"97"	"Fall"	"douglas"	"Stewart Park Wildlife Ponds & Nature Trail"	28680	119	50	573.6	8	2	90	2	43.2276504	-123.3712292
+"98"	"Fall"	"douglas"	"Umpqua Lighthouse area"	13222	81	38	347.947368421053	13	9	78	7	43.6627183	-124.1986585
+"99"	"Fall"	"douglas"	"Umpqua River--South Jetty"	7806	99	42	185.857142857143	23	4	73	8.5	43.6655123	-124.2117691
+"100"	"Fall"	"douglas"	"Wildlife Safari (restricted access)"	3894	74	4	973.5	4	13	83	5	43.1429002	-123.4299911
+"101"	"Fall"	"gilliam"	"Arlington (town)"	4052	71	52	77.9230769230769	8	3	89	4.5	45.7193942	-120.2036047
+"102"	"Fall"	"gilliam"	"Condon City Park"	672	20	10	67.2	10	14	76	10	45.2326076	-120.1848292
+"103"	"Fall"	"gilliam"	"Condon Sewage Ponds (restricted access)"	4934	69	24	205.583333333333	3	4	93	3	45.2275954	-120.17736
+"104"	"Fall"	"gilliam"	"Cottonwood Canyon SP (Gilliam Co.)"	1209	62	20	60.45	11	5	84	8	45.4768042	-120.4663754
+"105"	"Fall"	"gilliam"	"Lost Valley Rd.--valley and pine forest"	405	31	8	50.625	13	8.5	78.5	9	45.075741	-119.9704122
+"106"	"Fall"	"gilliam"	"Middle Rock Creek Ln."	589	35	4	147.25	5	6	89	4.5	45.5071098	-120.1809668
+"107"	"Fall"	"gilliam"	"Phillipi Canyon"	981	32	8	122.625	6	7	87	7	45.6757999	-120.4921155
+"108"	"Fall"	"gilliam"	"Port of Arlington"	12360	73	54	228.888888888889	2	2	96	2	45.7229297	-120.2074885
+"109"	"Fall"	"gilliam"	"Upper Rock Creek Rd."	820	31	5	164	4	8.5	87.5	6	45.4920809	-120.1645732
+"110"	"Fall"	"gilliam"	"Willow Creek Wildlife Area"	9151	89	32	285.96875	1	1	98	1	45.7826593	-120.0048959
+"111"	"Fall"	"grant"	"Clyde Holiday SP"	1908	78	38	50.2105263157895	17	2	81	9	44.4155744	-119.0886211
+"112"	"Fall"	"grant"	"Cougar Creek (Ochocos National Forest)"	430	29	1	430	1	12.5	86.5	3	44.151143	-119.5793796
+"113"	"Fall"	"grant"	"Davis Creek Park"	2468	66	15	164.533333333333	6	3	91	2	44.4231916	-118.9642991
+"114"	"Fall"	"grant"	"Forest Conservation Area"	5447	93	13	419	2	1	97	1	44.4573634	-118.6867458
+"115"	"Fall"	"grant"	"John Day (town)"	1218	58	13	93.6923076923077	13	4	83	6.5	44.4161415	-118.9526707
+"116"	"Fall"	"grant"	"Magone Lake"	540	23	2	270	3	16	81	9	44.5489188	-118.9115202
+"117"	"Fall"	"grant"	"Monument Reserve (Thomas Cavender Reservoir)"	1152	34	5	230.4	5	10.5	84.5	4	44.8255575	-119.431813
+"118"	"Fall"	"grant"	"Moon Creek Wildlife Area"	867	40	9	96.3333333333333	12	7	81	9	44.4177984	-119.2257365
+"119"	"Fall"	"grant"	"Mount Vernon (town)"	709	39	6	118.166666666667	9	8	83	6.5	44.417753	-119.113389
+"120"	"Fall"	"grant"	"Poison Creek Reservoir"	1499	44	13	115.307692307692	10	6	84	5	44.0136974	-118.9142078
+"121"	"Fall"	"harney"	"Burns Sewage Ponds (restricted access)"	59526	97	39	1526.30769230769	2	8	90	1	43.5672909	-119.0676928
+"122"	"Fall"	"harney"	"Chickahominy Reservoir"	16815	89	31	542.41935483871	11	11	78	3.5	43.5485481	-119.6205139
+"123"	"Fall"	"harney"	"Hines Nature Trail"	7515	57	4	1878.75	1	25.5	73.5	7	43.5561306	-119.0771071
+"124"	"Fall"	"harney"	"Hotchkiss Ln.--WTP Ponds (restricted access)"	16120	58	20	806	5	24	71	9	43.5551186	-119.0707684
+"125"	"Fall"	"harney"	"Hwy. 205 (Catlow Valley Rd.)--Roaring Springs Ranch pulloff"	10895	110	34	320.441176470588	18	5	77	6	42.6567921	-118.9861518
+"126"	"Fall"	"harney"	"Malheur NWR--Benson Pond"	23621	140	79	299	20	2	78	3.5	42.9566738	-118.8657188
+"127"	"Fall"	"harney"	"Malheur NWR--Central Patrol Rd.--Krumbo Reservoir Rd. to P Ranch"	6780	105	20	339	16	6.5	77.5	5	42.8368515	-118.8856745
+"128"	"Fall"	"harney"	"Malheur NWR--Headquarters"	76237	195	211	361.312796208531	14	1	85	2	43.2653681	-118.8433095
+"129"	"Fall"	"harney"	"Malheur NWR--Knox Pond"	6105	87	20	305.25	19	13	68	10	42.8900268	-118.8682079
+"130"	"Fall"	"harney"	"Rock Creek Reservoir (Harney Co.)"	4273	77	9	474.777777777778	12	16	72	8	42.6849592	-119.3080902
+"131"	"Fall"	"hood river"	"Bonney Butte"	23262	88	93	250.129032258065	7	4	89	4.5	45.266666	-121.599998
+"132"	"Fall"	"hood river"	"Cascade Locks (Oregon side)"	2487	65	23	108.130434782609	13	8	79	10	45.6722886	-121.8914008
+"133"	"Fall"	"hood river"	"Cascade Locks--Easy Climb Trail"	6729	58	8	841.125	2	10	88	6	45.6845271	-121.8532002
+"134"	"Fall"	"hood river"	"Cascade Locks--Marine Park (island)"	3209	80	29	110.655172413793	12	5	83	8	45.668031	-121.897456
+"135"	"Fall"	"hood river"	"Government Cove"	13687	79	20	684.35	3	6	91	3	45.686396	-121.8430996
+"136"	"Fall"	"hood river"	"Hood River Spit"	8825	101	41	215.243902439024	8	3	89	4.5	45.7141777	-121.5088555
+"137"	"Fall"	"hood river"	"Hood River Waterfront Park and path"	5643	69	32	176.34375	9	7	84	7	45.7157122	-121.5168904
+"138"	"Fall"	"hood river"	"Hood River mouth"	41904	136	156	268.615384615385	4	1	95	2	45.7152892	-121.5063858
+"139"	"Fall"	"hood river"	"Hood River--The Hook"	161258	116	148	1089.58108108108	1	2	97	1	45.717025	-121.525898
+"140"	"Fall"	"hood river"	"Indian Creek Trail--Arrowhead Ave. to Barrett Dr."	796	37	3	265.333333333333	5	15	80	9	45.6899446	-121.5429876
+"141"	"Fall"	"jackson"	"Agate Lake"	46383	157	143	324.356643356643	18	1	81	6	42.4099597	-122.7708006
+"142"	"Fall"	"jackson"	"Denman WMA (general, use specific if applicable)"	4465	95	5	893	7	22	71	10	42.4227561	-122.8720797
+"143"	"Fall"	"jackson"	"Denman WMA--Little Butte Creek Unit"	32054	122	33	971.333333333333	6	9	85	2.5	42.4512305	-122.8661935
+"144"	"Fall"	"jackson"	"Denman WMA--Whetstone Pond"	31673	128	84	377.059523809524	15	7	78	7	42.4181342	-122.8657722
+"145"	"Fall"	"jackson"	"Emigrant Lake"	34109	156	99	344.535353535354	16	2	82	4.5	42.1433778	-122.6209306
+"146"	"Fall"	"jackson"	"Emigrant Lake--South Shore"	22009	153	35	628.828571428571	9	3	88	1	42.1337652	-122.6129258
+"147"	"Fall"	"jackson"	"Givan Ranch Park"	7706	98	7	1100.85714285714	4	21	75	8	42.4782586	-122.8516603
+"148"	"Fall"	"jackson"	"Lost Creek Lake--Medco A"	45289	149	82	552.30487804878	10	5	85	2.5	42.6738312	-122.6418829
+"149"	"Fall"	"jackson"	"RVM campus"	29525	101	35	843.571428571429	8	19.5	72.5	9	42.307586	-122.838162
+"150"	"Fall"	"jackson"	"White City Lagoons (Kirtland Rd. Ponds)"	50050	142	99	505.555555555556	12	6	82	4.5	42.4336881	-122.9128075
+"151"	"Fall"	"jefferson"	"Brewer Reservoir"	4442	45	7	634.571428571429	3	23	74	8	44.5946459	-120.9280157
+"152"	"Fall"	"jefferson"	"Culver Sewage Ponds (restricted access)"	3219	49	7	459.857142857143	7	16.5	76.5	6	44.528358	-121.220853
+"153"	"Fall"	"jefferson"	"Green Ridge Hawk Migration Site"	15473	87	64	241.765625	17	4	79	4	44.53693	-121.604
+"154"	"Fall"	"jefferson"	"Haystack Lake Campground (east)"	2250	61	10	225	18	10	72	9.5	44.495054	-121.142432
+"155"	"Fall"	"jefferson"	"Haystack Reservoir"	21757	111	40	543.925	6	2	92	1	44.4978522	-121.1505318
+"156"	"Fall"	"jefferson"	"Metolius Sewage Ponds (restricted access)"	1663	49	3	554.333333333333	5	16.5	78.5	5	44.5976464	-121.1716273
+"157"	"Fall"	"jefferson"	"Pelton Regulating Dam Wildlife Overlook"	19014	84	33	576.181818181818	4	5	91	2	44.7224039	-121.2435661
+"158"	"Fall"	"jefferson"	"Suttle Lake"	32525	119	98	331.887755102041	13	1	86	3	44.4225937	-121.7367554
+"159"	"Fall"	"jefferson"	"Suttle Lake--Link Creek Campground"	7565	92	51	148.333333333333	25	3	72	9.5	44.4174777	-121.7547315
+"160"	"Fall"	"jefferson"	"Trout Creek Campground (Jefferson Co.)"	3487	74	16	217.9375	19	6.5	74.5	7	44.8160444	-121.0948706
+"161"	"Fall"	"josephine"	"Hunt Ln."	5435	56	8	679.375	5	15	80	9	42.4421973	-123.4147453
+"162"	"Fall"	"josephine"	"Lake Selmac"	58369	147	61	956.868852459016	1	1	98	1	42.2617532	-123.5779095
+"163"	"Fall"	"josephine"	"Lower River Rd.--Fort Vannoy & ponds"	8310	60	9	923.333333333333	2	14	84	6	42.4369757	-123.4198952
+"164"	"Fall"	"josephine"	"Provolt Pond"	13448	88	15	896.533333333333	3	4	93	2	42.288276	-123.2303596
+"165"	"Fall"	"josephine"	"Riverside Park (Josephine Co.)"	14012	76	53	264.377358490566	13	8	79	10	42.428475	-123.328305
+"166"	"Fall"	"josephine"	"Rogue Lea Estates ponds"	20359	84	26	783.038461538462	4	5	91	3	42.429792	-123.3599854
+"167"	"Fall"	"josephine"	"Siskiyou Field Institute"	2804	69	7	400.571428571429	7	10.5	82.5	7	42.277797	-123.6455172
+"168"	"Fall"	"josephine"	"Tussing Park/Reinhart Volunteer Park"	9629	78	36	267.472222222222	12	6.5	81.5	8	42.4285133	-123.3475668
+"169"	"Fall"	"josephine"	"Whitehorse County Park"	14147	109	38	372.289473684211	9	2	89	4	42.4371911	-123.4596434
+"170"	"Fall"	"josephine"	"Wildlife Images Rehabilitation and Education Center"	4753	93	16	297.0625	10	3	87	5	42.4903381	-123.474403
+"171"	"Fall"	"klamath"	"Davis Lake"	59257	108	30	1975.23333333333	4	10	86	3	43.5882401	-121.8540215
+"172"	"Fall"	"klamath"	"Eagle Ridge/Shoalwater Bay"	15448	133	23	671.652173913043	24	3.5	72.5	9.5	42.3970939	-121.9592285
+"173"	"Fall"	"klamath"	"Lake Ewauna"	34530	96	14	2466.42857142857	3	18	79	6	42.2083036	-121.7774391
+"174"	"Fall"	"klamath"	"Lake Ewauna--North Shore Trail"	23650	98	5	4730	1	15	84	4	42.2130695	-121.7754311
+"175"	"Fall"	"klamath"	"Link River Trail"	56778	133	59	962.338983050847	14	3.5	82.5	5	42.2278182	-121.7991543
+"176"	"Fall"	"klamath"	"Lower Klamath NWR--Straits Drain"	26752	83	14	1910.85714285714	5	22.5	72.5	9.5	42.0243992	-121.7778454
+"177"	"Fall"	"klamath"	"Running Y Ranch--Skillet Handle"	20013	112	21	953	16	9	75	8	42.2953879	-121.8783287
+"178"	"Fall"	"klamath"	"Veterans Park--Klamath Falls"	77570	100	61	1271.6393442623	10	14	76	7	42.2186735	-121.788522
+"179"	"Fall"	"klamath"	"Wingwatchers Lake Ewauna Nature Trail"	87642	131	35	2504.05714285714	2	6	92	2	42.2158372	-121.788817
+"180"	"Fall"	"klamath"	"Wood River Wetland"	223152	177	120	1859.6	6	1	93	1	42.5807466	-121.9327068
+"181"	"Fall"	"lake"	"Christmas Valley (town)"	15042	100	14	1074.42857142857	8	4	88	3.5	43.2415347	-120.682394
+"182"	"Fall"	"lake"	"Eastbay Campground"	4196	41	2	2098	4	23	73	9	42.9437007	-121.0656774
+"183"	"Fall"	"lake"	"Goose Lake State Recreation Area (Oregon)"	4996	91	21	237.904761904762	15	6	79	6	41.9941909	-120.3235781
+"184"	"Fall"	"lake"	"Hart Lake"	14776	82	6	2462.66666666667	3	9	88	3.5	42.4392941	-119.8736286
+"185"	"Fall"	"lake"	"Lake Abert"	42364	41	10	4236.4	2	23	75	7	42.613	-120.2269
+"186"	"Fall"	"lake"	"Lakeview Settling Ponds"	2264	57	9	251.555555555556	14	14	72	10	42.1812624	-120.3649235
+"187"	"Fall"	"lake"	"Summer Lake"	15654	111	11	1423.09090909091	5	2	93	1.5	42.825	-120.7456
+"188"	"Fall"	"lake"	"Summer Lake Wildlife Area"	118418	176	85	1393.15294117647	6	1	93	1.5	42.950819	-120.7639503
+"189"	"Fall"	"lake"	"Summer Lake Wildlife Area--Bullgate Dike"	2253	58	7	321.857142857143	13	13	74	8	42.931446	-120.74207
+"190"	"Fall"	"lake"	"Summer Lake Wildlife Area--River Ranch Campground and The Barn"	4222	92	9	469.111111111111	11	5	84	5	42.960428	-120.726701
+"191"	"Fall"	"lane"	"Alton Baker Park (general)"	82379	131	112	735.526785714286	44	6	50	9	44.0533353	-123.0674572
+"192"	"Fall"	"lane"	"Bond Rd."	170847	120	129	1324.39534883721	22	18	60	5	44.1214675	-123.23861
+"193"	"Fall"	"lane"	"Creswell Sewage Ponds (restricted access)"	22899	117	2	11449.5	2	22	76	1	43.92343	-123.0364037
+"194"	"Fall"	"lane"	"Fern Ridge WMA--Dam"	118259	124	85	1391.28235294118	20	13.5	66.5	3	44.1205895	-123.3029509
+"195"	"Fall"	"lane"	"Fern Ridge WMA--Fisher Butte Unit north (dikes around Pond 4, 5, 6, and west edge of 3)"	32727	127	44	743.795454545455	42	10	48	10	44.0667313	-123.263855
+"196"	"Fall"	"lane"	"Fern Ridge WMA--Orchard Pt. Park"	48965	128	56	874.375	37	9	54	6	44.1124865	-123.2779098
+"197"	"Fall"	"lane"	"Fern Ridge WMA--Perkins Peninsula"	111179	167	157	708.146496815287	46	2	52	7	44.0569986	-123.2899475
+"198"	"Fall"	"lane"	"Fern Ridge WMA--Royal Ave. area (general)"	285961	186	274	1043.65328467153	30	1	69	2	44.0705825	-123.2574606
+"199"	"Fall"	"lane"	"K.R. Nielsen Rd."	174268	102	87	2003.08045977011	13	36	51	8	44.0465117	-123.2499504
+"200"	"Fall"	"lane"	"Trails End Park (Coburg Industrial Way Wetland)"	67264	113	31	2169.8064516129	12	26	62	4	44.1489433	-123.0580246
+"201"	"Fall"	"lincoln"	"Boiler Bay State Wayside"	1473901	160	515	2861.94368932039	1	5	94	1	44.8288173	-124.0658998
+"202"	"Fall"	"lincoln"	"D River Beach Wayside"	82339	122	99	831.707070707071	17	12.5	70.5	5	44.9676217	-124.0172768
+"203"	"Fall"	"lincoln"	"East Devil's Lake State Recreation Area"	60211	110	45	1338.02222222222	8	23.5	68.5	7	44.9672392	-123.9970422
+"204"	"Fall"	"lincoln"	"Gleneden Beach State Wayside Park"	28960	97	24	1206.66666666667	9	31	60	9.5	44.8757167	-124.0372968
+"205"	"Fall"	"lincoln"	"Lincoln City Sewage Treatment Plant (restricted access)"	25974	113	39	666	19	21	60	9.5	44.930364	-124.007842
+"206"	"Fall"	"lincoln"	"Mark Hatfield Marine Science Center and Estuary Trail"	722511	189	626	1154.17092651757	11	1	88	2	44.6231604	-124.0434766
+"207"	"Fall"	"lincoln"	"Ona Beach SP"	70872	172	230	308.139130434783	36	2	62	8	44.5213563	-124.0740108
+"208"	"Fall"	"lincoln"	"Siletz Bay--Salishan Nature Trail"	158710	171	181	876.850828729282	16	3	81	4	44.8908168	-124.0253448
+"209"	"Fall"	"lincoln"	"Yaquina Bay--Idaho Flats"	60315	126	40	1507.875	4	10	86	3	44.6149166	-124.0411806
+"210"	"Fall"	"lincoln"	"Yaquina Bay--Sally's Bend-LNG Facility"	105979	136	171	619.760233918129	22	8	70	6	44.6262136	-124.0254092
+"211"	"Fall"	"linn"	"Belts Dr."	16547	83	23	719.434782608696	8	7	85	4	44.3027215	-123.0264473
+"212"	"Fall"	"linn"	"Bowers Rocks State Park"	1404	62	2	702	9	14.5	76.5	9	44.6293777	-123.1591415
+"213"	"Fall"	"linn"	"Brownsville Sewage Ponds (restricted/no access)"	9789	75	14	699.214285714286	10	9.5	80.5	8	44.3930703	-122.9994965
+"214"	"Fall"	"linn"	"Cheadle Lake"	26551	103	40	663.775	11	3	86	3	44.5172866	-122.8906417
+"215"	"Fall"	"linn"	"Eicher Rd. Quarry (no longer accessible; all viewpoints are on private property)"	16631	65	12	1385.91666666667	4	13	83	6	44.6147298	-123.015721
+"216"	"Fall"	"linn"	"Foster Reservoir--Shea Viewpoint"	20268	94	37	547.783783783784	15	4	81	7	44.4107194	-122.6536149
+"217"	"Fall"	"linn"	"Gap Rd. Rice Ponds"	6022	70	6	1003.66666666667	5	11	84	5	44.3642376	-122.9857635
+"218"	"Fall"	"linn"	"Oak Creek Greenbelt Trail"	7469	84	5	1493.8	2	6	92	1.5	44.5992674	-123.1185135
+"219"	"Fall"	"linn"	"Talking Water Gardens"	134388	133	168	799.928571428571	7	1	92	1.5	44.6444396	-123.0718371
+"220"	"Fall"	"linn"	"William L. Finley NWR--Snag Boat Bend Wildlife Area"	7336	110	30	244.533333333333	24	2	74	10	44.4257811	-123.2115311
+"221"	"Fall"	"malheur"	"Antelope Reservoir"	2984	69	13	229.538461538462	9	3	88	5	42.9043251	-117.2354507
+"222"	"Fall"	"malheur"	"Beck-Kiwanis Park"	3249	56	19	171	11	6	83	8	44.0374113	-116.9688606
+"223"	"Fall"	"malheur"	"Beulah Reservoir"	7811	74	11	710.090909090909	5	2	93	3	43.9293696	-118.1549978
+"224"	"Fall"	"malheur"	"Bully Creek Reservoir"	10031	79	10	1003.1	3	1	96	1	44.0305928	-117.4175835
+"225"	"Fall"	"malheur"	"Juntura (town)"	1243	45	7	177.571428571429	10	8.5	81.5	9	43.7466536	-118.0804334
+"226"	"Fall"	"malheur"	"Malheur Reservoir"	5736	63	7	819.428571428571	4	5	91	4	44.3628877	-117.6931
+"227"	"Fall"	"malheur"	"Ontario Sewage Ponds (restricted access)"	15927	64	7	2275.28571428571	1	4	95	2	44.0417458	-117.0024526
+"228"	"Fall"	"malheur"	"Pole Creek Reservoir"	3081	45	5	616.2	6	8.5	85.5	7	44.2523497	-117.56001
+"229"	"Fall"	"malheur"	"Vale (town)"	691	29	3	230.333333333333	8	15.5	76.5	10	43.9829574	-117.2431259
+"230"	"Fall"	"malheur"	"Vale Waste Treatment Plant (restricted access)"	2309	38	2	1154.5	2	12	86	6	43.987551	-117.226334
+"231"	"Fall"	"marion"	"Ankeny NWR"	243259	151	125	1946.072	2	2	96	1.5	44.7842	-123.0767
+"232"	"Fall"	"marion"	"Ankeny NWR--Eagle Marsh"	404751	146	369	1096.88617886179	6	3	91	3	44.7967032	-123.0813789
+"233"	"Fall"	"marion"	"Ankeny NWR--Pintail Marsh"	688052	160	407	1690.54545454545	3	1	96	1.5	44.7762488	-123.0898891
+"234"	"Fall"	"marion"	"Cascade Hwy. ponds (west of Oregon Garden fence)"	10410	87	1	10410	1	17	82	5	44.9953515	-122.7959812
+"235"	"Fall"	"marion"	"Cascades Gateway City Park"	25562	95	40	639.05	13	11	76	9	44.9127602	-122.9909992
+"236"	"Fall"	"marion"	"Fairview Wetlands"	56052	100	38	1475.05263157895	4	7	89	4	44.895153	-123.004434
+"237"	"Fall"	"marion"	"Keizer Rapids Park"	22766	91	24	948.583333333333	8	14.5	77.5	7	44.990908	-123.057667
+"238"	"Fall"	"marion"	"Minto-Brown Island Park"	74695	137	135	553.296296296296	19	4	77	8	44.924703	-123.0618095
+"239"	"Fall"	"marion"	"Staats Lake"	44641	84	36	1240.02777777778	5	19.5	75.5	10	45.0055628	-123.0332708
+"240"	"Fall"	"marion"	"Willamette Mission SP"	32741	114	54	606.314814814815	16	6	78	6	45.0792786	-123.0459309
+"241"	"Fall"	"morrow"	"Boardman Marina and RV Park"	46513	105	60	775.216666666667	4	2	94	2.5	45.8446728	-119.7066665
+"242"	"Fall"	"morrow"	"Boardman Sewage Ponds"	7748	55	16	484.25	5	7	88	5	45.8474044	-119.6485174
+"243"	"Fall"	"morrow"	"Irrigon Marina Park"	10469	64	11	951.727272727273	3	5.5	91.5	4	45.9008315	-119.4925565
+"244"	"Fall"	"morrow"	"Irrigon Wildlife Viewing Area"	4517	53	14	322.642857142857	7	8	85	7	45.9056513	-119.4445395
+"245"	"Fall"	"morrow"	"Paterson Ferry Rd."	1817	35	4	454.25	6	10	84	8	45.9156773	-119.5584154
+"246"	"Fall"	"morrow"	"Quesna County Park"	3464	64	25	138.56	11	5.5	83.5	9	45.8115652	-119.9683642
+"247"	"Fall"	"morrow"	"Threemile Canyon Road and Ponds"	2096	47	9	232.888888888889	8	9	83	10	45.801623	-119.953362
+"248"	"Fall"	"morrow"	"Umatilla NWR (Oregon)"	191883	122	44	4360.97727272727	1	1	98	1	45.9049415	-119.5731354
+"249"	"Fall"	"morrow"	"Umatilla NWR--McCormack Slough"	15073	65	15	1004.86666666667	2	4	94	2.5	45.8918422	-119.5853019
+"250"	"Fall"	"morrow"	"Willow Creek Reservoir (Morrow Co.)"	2067	71	14	147.642857142857	10	3	87	6	45.3427134	-119.5435904
+"251"	"Fall"	"multnomah"	"Delta Park West--Columbia Slough Trail"	103923	123	22	4723.77272727273	2	19	79	3	45.5952502	-122.7029564
+"252"	"Fall"	"multnomah"	"Heron Lakes Golf Club"	77755	102	38	2046.18421052632	7	31	62	10	45.604677	-122.7018804
+"253"	"Fall"	"multnomah"	"Heron Lakes Golf Club--Force Lake"	341375	158	399	855.576441102757	33	3	64	8.5	45.604911	-122.6953554
+"254"	"Fall"	"multnomah"	"Sauvie Island (Multnomah Co.)"	484010	160	142	3408.52112676056	3	2	95	1	45.6630067	-122.8092957
+"255"	"Fall"	"multnomah"	"Sauvie Island--NW Oak Island Rd."	211055	121	105	2010.04761904762	9	21	70	6	45.6988121	-122.8357109
+"256"	"Fall"	"multnomah"	"Sauvie Island--Oak Island (Multnomah Co.)"	115182	137	82	1404.65853658537	16	10	74	4	45.7144802	-122.8207541
+"257"	"Fall"	"multnomah"	"Sauvie Island--Raccoon Point"	413089	130	264	1564.73106060606	15	14	71	5	45.6916122	-122.8055191
+"258"	"Fall"	"multnomah"	"Sauvie Island--Sturgeon Lake J2 Viewpoint"	76549	101	25	3061.96	4	32	64	8.5	45.72045	-122.791618
+"259"	"Fall"	"multnomah"	"Smith and Bybee Lakes Wetlands Natural Area"	270995	156	112	2419.59821428571	6	4	90	2	45.6203	-122.7456
+"260"	"Fall"	"multnomah"	"Vanport Wetlands"	124851	140	123	1015.0487804878	22	8.5	69.5	7	45.598966	-122.6880813
+"261"	"Fall"	"polk"	"Baskett Slough NWR"	227247	139	159	1429.22641509434	2	1	97	1	44.9614021	-123.257246
+"262"	"Fall"	"polk"	"Baskett Slough NWR--Coville Rd."	63939	95	71	900.549295774648	8	7	85	5	44.9623003	-123.2454142
+"263"	"Fall"	"polk"	"Baskett Slough NWR--Hwy 22 Overlook"	92603	60	68	1361.80882352941	3	23	74	9.5	44.9524592	-123.2691262
+"264"	"Fall"	"polk"	"Baskett Slough NWR--Smithfield Rd."	32684	100	51	640.862745098039	12	6	82	7	44.9835216	-123.2574606
+"265"	"Fall"	"polk"	"Baskett Slough NWR--The Narrows and Cottonwood Pond"	144249	105	125	1153.992	4	4	92	2	44.9592377	-123.2700262
+"266"	"Fall"	"polk"	"Farmer Rd."	24744	83	41	603.512195121951	14	12	74	9.5	44.9689481	-123.205694
+"267"	"Fall"	"polk"	"Fishback Hill"	9143	78	8	1142.875	5	16	79	8	44.8382822	-123.2991743
+"268"	"Fall"	"polk"	"Livermore Rd."	127893	123	141	907.042553191489	7	2	91	3	45.0097499	-123.2535124
+"269"	"Fall"	"polk"	"Monmouth Sewage Ponds (restricted access)"	38579	111	46	838.673913043478	9	3	88	4	44.8570857	-123.2194376
+"270"	"Fall"	"polk"	"Salemtowne Retirement Community Campus"	19288	87	18	1071.55555555556	6	10	84	6	44.9770562	-123.068338
+"271"	"Fall"	"sherman"	"Biggs Grain Elevators"	11355	50	26	436.730769230769	2	8	90	4.5	45.6693047	-120.8430004
+"272"	"Fall"	"sherman"	"Biggs--Rufus Frontage Rd. Ponds"	2494	67	31	80.4516129032258	9	6	85	8	45.6813591	-120.7830334
+"273"	"Fall"	"sherman"	"Cottonwood Canyon SP (Sherman Co.)"	2227	81	35	63.6285714285714	10	3	87	6	45.4783087	-120.4681778
+"274"	"Fall"	"sherman"	"Cottonwood Canyon SP--Lone Tree Campground"	869	64	22	39.5	13	7	80	10	45.4828524	-120.4626095
+"275"	"Fall"	"sherman"	"Deschutes River State Recreation Area"	46280	152	185	250.162162162162	3	1	96	2	45.6306103	-120.9078884
+"276"	"Fall"	"sherman"	"John Day Dam--Boat Ramp"	6354	80	37	171.72972972973	6	4	90	4.5	45.7040964	-120.7229555
+"277"	"Fall"	"sherman"	"John Day Dam--Spillway Area"	56564	106	82	689.80487804878	1	2	97	1	45.7101351	-120.6945992
+"278"	"Fall"	"sherman"	"Macks Canyon"	627	45	3	209	5	9	86	7	45.388957	-120.8755195
+"279"	"Fall"	"sherman"	"Rockbeach Ln."	5241	70	25	209.64	4	5	91	3	45.6944531	-120.7452607
+"280"	"Fall"	"sherman"	"Rufus Sewage Ponds (restricted access)"	1362	38	16	85.125	8	10	82	9	45.691884	-120.745356
+"281"	"Fall"	"tillamook"	"Bayocean Spit"	40141	156	61	658.049180327869	14	3	83	2.5	45.553569	-123.9435911
+"282"	"Fall"	"tillamook"	"Bayocean Spit--bay (east) side"	255883	175	232	1102.94396551724	4	2	94	1	45.5217439	-123.9484406
+"283"	"Fall"	"tillamook"	"Cape Meares SP--Lighthouse"	90877	108	102	890.950980392157	7	21	72	10	45.4864324	-123.9774492
+"284"	"Fall"	"tillamook"	"Goose Point"	25972	104	16	1623.25	1	23.5	75.5	8	45.5085881	-123.8872687
+"285"	"Fall"	"tillamook"	"Kilchis Point Reserve"	72171	135	87	829.551724137931	10	11	79	5	45.50958	-123.8802052
+"286"	"Fall"	"tillamook"	"Manzanita"	11493	145	17	676.058823529412	13	7.5	79.5	4	45.7174277	-123.9336348
+"287"	"Fall"	"tillamook"	"Nehalem Meadows"	38270	130	46	831.95652173913	9	13	78	7	45.7148777	-123.8854755
+"288"	"Fall"	"tillamook"	"Nehalem Sewage Ponds"	90164	142	106	850.603773584906	8	9	83	2.5	45.7161882	-123.8876724
+"289"	"Fall"	"tillamook"	"Tillamook Bay"	41604	113	31	1342.06451612903	3	18.5	78.5	6	45.5106777	-123.9123917
+"290"	"Fall"	"tillamook"	"Tillamook Bay--Fenk Rd."	67348	128	95	708.926315789474	12	15	73	9	45.4604994	-123.8715899
+"291"	"Fall"	"umatilla"	"Cold Springs NWR"	382850	145	85	4504.11764705882	1	1	98	1	45.8502011	-119.1532407
+"292"	"Fall"	"umatilla"	"Cold Springs NWR--Memorial Marsh Unit"	8710	33	4	2177.5	3	17.5	79.5	9	45.849478	-119.141444
+"293"	"Fall"	"umatilla"	"Hat Rock SP"	26436	101	43	614.790697674419	9	6	85	6.5	45.9162882	-119.1631222
+"294"	"Fall"	"umatilla"	"McNary Beach Recreation Area"	28963	82	56	517.196428571429	13	8	79	10	45.9304264	-119.2723846
+"295"	"Fall"	"umatilla"	"McNary Dam (OR)"	34339	112	61	562.934426229508	11	4	85	6.5	45.932289	-119.3023288
+"296"	"Fall"	"umatilla"	"McNary Dam--Nature Trail"	63329	124	56	1130.875	7	3	90	3.5	45.9284683	-119.3115234
+"297"	"Fall"	"umatilla"	"McNary Wildlife Nature Area"	92650	135	80	1158.125	6	2	92	2	45.9286872	-119.3130684
+"298"	"Fall"	"umatilla"	"Sand Station Recreation Area"	13892	59	19	731.157894736842	8	11.5	80.5	8	45.9223304	-119.1188014
+"299"	"Fall"	"umatilla"	"Umatilla Marina Park"	77732	81	26	2989.69230769231	2	9	89	5	45.9239464	-119.3308032
+"300"	"Fall"	"umatilla"	"Warehouse Beach Recreation Area"	36402	110	31	1174.25806451613	5	5	90	3.5	45.9212418	-119.1412541
+"301"	"Fall"	"union"	"Cattle Lake"	2565	62	11	233.181818181818	10	10.5	79.5	9	45.1172335	-117.8359075
+"302"	"Fall"	"union"	"La Grande Sewage Ponds"	431798	147	80	5397.475	1	1	98	1	45.2869651	-118.0295563
+"303"	"Fall"	"union"	"Ladd Marsh WMA"	2895	71	23	125.869565217391	14	7	79	10	45.2585762	-118.0359077
+"304"	"Fall"	"union"	"Ladd Marsh WMA--Foothill Rd. overlook"	6909	49	16	431.8125	5	13	82	7.5	45.2644287	-118.0429535
+"305"	"Fall"	"union"	"Ladd Marsh WMA--Schoolhouse Pond"	4125	86	14	294.642857142857	7	4	89	5	45.270481	-117.9520051
+"306"	"Fall"	"union"	"Morgan Lake"	13304	125	34	391.294117647059	6	3	91	3.5	45.2999306	-118.1369305
+"307"	"Fall"	"union"	"Rhinehart Canyon"	3167	79	20	158.35	12	6	82	7.5	45.5152488	-117.9260445
+"308"	"Fall"	"union"	"Thief Valley Reservoir (Union Co.)"	55340	145	24	2305.83333333333	2	2	96	2	45.0229344	-117.785368
+"309"	"Fall"	"union"	"Union Co. Fairgrounds Pond"	10078	85	23	438.173913043478	4	5	91	3.5	45.3455884	-118.1084073
+"310"	"Fall"	"union"	"Wolf Creek Reservoir"	2354	67	8	294.25	8	8	84	6	45.0572407	-118.0249023
+"311"	"Fall"	"wallowa"	"Eggleson Ln."	1160	35	4	290	5	18	77	9	45.396661	-117.248381
+"312"	"Fall"	"wallowa"	"Enterprise WMA"	7429	80	31	239.645161290323	6	2	92	2	45.4193591	-117.3054886
+"313"	"Fall"	"wallowa"	"Joseph (town)"	5230	56	23	227.391304347826	7	5	88	4	45.3516627	-117.228241
+"314"	"Fall"	"wallowa"	"Joseph Sewage Ponds (restricted access)"	7109	49	22	323.136363636364	2	9	89	3	45.3730226	-117.2189293
+"315"	"Fall"	"wallowa"	"Kinney Lake"	2354	65	20	117.7	14	4	82	6	45.3140722	-117.1021342
+"316"	"Fall"	"wallowa"	"Pete's Pond"	6860	52	36	190.555555555556	8	7	85	5	45.4207146	-117.2839022
+"317"	"Fall"	"wallowa"	"Wallowa Lake"	20793	81	33	630.090909090909	1	1	98	1	45.3095041	-117.2080326
+"318"	"Fall"	"wallowa"	"Wallowa Lake SP"	5048	74	44	114.727272727273	16	3	81	7	45.2814092	-117.2131348
+"319"	"Fall"	"wallowa"	"Wallowa Lake SP--East Moraine trail"	1094	41	7	156.285714285714	11	12	77	9	45.301669	-117.192571
+"320"	"Fall"	"wallowa"	"Wallowa Lake--Dam"	2656	50	23	115.478260869565	15	8	77	9	45.3343905	-117.2186728
+"321"	"Fall"	"wasco"	"Celilo Park"	13410	77	54	248.333333333333	8	11	81	8	45.6506425	-120.9610949
+"322"	"Fall"	"wasco"	"Clear Lake (Wasco Co.)"	5496	74	28	196.285714285714	9	12	79	10	45.1810689	-121.6965866
+"323"	"Fall"	"wasco"	"Deschutes River SRA--Heritage Landing"	8509	102	63	135.063492063492	11	3	86	6	45.6308454	-120.9144974
+"324"	"Fall"	"wasco"	"Lone Pine Island viewpoint (restricted access)"	39560	91	73	541.917808219178	4	4	92	3	45.606073	-121.139799
+"325"	"Fall"	"wasco"	"Mayer SP"	38165	108	58	658.01724137931	1	2	97	1.5	45.682518	-121.286896
+"326"	"Fall"	"wasco"	"Pine Hollow Reservoir"	5473	83	18	304.055555555556	6	7	87	5	45.2483193	-121.2897937
+"327"	"Fall"	"wasco"	"Price Rd. wetlands"	3731	82	15	248.733333333333	7	8	85	7	45.24208	-121.2697506
+"328"	"Fall"	"wasco"	"Seufert County Park"	8687	78	51	170.333333333333	10	10	80	9	45.6104016	-121.127218
+"329"	"Fall"	"wasco"	"The Dalles Riverfront Park"	68360	129	116	589.310344827586	2	1	97	1.5	45.6000709	-121.1664104
+"330"	"Fall"	"wasco"	"The Dalles Riverfront Trail--Taylor Lake to Bargeway"	4414	87	13	339.538461538462	5	6	89	4	45.633392	-121.207058
+"331"	"Fall"	"washington"	"Commonwealth Lake Park"	206040	136	232	888.103448275862	22	8	70	10	45.5119108	-122.8098106
+"332"	"Fall"	"washington"	"Fernhill Wetlands (general)"	2599444	177	515	5047.4640776699	2	1	97	1	45.5064875	-123.0851855
+"333"	"Fall"	"washington"	"Fernhill Wetlands--Natural Treatment System (ASoP/CWS survey)"	402297	145	138	2915.19565217391	7	7	86	5	45.507174	-123.0879879
+"334"	"Fall"	"washington"	"Fernhill Wetlands--area outside of NTS (ASoP/CWS survey)"	188960	133	34	5557.64705882353	1	9	90	3	45.5067529	-123.0825162
+"335"	"Fall"	"washington"	"Henry Hagg Lake Park (Scoggins Valley Park)"	112833	155	91	1239.92307692308	15	3	82	6	45.473855	-123.2135582
+"336"	"Fall"	"washington"	"Jackson Bottom Wetlands Preserve"	316953	155	201	1576.88059701493	10	3	87	4	45.505	-122.9889
+"337"	"Fall"	"washington"	"Killin Wetlands"	71754	102	54	1328.77777777778	12	13	75	8	45.6166752	-123.162092
+"338"	"Fall"	"washington"	"Koll Center Wetlands"	369173	146	283	1304.49823321555	13	5.5	81.5	7	45.4562776	-122.7911854
+"339"	"Fall"	"washington"	"Tualatin River NWR"	259858	146	286	908.594405594406	21	5.5	73.5	9	45.3811203	-122.8353667
+"340"	"Fall"	"washington"	"Tualatin River NWR--Atfálat'i Unit"	955872	155	267	3580.04494382022	5	3	92	2	45.3817834	-122.8312254
+"341"	"Fall"	"wheeler"	"Bear Hollow County Park"	711	47	18	39.5	14	2	84	6.5	44.9357501	-120.1232243
+"342"	"Fall"	"wheeler"	"Bridge Creek Rd.--farm pond (restricted access)"	426	26	2	213	1	8.5	90.5	5	44.676904	-120.270807
+"343"	"Fall"	"wheeler"	"Clarno BLM Boat Ramp"	335	27	7	47.8571428571429	11	7	82	8.5	44.9161887	-120.4692091
+"344"	"Fall"	"wheeler"	"Fopiano Reservoir"	1171	41	13	90.0769230769231	3	3	94	1	44.5869421	-119.9449925
+"345"	"Fall"	"wheeler"	"Fossil (town)"	718	22	11	65.2727272727273	9	13	78	10	44.9980464	-120.2151403
+"346"	"Fall"	"wheeler"	"Fossil Sewage Ponds"	430	32	8	53.75	10	6	84	6.5	45.0011188	-120.2275895
+"347"	"Fall"	"wheeler"	"Fossil Sewage Ponds-farm pond"	1076	38	13	82.7692307692308	4	5	91	3.5	45.0088659	-120.2345227
+"348"	"Fall"	"wheeler"	"John Day Fossil Beds NM--Painted Hills Picnic Area"	1033	50	15	68.8666666666667	7	1	92	2	44.6540559	-120.2517852
+"349"	"Fall"	"wheeler"	"Mitchell (town)"	1180	40	16	73.75	5	4	91	3.5	44.5667051	-120.1539474
+"350"	"Fall"	"wheeler"	"Spray (town)"	549	24	8	68.625	8	10	82	8.5	44.8316265	-119.793025
+"351"	"Fall"	"yamhill"	"Dayton Sewage Ponds (restricted access)"	3374	35	5	674.8	4	20.5	75.5	10	45.225195	-123.069464
+"352"	"Fall"	"yamhill"	"Grand Island Driving Loop"	7950	71	6	1325	2	5	93	2.5	45.1259174	-123.0373917
+"353"	"Fall"	"yamhill"	"Huddleston Fish Pond"	16537	110	66	250.560606060606	15	3	82	6.5	45.0800143	-123.476364
+"354"	"Fall"	"yamhill"	"Maud Williamson State Recreation Site"	5341	67	15	356.066666666667	12	6	82	6.5	45.0975185	-123.0682468
+"355"	"Fall"	"yamhill"	"Newberg City Water Treatment Ponds (restricted access)"	10920	61	17	642.352941176471	5	7	88	4.5	45.2832733	-122.9564166
+"356"	"Fall"	"yamhill"	"Sheridan South Side Park and Fishing Pond"	27635	116	70	394.785714285714	10	2	88	4.5	45.087649	-123.391419
+"357"	"Fall"	"yamhill"	"Sheridan WTP Ponds (restricted access)"	83202	117	49	1698	1	1	98	1	45.0875812	-123.3833313
+"358"	"Fall"	"yamhill"	"Wennerberg Park"	2948	53	5	589.6	6	13	81	8	45.2917566	-123.1871538
+"359"	"Fall"	"yamhill"	"Willamette Greenway--Grand Island Access"	2651	58	8	331.375	13	11	76	9	45.104299	-123.021792
+"360"	"Fall"	"yamhill"	"Yamhill Sewage Ponds (restricted access)"	21847	86	21	1040.33333333333	3	4	93	2.5	45.337617	-123.1891394
+"361"	"Spring"	"baker"	"Baker Sewage Treatment Ponds (restricted access)"	10609	77	13	816.076923076923	1	7	92	3	44.8135987	-117.8437478
+"362"	"Spring"	"baker"	"Bob's Lake"	6815	78	43	158.488372093023	6	6	88	6	44.8375823	-117.8182411
+"363"	"Spring"	"baker"	"Coral Ditch"	21990	113	62	354.677419354839	2	3	95	1	44.7987496	-117.8081346
+"364"	"Spring"	"baker"	"Eagle Valley Cemetery"	458	48	2	229	3	20.5	76.5	8	44.752444	-117.167758
+"365"	"Spring"	"baker"	"Farewell Bend SP"	14810	136	100	148.1	7	1	92	3	44.3059155	-117.2263527
+"366"	"Spring"	"baker"	"Hewitt Park"	621	60	7	88.7142857142857	14	12	74	9	44.7566797	-117.126859
+"367"	"Spring"	"baker"	"Murray Reservoir"	1073	64	15	71.5333333333333	16	11	73	10	44.3513197	-118.1040359
+"368"	"Spring"	"baker"	"North Powder Pond"	5748	129	40	143.7	8	2	90	5	45.013214	-117.930166
+"369"	"Spring"	"baker"	"Social Security Point"	2800	96	23	121.739130434783	10	5	85	7	44.6930351	-118.0475304
+"370"	"Spring"	"baker"	"Unity Lake SP--Reservoir"	4660	101	26	179.230769230769	4	4	92	3	44.5025468	-118.1909695
+"371"	"Spring"	"benton"	"Marys River Mitigation Bank wetland"	172319	155	75	2297.58666666667	3	7	90	3	44.5208411	-123.3378038
+"372"	"Spring"	"benton"	"Philomath Sewage Ponds (restricted access)"	971523	206	319	3045.52664576802	2	1	97	1	44.5185755	-123.3444586
+"373"	"Spring"	"benton"	"Willamette Park (Benton Co.)"	267417	174	210	1273.41428571429	5	4.5	90.5	2	44.5410582	-123.2462597
+"374"	"Spring"	"benton"	"Willamette Park--South Side"	91395	150	104	878.798076923077	10	9	81	5	44.5373738	-123.2487487
+"375"	"Spring"	"benton"	"William L. Finley NWR"	119406	189	234	510.282051282051	19	2	79	7	44.4215209	-123.3151817
+"376"	"Spring"	"benton"	"William L. Finley NWR--Bruce Rd."	60956	158	106	575.056603773585	15	6	79	7	44.3895666	-123.3003867
+"377"	"Spring"	"benton"	"William L. Finley NWR--Cabell Marsh"	111053	176	211	526.317535545024	18	3	79	7	44.4152525	-123.319205
+"378"	"Spring"	"benton"	"William L. Finley NWR--Cheadle Marsh"	38177	137	38	1004.65789473684	8	14	78	9	44.3954315	-123.3006334
+"379"	"Spring"	"benton"	"William L. Finley NWR--McFadden Marsh"	233034	174	237	983.26582278481	9	4.5	86.5	4	44.3907013	-123.2976294
+"380"	"Spring"	"benton"	"William L. Finley NWR--Scrape Pond"	187571	119	122	1537.46721311475	4	26	70	10	44.3898196	-123.3121777
+"381"	"Spring"	"clackamas"	"Anderson Rd. Swale"	43106	121	54	798.259259259259	2	3.5	94.5	1	45.240578	-122.746159
+"382"	"Spring"	"clackamas"	"Blount Swale overlook (restricted access)"	54493	113	61	893.327868852459	1	7	92	3	45.2639938	-122.6556319
+"383"	"Spring"	"clackamas"	"Boardman Wetlands (NCPRD)"	16922	107	49	345.34693877551	11	11	78	8	45.393645	-122.612836
+"384"	"Spring"	"clackamas"	"Brown's Ferry Park"	31425	133	103	305.097087378641	15	1	84	6	45.3830796	-122.7380133
+"385"	"Spring"	"clackamas"	"Canby Logging Trail"	12248	102	25	489.92	8	15	77	9	45.2926411	-122.6840687
+"386"	"Spring"	"clackamas"	"Canemah Bluff"	22975	120	102	225.245098039216	20	5	75	10	45.3417652	-122.6310325
+"387"	"Spring"	"clackamas"	"Coffee Lake Creek Wetlands"	12064	118	36	335.111111111111	12	6	82	7	45.3261707	-122.7853317
+"388"	"Spring"	"clackamas"	"Ivor Davies Park"	30398	121	74	410.783783783784	9	3.5	87.5	4	45.136353	-122.570065
+"389"	"Spring"	"clackamas"	"River Island Natural Area--North Unit"	3330	108	5	666	3	10	87	5	45.377883	-122.3986139
+"390"	"Spring"	"clackamas"	"River Island Natural Area--South Unit"	43877	132	67	654.880597014925	5	2	93	2	45.371773	-122.405607
+"391"	"Spring"	"clatsop"	"Brownsmead area"	20711	133	38	545.026315789474	8	9	83	5.5	46.2151793	-123.5395432
+"392"	"Spring"	"clatsop"	"Cannon Beach"	187888	170	323	581.696594427245	6	1	93	1	45.888186	-123.9646626
+"393"	"Spring"	"clatsop"	"Cannon Beach Settling Ponds"	62149	156	280	221.960714285714	24	3.5	72.5	10	45.8972364	-123.9574099
+"394"	"Spring"	"clatsop"	"Del Rey Beach"	44059	114	50	881.18	2	15	83	5.5	46.0480643	-123.9319825
+"395"	"Spring"	"clatsop"	"East Sand Island"	422135	105	5	84427	1	23	76	9	46.2622559	-123.9717007
+"396"	"Spring"	"clatsop"	"Ecola SP"	92772	121	173	536.254335260116	9	11	80	7	45.9183632	-123.9774513
+"397"	"Spring"	"clatsop"	"Fort Stevens SP--Parking Area D"	99560	157	204	488.039215686275	11	2	87	4	46.2265811	-123.9901543
+"398"	"Spring"	"clatsop"	"Haystack Rock"	584539	146	851	686.884841363102	4	6	90	3	45.8847357	-123.9683104
+"399"	"Spring"	"clatsop"	"Sunset Beach Recreation Area"	29213	144	82	356.256097560976	15	8	77	8	46.1011393	-123.9375036
+"400"	"Spring"	"clatsop"	"Wireless Rd."	85794	154	120	714.95	3	5	92	2	46.1602748	-123.8265181
+"401"	"Spring"	"columbia"	"Crown Zellerbach Trail (east end)"	73857	150	164	450.34756097561	13	2	85	5	45.754063	-122.850469
+"402"	"Spring"	"columbia"	"Dalton Lake"	10598	127	16	662.375	8	7.5	84.5	6	45.8788977	-122.8071605
+"403"	"Spring"	"columbia"	"Marshland Bottoms"	10874	117	17	639.647058823529	9	10	81	9.5	46.1190902	-123.281343
+"404"	"Spring"	"columbia"	"Sauvie Island (Columbia Co.)"	18634	142	31	601.096774193548	10	4	86	4	45.763691	-122.7948761
+"405"	"Spring"	"columbia"	"Sauvie Island--ODFW farmland (ASOP survey)"	24788	113	30	826.266666666667	5	11	84	7	45.764761	-122.784444
+"406"	"Spring"	"columbia"	"Sauvie Island--Oak Island (Columbia Co.)"	48103	149	115	418.286956521739	15	3	82	8	45.7248172	-122.8184795
+"407"	"Spring"	"columbia"	"Sauvie Island--Reeder Rd. Observation Shelter"	123247	131	161	765.509316770186	7	6	87	3	45.73246	-122.7739978
+"408"	"Spring"	"columbia"	"Sauvie Island--Rentenaar Rd."	340005	157	173	1965.34682080925	1	1	98	1	45.7574596	-122.776551
+"409"	"Spring"	"columbia"	"Sauvie Island--The Narrows"	19283	105	20	964.15	3	16	81	9.5	45.7336245	-122.8162479
+"410"	"Spring"	"columbia"	"Scappoose Bottoms"	40363	141	34	1187.14705882353	2	5	93	2	45.779824	-122.824323
+"411"	"Spring"	"coos"	"Bandon Marsh NWR--Observation Deck"	60454	127	94	643.127659574468	13	7	80	8	43.130861	-124.4013423
+"412"	"Spring"	"coos"	"Bradley Lake"	9446	108	4	2361.5	4	14	82	6	43.0658468	-124.4267299
+"413"	"Spring"	"coos"	"Coquille Valley Wildlife Area"	43141	143	24	1797.54166666667	7	6	87	3	43.2160479	-124.2587955
+"414"	"Spring"	"coos"	"Face Rock Wayside"	287210	106	119	2413.52941176471	3	15	82	6	43.1049466	-124.4348216
+"415"	"Spring"	"coos"	"Kronenberg County Park--Coquille Point"	188832	112	94	2008.85106382979	6	12	82	6	43.1147	-124.4353
+"416"	"Spring"	"coos"	"Lower Fourmile Trail"	111249	145	22	5056.77272727273	1	4	95	1	43.0110766	-124.4479018
+"417"	"Spring"	"coos"	"Millicoma Marsh"	31351	163	48	653.145833333333	12	2	86	4	43.3682768	-124.1908908
+"418"	"Spring"	"coos"	"New River Area of Critical Environmental Concern"	23756	144	49	484.816326530612	17	5	78	9	42.996424	-124.4563866
+"419"	"Spring"	"coos"	"North Spit--old Weyco Settling Pond & deflation plain"	27697	180	42	659.452380952381	11	1	88	2	43.4210895	-124.2850935
+"420"	"Spring"	"coos"	"Oregon Islands NWR--Table Rock Overlook"	164538	93	54	3047	2	24	74	10	43.1161121	-124.4333861
+"421"	"Spring"	"crook"	"Crooked River Canyon Hwy."	3695	86	33	111.969696969697	21	9	70	9	44.1487964	-120.8256661
+"422"	"Spring"	"crook"	"Crooked River Park"	9186	117	40	229.65	12	3	85	5	44.2893883	-120.8439617
+"423"	"Spring"	"crook"	"Crooked River Wetlands Complex"	291091	174	324	898.429012345679	3	1	96	2	44.3165109	-120.897857
+"424"	"Spring"	"crook"	"Gutierrez Ranch (restricted access)"	4310	67	3	1436.66666666667	2	17	81	6.5	44.1625922	-120.0912952
+"425"	"Spring"	"crook"	"Houston Lakes"	98078	146	66	1486.0303030303	1	2	97	1	44.2941213	-120.9893417
+"426"	"Spring"	"crook"	"Mud Springs Horse Camp Campground"	737	58	2	368.5	7	24.5	68.5	10	44.302244	-119.662913
+"427"	"Spring"	"crook"	"Ochoco Reservoir"	12286	113	46	267.086956521739	10	4	86	4	44.3066526	-120.6975174
+"428"	"Spring"	"crook"	"Prineville Reservoir State Park"	2504	94	21	119.238095238095	19	6	75	8	44.1322645	-120.7262707
+"429"	"Spring"	"crook"	"Prineville Sewage Ponds (closed to the public as of 6/9/21)"	26097	106	48	543.6875	6	5	89	3	44.3067524	-120.8712494
+"430"	"Spring"	"crook"	"Prineville Sewage Ponds New (closed to the public as of 6/9/21)"	6477	81	18	359.833333333333	9	10	81	6.5	44.3182601	-120.888319
+"431"	"Spring"	"curry"	"Cape Blanco SP"	6770	114	54	125.37037037037	26	5	69	7	42.8363249	-124.5461655
+"432"	"Spring"	"curry"	"Cape Blanco SP--Lighthouse"	6527	64	22	296.681818181818	6	26.5	67.5	8	42.8367975	-124.5636991
+"433"	"Spring"	"curry"	"Chetco Pt."	40619	102	50	812.38	4	8	88	2	42.0443211	-124.2902613
+"434"	"Spring"	"curry"	"Chetco River--South Jetty"	6827	81	51	133.862745098039	22	16.5	61.5	10	42.0445123	-124.2695332
+"435"	"Spring"	"curry"	"Floras Lake"	67471	137	35	1927.74285714286	1	2	97	1	42.9038274	-124.5049667
+"436"	"Spring"	"curry"	"Floras Lake--Boice-Cope Co. Park"	6788	140	35	193.942857142857	12	1	87	3	42.9017474	-124.5022202
+"437"	"Spring"	"curry"	"Fort Point"	5732	70	19	301.684210526316	5	23	72	5	42.7415233	-124.4946885
+"438"	"Spring"	"curry"	"Gold Beach--Marina"	5171	99	40	129.275	25	9.5	65.5	9	42.4230764	-124.4195652
+"439"	"Spring"	"curry"	"Harris Beach SP"	15625	127	73	214.041095890411	11	3	86	4	42.068482	-124.3106461
+"440"	"Spring"	"curry"	"Harris Beach SP--Day Use Area"	9896	99	72	137.444444444444	21	9.5	69.5	6	42.0682032	-124.3147445
+"441"	"Spring"	"deschutes"	"Awbrey Meadows"	17886	104	5	3577.2	1	32	67	8	44.094724	-121.341221
+"442"	"Spring"	"deschutes"	"Deschutes River Trail--Old Mill (Mill A  and  Loggers Loops)"	32159	117	76	423.144736842105	13	19	68	6.5	44.045064	-121.316421
+"443"	"Spring"	"deschutes"	"Hatfield Lake"	569788	207	494	1153.41700404858	2	1	97	1	44.1232081	-121.198554
+"444"	"Spring"	"deschutes"	"La Pine SP"	20280	127	73	277.808219178082	21	14	65	10	43.7712471	-121.5413618
+"445"	"Spring"	"deschutes"	"Lower Bridge Way"	24484	136	101	242.415841584158	25	8.5	66.5	9	44.3598808	-121.2942982
+"446"	"Spring"	"deschutes"	"Redmond Sewage Ponds (restricted access)"	62007	157	90	688.966666666667	5	3	92	2	44.3352042	-121.2192706
+"447"	"Spring"	"deschutes"	"River Meadows (restricted access)"	7001	110	7	1000.14285714286	3	29	68	6.5	43.8249157	-121.4900945
+"448"	"Spring"	"deschutes"	"Ryan Meadow"	22442	148	66	340.030303030303	18	7	75	5	43.9518454	-121.4198899
+"449"	"Spring"	"deschutes"	"Sawyer Park"	100284	149	232	432.258620689655	12	6	82	3	44.0853521	-121.3105068
+"450"	"Spring"	"deschutes"	"Tumalo Reservoir"	42819	183	142	301.542253521127	20	2	78	4	44.1390787	-121.4178951
+"451"	"Spring"	"douglas"	"Fords Pond"	50971	166	121	421.247933884298	3	1	96	1	43.3913165	-123.363111
+"452"	"Spring"	"douglas"	"OC Brown County Park"	1411	71	6	235.166666666667	9	19	72	8	43.20659	-123.2299
+"453"	"Spring"	"douglas"	"Oregon Dunes Loop Trail"	6877	106	23	299	6	5	89	4	43.8364312	-124.1630495
+"454"	"Spring"	"douglas"	"Plat I Reservoir"	6875	111	43	159.883720930233	17	4	79	6	43.394346	-123.2522678
+"455"	"Spring"	"douglas"	"Stewart Park Wildlife Ponds & Nature Trail"	13722	115	53	258.905660377359	7	3	90	2.5	43.2276504	-123.3712292
+"456"	"Spring"	"douglas"	"Tahkenitch Creek Estuary"	4071	63	9	452.333333333333	2	28.5	69.5	10	43.7920417	-124.1710568
+"457"	"Spring"	"douglas"	"Tahkenitch Landing and Campground"	4084	97	18	226.888888888889	10	9	81	5	43.799787	-124.146764
+"458"	"Spring"	"douglas"	"Umpqua River--Salmon Harbor Marina"	6620	98	44	150.454545454545	18	8	74	7	43.6839497	-124.1812992
+"459"	"Spring"	"douglas"	"Umpqua River--South Jetty"	9267	103	24	386.125	4	6	90	2.5	43.6655123	-124.2117691
+"460"	"Spring"	"douglas"	"Wildlife Safari (restricted access)"	2286	88	13	175.846153846154	15	13.5	71.5	9	43.1429002	-123.4299911
+"461"	"Spring"	"gilliam"	"Arlington (town)"	4465	82	52	85.8653846153846	5	5	90	4	45.7193942	-120.2036047
+"462"	"Spring"	"gilliam"	"Condon Sewage Ponds (restricted access)"	9790	91	52	188.269230769231	2	2	96	2	45.2275954	-120.17736
+"463"	"Spring"	"gilliam"	"Cottonwood Canyon SP (Gilliam Co.)"	2846	84	57	49.9298245614035	11	3	86	7	45.4768042	-120.4663754
+"464"	"Spring"	"gilliam"	"Lonerock"	347	45	6	57.8333333333333	9	12	79	10	45.089218	-119.885803
+"465"	"Spring"	"gilliam"	"Lost Valley Rd.--valley and pine forest"	1391	83	16	86.9375	4	4	92	3	45.075741	-119.9704122
+"466"	"Spring"	"gilliam"	"Middle Rock Creek Ln."	783	56	13	60.2307692307692	8	8	84	8	45.5071098	-120.1809668
+"467"	"Spring"	"gilliam"	"Phillipi Canyon"	687	57	16	42.9375	12	7	81	9	45.6757999	-120.4921155
+"468"	"Spring"	"gilliam"	"Port of Arlington"	3585	49	29	123.620689655172	3	10	87	6	45.7229297	-120.2074885
+"469"	"Spring"	"gilliam"	"Trail Fork Rd."	709	58	9	78.7777777777778	6	6	88	5	45.1680353	-120.2029932
+"470"	"Spring"	"gilliam"	"Willow Creek Wildlife Area"	13115	147	57	230.087719298246	1	1	98	1	45.7826593	-120.0048959
+"471"	"Spring"	"grant"	"Bates SP"	993	83	21	47.2857142857143	22	4	74	9	44.5911668	-118.5129656
+"472"	"Spring"	"grant"	"Bobolink Lookout"	3435	72	32	107.34375	10	8	82	5	44.0656797	-118.9476442
+"473"	"Spring"	"grant"	"Bull Prairie Lake"	970	68	9	107.777777777778	9	11	80	6	44.974028	-119.6631718
+"474"	"Spring"	"grant"	"Clyde Holiday SP"	10425	116	90	115.833333333333	6	1	93	2	44.4155744	-119.0886211
+"475"	"Spring"	"grant"	"Davis Creek Park"	2676	99	24	111.5	8	3	89	4	44.4231916	-118.9642991
+"476"	"Spring"	"grant"	"Forest Conservation Area"	4741	107	12	395.083333333333	1	2	97	1	44.4573634	-118.6867458
+"477"	"Spring"	"grant"	"Logan Valley"	1082	77	15	72.1333333333333	16	5.5	78.5	8	44.1767812	-118.6400503
+"478"	"Spring"	"grant"	"Poison Creek Reservoir"	4478	77	26	172.230769230769	3	5.5	91.5	3	44.0136974	-118.9142078
+"479"	"Spring"	"grant"	"Scotty Creek Rd."	1120	50	4	280	2	19	79	7	44.1559207	-119.1063023
+"480"	"Spring"	"grant"	"Silvies Valley Ranch--Silvies Historic Schoolhouse"	1682	74	30	56.0666666666667	20	7	73	10	44.0320044	-118.9361966
+"481"	"Spring"	"harney"	"Burns Sewage Ponds (restricted access)"	230080	136	219	1050.59360730594	6	27	67	9	43.5672909	-119.0676928
+"482"	"Spring"	"harney"	"Greenhouse Ln."	244785	154	223	1097.69058295964	5	13	82	2.5	43.512015	-119.0786411
+"483"	"Spring"	"harney"	"Hotchkiss Ln."	439843	142	240	1832.67916666667	2	22	76	4	43.5568514	-119.0312433
+"484"	"Spring"	"harney"	"Hwy. 205--Burns to Malheur NWR"	66806	173	236	283.076271186441	22	9	69	7	43.5291357	-119.0210724
+"485"	"Spring"	"harney"	"Malheur NWR (general)"	55524	200	157	353.656050955414	16	2	82	2.5	43.2053426	-118.9297485
+"486"	"Spring"	"harney"	"Malheur NWR--Benson Pond"	122227	187	498	245.435742971888	27	5	68	8	42.9566738	-118.8657188
+"487"	"Spring"	"harney"	"Malheur NWR--Central Patrol Rd."	49125	175	208	236.177884615385	28	8	64	10	43.2024856	-118.8875628
+"488"	"Spring"	"harney"	"Malheur NWR--Central Patrol Rd.--Krumbo Reservoir Rd. to P Ranch"	112210	182	349	321.518624641834	19	7	74	5	42.8368515	-118.8856745
+"489"	"Spring"	"harney"	"Malheur NWR--Headquarters"	401458	252	1079	372.064874884152	14	1	85	1	43.2653681	-118.8433095
+"490"	"Spring"	"harney"	"Malheur NWR--Malheur Lake"	6017	149	15	401.133333333333	13	16.5	70.5	6	43.346653	-118.797226
+"491"	"Spring"	"hood river"	"Cascade Locks--Easy Climb Trail"	1853	78	6	308.833333333333	2	11	87	6	45.6845271	-121.8532002
+"492"	"Spring"	"hood river"	"Government Cove"	3634	109	30	121.133333333333	6	2	92	3	45.686396	-121.8430996
+"493"	"Spring"	"hood river"	"Historic Highway Trail (eastern Hood River Co.)"	2101	91	19	110.578947368421	7	4	89	4	45.699453	-121.475074
+"494"	"Spring"	"hood river"	"Hood River Mountain Trail"	1548	85	12	129	5	8	87	6	45.6744027	-121.463449
+"495"	"Spring"	"hood river"	"Hood River Spit"	1902	86	24	79.25	12	7	81	8	45.7141777	-121.5088555
+"496"	"Spring"	"hood river"	"Hood River mouth"	19093	144	132	144.643939393939	3	1	96	1	45.7152892	-121.5063858
+"497"	"Spring"	"hood river"	"Hood River--Powerdale Corridor"	2099	80	25	83.96	11	9.5	79.5	9	45.695734	-121.5082741
+"498"	"Spring"	"hood river"	"Hood River--The Hook"	9452	103	70	135.028571428571	4	3	93	2	45.717025	-121.525898
+"499"	"Spring"	"hood river"	"Indian Creek Trail--Arrowhead Ave. to Barrett Dr."	976	51	2	488	1	20	79	10	45.6899446	-121.5429876
+"500"	"Spring"	"hood river"	"Old Dalles Dr."	1299	88	14	92.7857142857143	8	5	87	6	45.6776273	-121.4781046
+"501"	"Spring"	"jackson"	"Agate Lake"	33521	171	127	263.944881889764	11	3	86	3	42.4099597	-122.7708006
+"502"	"Spring"	"jackson"	"Denman WMA--Ave. G and Ave. H ponds"	52310	175	168	311.369047619048	9	2	89	2	42.4395971	-122.8673269
+"503"	"Spring"	"jackson"	"Denman WMA--Hall Tract Unit"	14353	153	68	211.073529411765	19	5	76	6	42.4220019	-122.8581762
+"504"	"Spring"	"jackson"	"Denman WMA--Little Butte Creek Unit"	19586	149	48	408.041666666667	6	8.5	85.5	4	42.4512305	-122.8661935
+"505"	"Spring"	"jackson"	"Denman WMA--TouVelle Rd. and Interpretive Trail"	13072	149	71	184.112676056338	24	8.5	67.5	10	42.4452689	-122.8676797
+"506"	"Spring"	"jackson"	"Denman WMA--Whetstone Pond"	24310	163	133	182.781954887218	25	4	71	8	42.4181342	-122.8657722
+"507"	"Spring"	"jackson"	"Emigrant Lake--South Shore"	14804	151	68	217.705882352941	17	6.5	76.5	5	42.1337652	-122.6129258
+"508"	"Spring"	"jackson"	"Howard Prairie Circuit"	6822	148	34	200.647058823529	20	10	70	9	42.2136437	-122.3994541
+"509"	"Spring"	"jackson"	"RVM campus"	19694	114	20	984.7	3	22.5	74.5	7	42.307586	-122.838162
+"510"	"Spring"	"jackson"	"White City Lagoons (Kirtland Rd. Ponds)"	165869	178	216	767.912037037037	4	1	95	1	42.4336881	-122.9128075
+"511"	"Spring"	"jefferson"	"Alder Springs"	1510	87	25	60.4	26	8	66	7	44.4449332	-121.3461399
+"512"	"Spring"	"jefferson"	"Camp Sherman"	5507	115	106	51.9528301886792	33	2	65	8	44.4599389	-121.6432683
+"513"	"Spring"	"jefferson"	"Dark Lake"	5364	76	11	487.636363636364	2	14.5	83.5	3	44.405915	-121.755323
+"514"	"Spring"	"jefferson"	"Haystack Reservoir"	9482	125	46	206.130434782609	4	1	95	1	44.4978522	-121.1505318
+"515"	"Spring"	"jefferson"	"Mecca Flats"	830	70	11	75.4545454545455	20	16	64	9	44.7737252	-121.2081415
+"516"	"Spring"	"jefferson"	"Pelton Regulating Dam Wildlife Overlook"	6068	105	49	123.836734693878	8	5	87	2	44.7224039	-121.2435661
+"517"	"Spring"	"jefferson"	"Rimrock Springs WMA"	4478	107	63	71.0793650793651	23	3	74	6	44.4955258	-121.0514832
+"518"	"Spring"	"jefferson"	"Suttle Lake"	3396	106	69	49.2173913043478	35	4	61	10	44.4225937	-121.7367554
+"519"	"Spring"	"jefferson"	"Trout Creek Campground (Jefferson Co.)"	2026	89	25	81.04	18	6	76	5	44.8160444	-121.0948706
+"520"	"Spring"	"jefferson"	"Whiskey Springs"	7235	88	74	97.7702702702703	13	7	80	4	44.470222	-121.573111
+"521"	"Spring"	"josephine"	"Hellgate Canyon Viewpoint area"	2350	84	13	180.769230769231	9	10.5	80.5	7	42.546391	-123.5156509
+"522"	"Spring"	"josephine"	"I-5--Manzanita Rest Area"	11202	103	103	108.757281553398	16	5	79	8	42.5174155	-123.3620461
+"523"	"Spring"	"josephine"	"Lake Selmac"	12636	133	55	229.745454545455	5	2	93	3	42.2617532	-123.5779095
+"524"	"Spring"	"josephine"	"Pacifica Garden"	2537	102	25	101.48	17	6.5	76.5	9	42.2730987	-123.2603046
+"525"	"Spring"	"josephine"	"Provolt Pond"	5161	105	28	184.321428571429	7	4	89	4	42.288276	-123.2303596
+"526"	"Spring"	"josephine"	"Riverside Park (Josephine Co.)"	7104	89	37	192	6	9	85	5.5	42.428475	-123.328305
+"527"	"Spring"	"josephine"	"Rogue Lea Estates ponds"	4640	77	14	331.428571428571	3	12	85	5.5	42.429792	-123.3599854
+"528"	"Spring"	"josephine"	"Tussing Park/Reinhart Volunteer Park"	15361	120	42	365.738095238095	1	3	96	2	42.4285133	-123.3475668
+"529"	"Spring"	"josephine"	"Whitehorse County Park"	20689	142	61	339.16393442623	2	1	97	1	42.4371911	-123.4596434
+"530"	"Spring"	"josephine"	"Wildlife Images Rehabilitation and Education Center"	1325	74	8	165.625	11	13.5	75.5	10	42.4903381	-123.474403
+"531"	"Spring"	"klamath"	"Eagle Ridge/Shoalwater Bay"	18927	167	61	310.27868852459	26	6.5	67.5	10	42.3970939	-121.9592285
+"532"	"Spring"	"klamath"	"Klamath Wildlife Area--Miller Island Unit"	230547	177	199	1158.52763819095	11	3	86	2	42.1551736	-121.8082073
+"533"	"Spring"	"klamath"	"Lake Ewauna--North Shore Trail"	42166	143	7	6023.71428571429	1	11	88	1	42.2130695	-121.7754311
+"534"	"Spring"	"klamath"	"Link River Trail"	69357	172	130	533.515384615385	15	5	80	5	42.2278182	-121.7991543
+"535"	"Spring"	"klamath"	"Lower Klamath NWR (OR side)"	63258	136	41	1542.87804878049	9	12.5	78.5	6	42.013744	-121.7566509
+"536"	"Spring"	"klamath"	"Lower Klamath NWR--Straits Drain"	71749	111	39	1839.71794871795	6	24	70	9	42.0243992	-121.7778454
+"537"	"Spring"	"klamath"	"Oregon Drain"	151869	109	38	3996.55263157895	2	27.5	70.5	8	42.0243057	-121.8256073
+"538"	"Spring"	"klamath"	"Township Rd."	165457	121	47	3520.36170212766	4	21	75	7	42.0385842	-121.769886
+"539"	"Spring"	"klamath"	"Wingwatchers Lake Ewauna Nature Trail"	127179	167	92	1382.38043478261	10	6.5	83.5	4	42.2158372	-121.788817
+"540"	"Spring"	"klamath"	"Wood River Wetland"	141976	202	248	572.483870967742	14	1	85	3	42.5807466	-121.9327068
+"541"	"Spring"	"lake"	"Christmas Valley (town)"	18396	135	34	541.058823529412	4	6	90	2.5	43.2415347	-120.682394
+"542"	"Spring"	"lake"	"Goose Lake State Recreation Area (Oregon)"	25262	145	77	328.077922077922	12	4	84	4	41.9941909	-120.3235781
+"543"	"Spring"	"lake"	"Lake Abert"	17072	98	40	426.8	5	19	76	8	42.613	-120.2269
+"544"	"Spring"	"lake"	"Lakeview Settling Ponds"	14847	100	37	401.27027027027	6	17.5	76.5	7	42.1812624	-120.3649235
+"545"	"Spring"	"lake"	"Summer Lake"	17283	148	45	384.066666666667	7	3	90	2.5	42.825	-120.7456
+"546"	"Spring"	"lake"	"Summer Lake Wildlife Area"	716632	222	435	1647.42988505747	1	1	98	1	42.950819	-120.7639503
+"547"	"Spring"	"lake"	"Summer Lake Wildlife Area Headquarters"	41470	193	177	234.293785310734	17	2	81	5	42.9549463	-120.7868671
+"548"	"Spring"	"lake"	"Summer Lake Wildlife Area--Bullgate Dike"	8040	91	23	349.565217391304	10	24	66	10	42.931446	-120.74207
+"549"	"Spring"	"lake"	"Summer Lake Wildlife Area--East Link and Gull Island"	25292	100	31	815.870967741935	3	17.5	79.5	6	42.955722	-120.714412
+"550"	"Spring"	"lake"	"Summer Lake Wildlife Area--River Ranch Campground and The Barn"	4965	102	21	236.428571428571	16	15	69	9	42.960428	-120.726701
+"551"	"Spring"	"lane"	"Creswell Sewage Ponds (restricted access)"	17354	127	1	17354	2	24.5	73.5	5	43.92343	-123.0364037
+"552"	"Spring"	"lane"	"Fern Ridge WMA (general)"	34598	156	28	1235.64285714286	12	4	84	1	44.0893	-123.2945
+"553"	"Spring"	"lane"	"Fern Ridge WMA--Fisher Butte Unit north (dikes around Pond 4, 5, 6, and west edge of 3)"	61346	152	75	817.946666666667	23	6	71	6	44.0667313	-123.263855
+"554"	"Spring"	"lane"	"Fern Ridge WMA--Fisher Butte Unit north--Scrape & Redhead Pond 4"	21428	134	33	649.333333333333	28	14.5	57.5	9	44.066397	-123.2561089
+"555"	"Spring"	"lane"	"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)"	128792	173	152	847.315789473684	21	2	77	3	44.0561844	-123.2576752
+"556"	"Spring"	"lane"	"Fern Ridge WMA--Royal Ave. area (general)"	399106	203	428	932.490654205607	18	1	81	2	44.0705825	-123.2574606
+"557"	"Spring"	"lane"	"Heceta Beach"	104718	125	92	1138.23913043478	14	27.5	58.5	8	44.0371365	-124.1333735
+"558"	"Spring"	"lane"	"Oakview Ave neighborhood"	107914	128	2	53957	1	22.5	76.5	4	44.06805	-123.233293
+"559"	"Spring"	"lane"	"Skinner Butte Park"	185278	145	318	582.635220125786	31	9	60	7	44.0580243	-123.0927828
+"560"	"Spring"	"lane"	"Walterville Reservoir"	10290	134	19	541.578947368421	33	14.5	52.5	10	44.0700738	-122.8099823
+"561"	"Spring"	"lincoln"	"Boiler Bay State Wayside"	1758865	170	421	4177.82660332542	3	4	93	1	44.8288173	-124.0658998
+"562"	"Spring"	"lincoln"	"Lincoln City Sewage Treatment Plant (restricted access)"	22097	125	22	1004.40909090909	12	13	75	4.5	44.930364	-124.007842
+"563"	"Spring"	"lincoln"	"Lincoln City--NW 15th St. beach access"	18568	120	24	773.666666666667	17	17.5	65.5	10	44.975803	-124.017605
+"564"	"Spring"	"lincoln"	"Mark Hatfield Marine Science Center and Estuary Trail"	210521	208	608	346.251644736842	26	1	73	7	44.6231604	-124.0434766
+"565"	"Spring"	"lincoln"	"Salishan Spit"	9422	127	18	523.444444444444	19	12	69	8	44.90648	-124.029544
+"566"	"Spring"	"lincoln"	"Siletz Bay--Salishan Nature Trail"	48375	162	105	460.714285714286	20	5	75	4.5	44.8908168	-124.0253448
+"567"	"Spring"	"lincoln"	"Spanish Head"	134396	114	16	8399.75	1	25	74	6	44.93768	-124.025441
+"568"	"Spring"	"lincoln"	"Yaquina Bay--Sally's Bend-LNG Facility"	27668	137	67	412.955223880597	23	11	66	9	44.6262136	-124.0254092
+"569"	"Spring"	"lincoln"	"Yaquina Head Outstanding Natural Area"	572297	146	296	1933.43581081081	7	7.5	85.5	2	44.6757053	-124.0724874
+"570"	"Spring"	"lincoln"	"Yaquina Head Outstanding Natural Area--Lighthouse"	864810	124	372	2324.75806451613	4	14.5	81.5	3	44.6768624	-124.0788388
+"571"	"Spring"	"linn"	"Belts Dr."	43742	146	70	624.885714285714	2	1	97	1	44.3027215	-123.0264473
+"572"	"Spring"	"linn"	"Cheadle Lake"	7799	115	35	222.828571428571	13	5	82	6	44.5172866	-122.8906417
+"573"	"Spring"	"linn"	"Eicher Rd. Quarry (no longer accessible; all viewpoints are on private property)"	5200	66	17	305.882352941176	8	21.5	70.5	10	44.6147298	-123.015721
+"574"	"Spring"	"linn"	"Gap Rd. Rice Ponds"	5205	68	10	520.5	3	18	79	7	44.3642376	-122.9857635
+"575"	"Spring"	"linn"	"Oak Creek Greenbelt Trail"	18260	117	15	1217.33333333333	1	4	95	2	44.5992674	-123.1185135
+"576"	"Spring"	"linn"	"Scio Sewage Ponds (restricted access)"	1709	66	4	427.25	5	21.5	73.5	8	44.6970912	-122.8525114
+"577"	"Spring"	"linn"	"Talking Water Gardens"	48947	140	165	296.648484848485	10	2	88	3.5	44.6444396	-123.0718371
+"578"	"Spring"	"linn"	"Timber-Linn Memorial Park"	2493	80	12	207.75	14	13	73	9	44.636487	-123.0570179
+"579"	"Spring"	"linn"	"Truax Island Greenway"	3487	107	9	387.444444444444	6	8	86	5	44.583575	-123.1856063
+"580"	"Spring"	"linn"	"William L. Finley NWR--Snag Boat Bend Wildlife Area"	14514	123	48	302.375	9	3	88	3.5	44.4257811	-123.2115311
+"581"	"Spring"	"malheur"	"Antelope Reservoir"	55009	135	49	1122.63265306122	1	1	98	1	42.9043251	-117.2354507
+"582"	"Spring"	"malheur"	"Beck-Kiwanis Park"	7591	82	47	161.510638297872	10	10.5	79.5	7	44.0374113	-116.9688606
+"583"	"Spring"	"malheur"	"Beulah Reservoir"	17184	134	33	520.727272727273	4	2	94	2.5	43.9293696	-118.1549978
+"584"	"Spring"	"malheur"	"Bully Creek Campground"	1538	79	15	102.533333333333	14	12	74	10	44.0244843	-117.4028108
+"585"	"Spring"	"malheur"	"Bully Creek Reservoir"	2678	97	15	178.533333333333	9	6	85	4	44.0305928	-117.4175835
+"586"	"Spring"	"malheur"	"Jordan Valley (town)"	5991	113	60	99.85	15	3	82	6	42.9741218	-117.0494556
+"587"	"Spring"	"malheur"	"Juntura (town)"	2445	90	25	97.8	17	8	75	9	43.7466536	-118.0804334
+"588"	"Spring"	"malheur"	"Malheur Reservoir"	15985	111	20	799.25	2	4	94	2.5	44.3628877	-117.6931
+"589"	"Spring"	"malheur"	"Ontario Sewage Ponds (restricted access)"	8091	71	11	735.545454545455	3	13.5	83.5	5	44.0417458	-117.0024526
+"590"	"Spring"	"malheur"	"Pole Creek Reservoir"	1238	71	6	206.333333333333	8	13.5	78.5	8	44.2523497	-117.56001
+"591"	"Spring"	"marion"	"Ankeny NWR"	159356	174	129	1235.31782945736	3	2	95	1	44.7842	-123.0767
+"592"	"Spring"	"marion"	"Ankeny NWR--Eagle Marsh"	140822	163	269	523.501858736059	12	3	85	5	44.7967032	-123.0813789
+"593"	"Spring"	"marion"	"Ankeny NWR--Pintail Marsh"	207980	175	235	885.021276595745	6	1	93	2	44.7762488	-123.0898891
+"594"	"Spring"	"marion"	"Ankeny NWR--Rail Trail"	86475	149	228	379.276315789474	16	5	79	8	44.7741583	-123.0824089
+"595"	"Spring"	"marion"	"Ankeny NWR--Wigeon Marsh Viewing Area"	105984	129	73	1451.83561643836	2	8	90	3	44.7983021	-123.080143
+"596"	"Spring"	"marion"	"Cascade Hwy. ponds (west of Oregon Garden fence)"	11587	109	1	11587	1	14.5	84.5	6	44.9953515	-122.7959812
+"597"	"Spring"	"marion"	"Cascades Gateway City Park"	19047	108	43	442.953488372093	13	16	71	10	44.9127602	-122.9909992
+"598"	"Spring"	"marion"	"Duckflat Rd."	87513	130	71	1232.57746478873	4	7	89	4	44.779043	-122.9388242
+"599"	"Spring"	"marion"	"Fairview Wetlands"	38782	127	62	625.516129032258	10	9.5	80.5	7	44.895153	-123.004434
+"600"	"Spring"	"marion"	"Minto-Brown Island Park"	57176	151	182	314.153846153846	21	4	75	9	44.924703	-123.0618095
+"601"	"Spring"	"morrow"	"Boardman Marina and RV Park"	16600	110	69	240.579710144928	4	2.5	93.5	2	45.8446728	-119.7066665
+"602"	"Spring"	"morrow"	"Boardman Sewage Ponds"	8999	76	34	264.676470588235	3	8	89	5.5	45.8474044	-119.6485174
+"603"	"Spring"	"morrow"	"Irrigon Wildlife Viewing Area"	2523	78	29	87	9	5.5	85.5	8	45.9056513	-119.4445395
+"604"	"Spring"	"morrow"	"Quesna County Park"	1608	78	20	80.4	10	5.5	84.5	9	45.8115652	-119.9683642
+"605"	"Spring"	"morrow"	"Threemile Canyon Road and Ponds"	2100	58	17	123.529411764706	8	10	82	10	45.801623	-119.953362
+"606"	"Spring"	"morrow"	"Tower Rd. Ponds"	4866	77	23	211.565217391304	5	7	88	7	45.75073	-119.83194
+"607"	"Spring"	"morrow"	"Umatilla Army Depot (Restricted Access)"	2153	62	7	307.571428571429	2	9	89	5.5	45.837052	-119.4389391
+"608"	"Spring"	"morrow"	"Umatilla NWR (Oregon)"	34710	152	86	403.604651162791	1	1	98	1	45.9049415	-119.5731354
+"609"	"Spring"	"morrow"	"Umatilla NWR--McCormack Slough"	4898	110	39	125.589743589744	7	2.5	90.5	3	45.8918422	-119.5853019
+"610"	"Spring"	"morrow"	"Willow Creek Reservoir (Morrow Co.)"	3282	92	22	149.181818181818	6	4	90	4	45.3427134	-119.5435904
+"611"	"Spring"	"multnomah"	"Delta Park West--Columbia Slough Trail"	57462	136	29	1981.44827586207	2	18	80	4	45.5952502	-122.7029564
+"612"	"Spring"	"multnomah"	"Heron Lakes Golf Club"	22905	117	28	818.035714285714	5	30	65	9	45.604677	-122.7018804
+"613"	"Spring"	"multnomah"	"Heron Lakes Golf Club--Force Lake"	152743	144	281	543.569395017794	18	15	67	8	45.604911	-122.6953554
+"614"	"Spring"	"multnomah"	"Mt. Tabor Park"	445709	152	805	553.675776397516	16	11	73	7	45.5114597	-122.5940323
+"615"	"Spring"	"multnomah"	"NE Sundial Rd.--Company Lake"	74757	155	174	429.637931034483	30	7.5	62.5	10	45.5615042	-122.40696
+"616"	"Spring"	"multnomah"	"Sandy River Mouth--West Bank"	43806	145	55	796.472727272727	6	13	81	3	45.5644545	-122.3985904
+"617"	"Spring"	"multnomah"	"Sauvie Island (Multnomah Co.)"	112176	168	141	795.574468085106	7	3	90	1	45.6630067	-122.8092957
+"618"	"Spring"	"multnomah"	"Sauvie Island--Oak Island (Multnomah Co.)"	158493	169	298	531.855704697987	20	2	78	6	45.7144802	-122.8207541
+"619"	"Spring"	"multnomah"	"Smith and Bybee Lakes Wetlands Natural Area"	78320	161	137	571.678832116788	15	6	79	5	45.6203	-122.7456
+"620"	"Spring"	"multnomah"	"Vanport Wetlands"	167894	165	254	661	11	4	85	2	45.598966	-122.6880813
+"621"	"Spring"	"polk"	"Baskett Slough NWR"	394839	199	327	1207.45871559633	3	1	96	1	44.9614021	-123.257246
+"622"	"Spring"	"polk"	"Baskett Slough NWR--Coville Rd."	132438	157	126	1051.09523809524	4	2	94	3	44.9623003	-123.2454142
+"623"	"Spring"	"polk"	"Baskett Slough NWR--Hwy 22 Overlook"	158350	137	196	807.908163265306	8	7	85	5	44.9524592	-123.2691262
+"624"	"Spring"	"polk"	"Baskett Slough NWR--Mofitti Marsh"	22291	118	36	619.194444444444	10	13	77	8.5	44.9767375	-123.2665345
+"625"	"Spring"	"polk"	"Baskett Slough NWR--Morgan Lake"	56972	139	106	537.471698113208	13	6	81	7	44.9814388	-123.2613867
+"626"	"Spring"	"polk"	"Baskett Slough NWR--South Slough Pond"	73671	123	78	944.5	7	11	82	6	44.9552627	-123.2620525
+"627"	"Spring"	"polk"	"Baskett Slough NWR--South Slough transect path"	200888	150	139	1445.23741007194	2	3	95	2	44.9562801	-123.2571548
+"628"	"Spring"	"polk"	"Baskett Slough NWR--The Narrows and Cottonwood Pond"	223854	147	225	994.906666666667	6	4	90	4	44.9592377	-123.2700262
+"629"	"Spring"	"polk"	"Fishback Hill"	9056	101	12	754.666666666667	9	14	77	8.5	44.8382822	-123.2991743
+"630"	"Spring"	"polk"	"Livermore Rd."	37987	125	89	426.820224719101	16	10	74	10	45.0097499	-123.2535124
+"631"	"Spring"	"sherman"	"Biggs--Rufus Frontage Rd. Ponds"	2483	74	24	103.458333333333	4	6	90	4	45.6813591	-120.7830334
+"632"	"Spring"	"sherman"	"Cottonwood Canyon SP (Sherman Co.)"	6058	107	82	73.8780487804878	6	2	92	2.5	45.4783087	-120.4681778
+"633"	"Spring"	"sherman"	"Cottonwood Canyon SP--Lone Tree Campground"	2728	90	48	56.8333333333333	9	3	88	5	45.4828524	-120.4626095
+"634"	"Spring"	"sherman"	"Deschutes River State Recreation Area"	63119	173	242	260.822314049587	1	1	98	1	45.6306103	-120.9078884
+"635"	"Spring"	"sherman"	"John Day Dam--Boat Ramp"	1900	58	27	70.3703703703704	8	8	84	8	45.7040964	-120.7229555
+"636"	"Spring"	"sherman"	"Le Page Park"	1766	61	24	73.5833333333333	7	7	86	6.5	45.7288945	-120.651485
+"637"	"Spring"	"sherman"	"Macks Canyon"	641	54	8	80.125	5	9	86	6.5	45.388957	-120.8755195
+"638"	"Spring"	"sherman"	"Rockbeach Ln."	2359	42	12	196.583333333333	2	16	82	9	45.6944531	-120.7452607
+"639"	"Spring"	"sherman"	"Twin Lakes Rd."	2332	75	22	106	3	5	92	2.5	45.311044	-120.809658
+"640"	"Spring"	"tillamook"	"Bayocean Spit"	21453	155	50	429.06	26	7	67	9	45.553569	-123.9435911
+"641"	"Spring"	"tillamook"	"Bayocean Spit--bay (east) side"	102032	196	192	531.416666666667	13	2	85	2	45.5217439	-123.9484406
+"642"	"Spring"	"tillamook"	"Cape Meares SP--Lighthouse"	96744	115	144	671.833333333333	6	21.5	72.5	6	45.4864324	-123.9774492
+"643"	"Spring"	"tillamook"	"Goose Point"	17107	119	29	589.896551724138	10	20	70	8	45.5085881	-123.8872687
+"644"	"Spring"	"tillamook"	"Manzanita"	15410	167	34	453.235294117647	23	5	72	7	45.7174277	-123.9336348
+"645"	"Spring"	"tillamook"	"Nehalem Bay SP"	110388	211	193	571.958549222798	11	1	88	1	45.6883197	-123.9372826
+"646"	"Spring"	"tillamook"	"Nehalem Meadows"	26447	146	44	601.068181818182	9	10.5	80.5	3	45.7148777	-123.8854755
+"647"	"Spring"	"tillamook"	"Nehalem River--dike trail"	15931	120	18	885.055555555556	4	19	77	5	45.7163095	-123.8905317
+"648"	"Spring"	"tillamook"	"Nehalem Sewage Ponds"	41804	135	92	454.391304347826	22	13	65	10	45.7161882	-123.8876724
+"649"	"Spring"	"tillamook"	"Neskowin Area"	40363	182	78	517.474358974359	17	3	80	4	45.1065939	-123.9810562
+"650"	"Spring"	"umatilla"	"Cold Springs NWR"	31220	145	60	520.333333333333	5	2	93	1	45.8502011	-119.1532407
+"651"	"Spring"	"umatilla"	"Cold Springs NWR--Memorial Marsh Unit"	5054	100	17	297.294117647059	10	9	81	8.5	45.849478	-119.141444
+"652"	"Spring"	"umatilla"	"Manns Pond"	50309	96	61	824.737704918033	2	11	87	5.5	45.7818009	-119.3089914
+"653"	"Spring"	"umatilla"	"McKay Creek NWR"	22365	162	65	344.076923076923	8	1	91	3	45.5944377	-118.7966709
+"654"	"Spring"	"umatilla"	"McNary Dam--Nature Trail"	12040	114	47	256.170212765957	11	5	84	7	45.9284683	-119.3115234
+"655"	"Spring"	"umatilla"	"McNary Wildlife Nature Area"	32295	131	82	393.841463414634	7	3	90	4	45.9286872	-119.3130684
+"656"	"Spring"	"umatilla"	"River Parkway"	7969	98	26	306.5	9	10	81	8.5	45.6780859	-118.7662089
+"657"	"Spring"	"umatilla"	"Stanfield Meadows"	22542	94	20	1127.1	1	12	87	5.5	45.7635822	-119.2479444
+"658"	"Spring"	"umatilla"	"Warehouse Beach Recreation Area"	21575	127	32	674.21875	4	4	92	2	45.9212418	-119.1412541
+"659"	"Spring"	"union"	"Alicel Scrape"	48148	125	74	650.648648648649	6	10	84	7.5	45.3659019	-117.9989462
+"660"	"Spring"	"union"	"La Grande Sewage Ponds"	92750	133	79	1174.05063291139	3	7	90	3	45.2869651	-118.0295563
+"661"	"Spring"	"union"	"Ladd Marsh WMA"	18510	155	107	172.990654205607	12	4	84	7.5	45.2585762	-118.0359077
+"662"	"Spring"	"union"	"Ladd Marsh WMA--Peach Rd."	43030	156	119	361.596638655462	9	3	88	4	45.2491806	-117.9520941
+"663"	"Spring"	"union"	"Ladd Marsh WMA--Schoolhouse Pond"	38340	146	78	491.538461538462	7	5.5	87.5	5	45.270481	-117.9520051
+"664"	"Spring"	"union"	"Morgan Lake"	8349	130	42	198.785714285714	11	8	81	9.5	45.2999306	-118.1369305
+"665"	"Spring"	"union"	"Rhinehart Canyon"	24060	146	105	229.142857142857	10	5.5	84.5	6	45.5152488	-117.9260445
+"666"	"Spring"	"union"	"Thief Valley Reservoir (Union Co.)"	70105	177	61	1149.26229508197	4	2	94	2	45.0229344	-117.785368
+"667"	"Spring"	"union"	"Union Co. Fairgrounds Pond"	16876	124	37	456.108108108108	8	11	81	9.5	45.3455884	-118.1084073
+"668"	"Spring"	"union"	"Wilkinson Ln."	146106	178	119	1227.78151260504	2	1	97	1	45.275472	-117.943449
+"669"	"Spring"	"wallowa"	"Crow Creek Rd."	1101	64	14	78.6428571428571	11	15	74	9.5	45.4154049	-117.1630955
+"670"	"Spring"	"wallowa"	"Enterprise (town)"	1583	87	24	65.9583333333333	21	5	74	9.5	45.4243813	-117.2714567
+"671"	"Spring"	"wallowa"	"Enterprise WMA"	14740	136	57	258.59649122807	1	1	98	1	45.4193591	-117.3054886
+"672"	"Spring"	"wallowa"	"Golf Course Rd."	2259	65	25	90.36	8	13.5	78.5	8	45.4857709	-117.302742
+"673"	"Spring"	"wallowa"	"Joseph Sewage Ponds (restricted access)"	3343	84	29	115.275862068966	2	6.5	91.5	2	45.3730226	-117.2189293
+"674"	"Spring"	"wallowa"	"McCully Creek & Trail"	2620	92	37	70.8108108108108	16	4	80	7	45.2756112	-117.1372712
+"675"	"Spring"	"wallowa"	"Pete's Pond"	3857	83	43	89.6976744186046	9	8	83	6	45.4207146	-117.2839022
+"676"	"Spring"	"wallowa"	"Red Hill Lookout Viewpoint"	221	66	2	110.5	4	11.5	84.5	4	45.787987	-117.102798
+"677"	"Spring"	"wallowa"	"Wallowa Sewage Ponds (restricted access)"	967	84	9	107.444444444444	5	6.5	88.5	3	45.5775678	-117.5320387
+"678"	"Spring"	"wallowa"	"Zumwalt Prairie"	2810	77	31	90.6451612903226	7	9	84	5	45.460251	-117.0921135
+"679"	"Spring"	"wasco"	"Deschutes River SRA--Heritage Landing"	4821	99	59	81.7118644067797	12	6	82	3.5	45.6308454	-120.9144974
+"680"	"Spring"	"wasco"	"Dufur City Park  and  Sewage Ponds"	2988	90	44	67.9090909090909	21	11	68	8	45.450227	-121.125211
+"681"	"Spring"	"wasco"	"Historic Highway Trail (Wasco Co.)"	1390	91	24	57.9166666666667	25	8.5	66.5	9	45.6858263	-121.4121222
+"682"	"Spring"	"wasco"	"Maupin City Park"	3301	91	44	75.0227272727273	15	8.5	76.5	6	45.174347	-121.0731554
+"683"	"Spring"	"wasco"	"Mayer SP"	8345	118	57	146.40350877193	5	3	92	2	45.682518	-121.286896
+"684"	"Spring"	"wasco"	"Price Rd. wetlands"	13432	137	81	165.827160493827	4	1	95	1	45.24208	-121.2697506
+"685"	"Spring"	"wasco"	"School Canyon Trail"	1506	87	13	115.846153846154	6	12	82	3.5	45.2997465	-121.3660097
+"686"	"Spring"	"wasco"	"The Dalles Riverfront Park"	4699	100	59	79.6440677966102	14	5	81	5	45.6000709	-121.1664104
+"687"	"Spring"	"wasco"	"White River Wildlife Area--Smock Prairie"	839	63	2	419.5	1	26	73	7	45.1577113	-121.4029169
+"688"	"Spring"	"washington"	"Commonwealth Lake Park"	199373	151	236	844.800847457627	10	7	83	6	45.5119108	-122.8098106
+"689"	"Spring"	"washington"	"Dawson Creek Corporate Park"	78592	124	142	553.464788732394	15	13	72	10	45.5416154	-122.9335785
+"690"	"Spring"	"washington"	"Fernhill Wetlands (general)"	653401	187	562	1162.63523131673	6	1	93	2	45.5064875	-123.0851855
+"691"	"Spring"	"washington"	"Fernhill Wetlands--Natural Treatment System (ASoP/CWS survey)"	130516	164	200	652.58	13	5	82	7	45.507174	-123.0879879
+"692"	"Spring"	"washington"	"Fernhill Wetlands--area outside of NTS (ASoP/CWS survey)"	70572	140	44	1603.90909090909	4	9	87	4	45.5067529	-123.0825162
+"693"	"Spring"	"washington"	"Jackson Bottom Wetlands Preserve"	322870	173	306	1055.13071895425	7	4	89	3	45.505	-122.9889
+"694"	"Spring"	"washington"	"Koll Center Wetlands"	268472	159	280	958.828571428571	8	6	86	5	45.4562776	-122.7911854
+"695"	"Spring"	"washington"	"Tualatin River NWR"	285805	181	550	519.645454545455	17	3	80	8	45.3811203	-122.8353667
+"696"	"Spring"	"washington"	"Tualatin River NWR--Atfálat'i Unit"	753853	186	378	1994.32010582011	3	2	95	1	45.3817834	-122.8312254
+"697"	"Spring"	"washington"	"Wapato Lake NWR (Washington County)"	39811	123	44	904.795454545455	9	14.5	76.5	9	45.4342514	-123.1377011
+"698"	"Spring"	"wheeler"	"Clarno BLM Boat Ramp"	1205	62	16	75.3125	9	9.5	81.5	5	44.9161887	-120.4692091
+"699"	"Spring"	"wheeler"	"Fopiano Reservoir"	2805	74	24	116.875	4	4	92	2	44.5869421	-119.9449925
+"700"	"Spring"	"wheeler"	"Fossil Sewage Ponds"	1239	62	32	38.71875	16	9.5	74.5	9	45.0011188	-120.2275895
+"701"	"Spring"	"wheeler"	"Fossil Sewage Ponds-farm pond"	3560	72	32	111.25	5	6	89	3	45.0088659	-120.2345227
+"702"	"Spring"	"wheeler"	"John Day Fossil Beds NM--Painted Hills Unit"	1582	78	50	31.64	21	2	77	6.5	44.6517908	-120.2670765
+"703"	"Spring"	"wheeler"	"Mitchell (town)"	1480	73	41	36.0975609756098	18	5	77	6.5	44.5667051	-120.1539474
+"704"	"Spring"	"wheeler"	"Muleshoe Recreation Area"	1438	66	19	75.6842105263158	8	8	84	4	44.806889	-119.967538
+"705"	"Spring"	"wheeler"	"Pine Ck. Conserv. Area--Upper Pine Ck. (sign in required)"	257	47	2	128.5	3	22	75	8	44.902734	-120.287776
+"706"	"Spring"	"wheeler"	"Priest Hole"	1571	80	10	157.1	2	1	97	1	44.741012	-120.274334
+"707"	"Spring"	"yamhill"	"Grand Island Driving Loop"	4709	100	22	214.045454545455	10	4.5	85.5	4	45.1259174	-123.0373917
+"708"	"Spring"	"yamhill"	"Huddleston Fish Pond"	5378	108	49	109.755102040816	21	1	78	9	45.0800143	-123.476364
+"709"	"Spring"	"yamhill"	"McMinnville Rotary Park (Tice Park)"	9134	99	65	140.523076923077	17	6.5	76.5	10	45.2293911	-123.1972075
+"710"	"Spring"	"yamhill"	"Newberg City Water Treatment Ponds (restricted access)"	3907	90	20	195.35	12	8	80	7.5	45.2832733	-122.9564166
+"711"	"Spring"	"yamhill"	"Our Lady of Guadalupe Trappist Abbey trails"	3001	88	14	214.357142857143	9	10	81	6	45.2859007	-123.0980515
+"712"	"Spring"	"yamhill"	"Sheridan South Side Park and Fishing Pond"	8793	102	39	225.461538461538	7	3	90	2	45.087649	-123.391419
+"713"	"Spring"	"yamhill"	"Sheridan WTP Ponds (restricted access)"	17903	100	29	617.344827586207	3	4.5	92.5	1	45.0875812	-123.3833313
+"714"	"Spring"	"yamhill"	"Wennerberg Park"	2598	81	12	216.5	8	12	80	7.5	45.2917566	-123.1871538
+"715"	"Spring"	"yamhill"	"Willamette Greenway--Grand Island Access"	7400	106	44	168.181818181818	13	2	85	5	45.104299	-123.021792
+"716"	"Spring"	"yamhill"	"Yamhill Sewage Ponds (restricted access)"	8712	99	18	484	4	6.5	89.5	3	45.337617	-123.1891394
+"717"	"Summer"	"baker"	"Baker Sewage Treatment Ponds (restricted access)"	25559	99	13	1966.07692307692	1	5	94	1	44.8135987	-117.8437478
+"718"	"Summer"	"baker"	"Bob's Lake"	10112	79	32	316	3	7	90	3	44.8375823	-117.8182411
+"719"	"Summer"	"baker"	"Coral Ditch"	7060	70	39	181.025641025641	9	11	80	10	44.7987496	-117.8081346
+"720"	"Summer"	"baker"	"Farewell Bend SP"	6170	111	74	83.3783783783784	16	1	83	8	44.3059155	-117.2263527
+"721"	"Summer"	"baker"	"Haines Sewage Ponds (restricted access)"	1274	51	5	254.8	4	15	81	9	44.9128848	-117.9157691
+"722"	"Summer"	"baker"	"North Powder Pond"	8080	107	32	252.5	5	2	93	2	45.013214	-117.930166
+"723"	"Summer"	"baker"	"Social Security Point"	2447	78	12	203.916666666667	6	8	86	7	44.6930351	-118.0475304
+"724"	"Summer"	"baker"	"Thief Valley Reservoir (Baker Co.)"	4178	71	11	379.818181818182	2	10	88	5	45.0315222	-117.8069544
+"725"	"Summer"	"baker"	"Union Creek Campground"	4665	105	38	122.763157894737	10	3.5	86.5	6	44.6862088	-118.0282846
+"726"	"Summer"	"baker"	"Unity Lake SP--Reservoir"	4842	105	26	186.230769230769	7	3.5	89.5	4	44.5025468	-118.1909695
+"727"	"Summer"	"benton"	"Alder Spring tract (restricted access)"	15878	95	6	2646.33333333333	2	21	77	7	44.4925692	-123.4634247
+"728"	"Summer"	"benton"	"Butterfield Wetland"	22847	100	13	1757.46153846154	3	15	82	5	44.5345942	-123.2580936
+"729"	"Summer"	"benton"	"Crystal Lake Sports Park"	8181	105	21	389.571428571429	13	11	76	8.5	44.5513348	-123.2522249
+"730"	"Summer"	"benton"	"Philomath Sewage Ponds (restricted access)"	713512	192	258	2765.5503875969	1	1	98	1	44.5185755	-123.3444586
+"731"	"Summer"	"benton"	"Willamette Park (Benton Co.)"	128204	154	93	1378.5376344086	4	4	92	2	44.5410582	-123.2462597
+"732"	"Summer"	"benton"	"Willamette Park--South Side"	45824	125	59	776.677966101695	6	6	88	3	44.5373738	-123.2487487
+"733"	"Summer"	"benton"	"William L. Finley NWR"	32235	162	131	246.068702290076	18	2.5	79.5	6	44.4215209	-123.3151817
+"734"	"Summer"	"benton"	"William L. Finley NWR--Cabell Marsh"	67051	162	177	378.819209039548	14	2.5	83.5	4	44.4152525	-123.319205
+"735"	"Summer"	"benton"	"William L. Finley NWR--Cheadle Marsh"	5525	110	22	251.136363636364	17	8	75	10	44.3954315	-123.3006334
+"736"	"Summer"	"benton"	"William L. Finley NWR--McFadden Marsh"	26267	141	109	240.981651376147	19	5	76	8.5	44.3907013	-123.2976294
+"737"	"Summer"	"clackamas"	"Blount Swale overlook (restricted access)"	11196	73	23	486.782608695652	7	22	71	8	45.2639938	-122.6556319
+"738"	"Summer"	"clackamas"	"Brown's Ferry Park"	7867	101	55	143.036363636364	25	6	69	9	45.3830796	-122.7380133
+"739"	"Summer"	"clackamas"	"Canby Logging Trail"	5090	79	9	565.555555555556	5	17	78	5	45.2926411	-122.6840687
+"740"	"Summer"	"clackamas"	"Happy Valley Nature Park"	6657	69	14	475.5	8	25.5	66.5	10	45.4498306	-122.5215654
+"741"	"Summer"	"clackamas"	"Ivor Davies Park"	16998	99	41	414.585365853659	10	7	83	3	45.136353	-122.570065
+"742"	"Summer"	"clackamas"	"Mary S. Young SP"	15106	84	44	343.318181818182	12	13	75	6	45.3818978	-122.6311717
+"743"	"Summer"	"clackamas"	"North Logan Natural Area"	3786	81	13	291.230769230769	13	14.5	72.5	7	45.3811956	-122.4161911
+"744"	"Summer"	"clackamas"	"River Island Natural Area--North Unit"	2143	88	4	535.75	6	10.5	83.5	2	45.377883	-122.3986139
+"745"	"Summer"	"clackamas"	"River Island Natural Area--South Unit"	17070	112	27	632.222222222222	4	2	94	1	45.371773	-122.405607
+"746"	"Summer"	"clackamas"	"Timothy Lake"	16249	144	95	171.042105263158	20	1	79	4	45.1187305	-121.7934036
+"747"	"Summer"	"clatsop"	"Cannon Beach"	162093	148	403	402.2158808933	16	5.5	78.5	7	45.888186	-123.9646626
+"748"	"Summer"	"clatsop"	"Del Rey Beach"	49384	110	66	748.242424242424	8	13	79	5.5	46.0480643	-123.9319825
+"749"	"Summer"	"clatsop"	"Fort Stevens SP"	35080	157	120	292.333333333333	23	2	75	8.5	46.2302	-124.003624
+"750"	"Summer"	"clatsop"	"Fort Stevens SP--Parking Area D"	135384	156	334	405.341317365269	15	3.5	81.5	4	46.2265811	-123.9901543
+"751"	"Summer"	"clatsop"	"Fort Stevens SP--South Jetty/Parking Area C"	366518	162	301	1217.66777408638	4	1	95	1	46.2286726	-124.0217721
+"752"	"Summer"	"clatsop"	"Haystack Rock"	583618	125	1064	548.513157894737	11	10	79	5.5	45.8847357	-123.9683104
+"753"	"Summer"	"clatsop"	"Necanicum River Estuary"	46841	108	64	731.890625	9	16	75	8.5	46.016186	-123.918976
+"754"	"Summer"	"clatsop"	"Necanicum River Estuary--Little Beach"	29405	115	81	363.024691358025	18	11	71	10	46.0176115	-123.921583
+"755"	"Summer"	"clatsop"	"Seaside Cove"	796487	156	356	2237.32303370787	2	3.5	94.5	2	45.9755964	-123.9397073
+"756"	"Summer"	"clatsop"	"Warrenton Sewage Ponds (restricted access)"	39267	131	44	892.431818181818	5	8	87	3	46.1744221	-123.921833
+"757"	"Summer"	"columbia"	"Crown Zellerbach Trail (east end)"	14175	123	44	322.159090909091	13	7	80	8	45.754063	-122.850469
+"758"	"Summer"	"columbia"	"Sauvie Island (Columbia Co.)"	29295	137	43	681.279069767442	6	5	89	4.5	45.763691	-122.7948761
+"759"	"Summer"	"columbia"	"Sauvie Island--Mud Lake"	41782	130	69	605.536231884058	7	6	87	6	45.7387882	-122.8256421
+"760"	"Summer"	"columbia"	"Sauvie Island--Oak Island (Columbia Co.)"	50219	143	90	557.988888888889	8	3	89	4.5	45.7248172	-122.8184795
+"761"	"Summer"	"columbia"	"Sauvie Island--Racetrack Lake"	83413	139	70	1191.61428571429	5	4	91	3	45.7449186	-122.7841514
+"762"	"Summer"	"columbia"	"Sauvie Island--Rentenaar Rd."	17488	117	69	253.449275362319	18	8	74	10	45.7574596	-122.776551
+"763"	"Summer"	"columbia"	"Sauvie Island--Round Lake"	14177	114	38	373.078947368421	11	10	79	9	45.7430995	-122.8281926
+"764"	"Summer"	"columbia"	"Sauvie Island--Sturgeon Lake (NE side)"	22562	103	18	1253.44444444444	3	11.5	85.5	7	45.7521934	-122.7936745
+"765"	"Summer"	"columbia"	"Sauvie Island--The Narrows"	149018	150	94	1585.29787234043	2	1	97	1.5	45.7336245	-122.8162479
+"766"	"Summer"	"columbia"	"Sauvie Island--The Wash"	166533	149	89	1871.15730337079	1	2	97	1.5	45.7416518	-122.8041726
+"767"	"Summer"	"coos"	"Bandon Marsh NWR"	9501	105	32	296.90625	15	12	73	8	43.1351	-124.4027
+"768"	"Summer"	"coos"	"Bandon Marsh NWR--Observation Deck"	59711	134	154	387.733766233766	12	5	83	5	43.130861	-124.4013423
+"769"	"Summer"	"coos"	"Bradley Lake"	6100	98	11	554.545454545455	8	14	78	7	43.0658468	-124.4267299
+"770"	"Summer"	"coos"	"Face Rock Wayside"	92928	104	160	580.8	6	13	81	6	43.1049466	-124.4348216
+"771"	"Summer"	"coos"	"Lost Lake (Coos Co.)"	15735	144	10	1573.5	1	3	96	1	43.023409	-124.429361
+"772"	"Summer"	"coos"	"Lower Fourmile Trail"	8389	141	8	1048.625	2	4	94	2	43.0110766	-124.4479018
+"773"	"Summer"	"coos"	"Millicoma Marsh"	31999	148	81	395.049382716049	11	2	87	3	43.3682768	-124.1908908
+"774"	"Summer"	"coos"	"North Spit--Jarvis Turn Bayside Trail"	4218	85	6	703	4	23.5	72.5	9	43.4218504	-124.2732882
+"775"	"Summer"	"coos"	"North Spit--Weyco Settling Pond--Beach Overlook"	7443	89	18	413.5	10	22	68	10	43.4262354	-124.2920423
+"776"	"Summer"	"coos"	"North Spit--old Weyco Settling Pond & deflation plain"	33518	162	94	356.574468085106	13	1	86	4	43.4210895	-124.2850935
+"777"	"Summer"	"crook"	"Crooked River Park"	4381	88	18	243.388888888889	10	10	80	8	44.2893883	-120.8439617
+"778"	"Summer"	"crook"	"Crooked River Wetlands Complex"	148668	167	226	657.823008849557	4	1	95	1	44.3165109	-120.897857
+"779"	"Summer"	"crook"	"Gutierrez Ranch (restricted access)"	30011	76	1	30011	1	14	85	6	44.1625922	-120.0912952
+"780"	"Summer"	"crook"	"Houston Lakes"	22234	111	38	585.105263157895	5	3.5	91.5	3	44.2941213	-120.9893417
+"781"	"Summer"	"crook"	"North Shore Rd."	14095	149	37	380.945945945946	8	2	90	4	44.1754539	-120.6330264
+"782"	"Summer"	"crook"	"Ochoco Reservoir"	6049	93	29	208.586206896552	13	8.5	78.5	9	44.3066526	-120.6975174
+"783"	"Summer"	"crook"	"Prineville Reservoir"	3088	96	13	237.538461538462	11	6	83	7	44.1269494	-120.7030294
+"784"	"Summer"	"crook"	"Prineville Reservoir--Social Security Beach"	15969	95	28	570.321428571429	6	7	87	5	44.1260937	-120.6952402
+"785"	"Summer"	"crook"	"Prineville Sewage Ponds (closed to the public as of 6/9/21)"	47447	111	33	1437.78787878788	2	3.5	94.5	2	44.3067524	-120.8712494
+"786"	"Summer"	"crook"	"Twin Pillars Trail No. 832"	1018	107	7	145.428571428571	17	5	78	10	44.465758	-120.534344
+"787"	"Summer"	"curry"	"Arizona Beach State Recreation Site"	11524	144	67	172	10	1	89	2	42.6144248	-124.3954897
+"788"	"Summer"	"curry"	"Cape Blanco SP"	6265	121	50	125.3	18	4	78	5.5	42.8363249	-124.5461655
+"789"	"Summer"	"curry"	"Chetco Pt."	7906	116	64	123.53125	20	6	74	8	42.0443211	-124.2902613
+"790"	"Summer"	"curry"	"Euchre Creek Mouth"	4895	89	18	271.944444444444	4	19.5	76.5	7	42.5588553	-124.3895996
+"791"	"Summer"	"curry"	"Gold Beach--Marina"	11089	95	71	156.183098591549	12	15	73	9	42.4230764	-124.4195652
+"792"	"Summer"	"curry"	"Harris Beach SP"	16575	107	91	182.142857142857	8	10	82	3	42.068482	-124.3106461
+"793"	"Summer"	"curry"	"Pistol River SP"	8447	69	23	367.260869565217	1	27.5	71.5	10	42.2754882	-124.4052315
+"794"	"Summer"	"curry"	"Pistol River lowlands"	7330	127	31	236.451612903226	6	3	91	1	42.2717782	-124.3969738
+"795"	"Summer"	"curry"	"Rogue River Walk Trail"	5230	100	23	227.391304347826	7	11.5	81.5	4	42.4658923	-124.3458366
+"796"	"Summer"	"curry"	"Rogue River--Indian Creek Marsh"	6634	109	47	141.148936170213	13	9	78	5.5	42.4287175	-124.4039425
+"797"	"Summer"	"deschutes"	"Hatfield Lake"	362715	197	398	911.344221105528	8	1	91	1	44.1232081	-121.198554
+"798"	"Summer"	"deschutes"	"North Wickiup Boat Ramp"	37800	133	89	424.719101123596	15	13	72	8	43.705608	-121.7521191
+"799"	"Summer"	"deschutes"	"Redmond Sewage Ponds (restricted access)"	66761	170	124	538.395161290323	12	2.5	85.5	2	44.3352042	-121.2192706
+"800"	"Summer"	"deschutes"	"Ryan Meadow"	14821	142	51	290.607843137255	20	9.5	70.5	9	43.9518454	-121.4198899
+"801"	"Summer"	"deschutes"	"Tumalo Reservoir"	34208	170	124	275.870967741935	24	2.5	73.5	7	44.1390787	-121.4178951
+"802"	"Summer"	"deschutes"	"Wickiup Butte Boat Ramp"	13515	125	47	287.553191489362	22	15.5	62.5	10	43.6781149	-121.6887116
+"803"	"Summer"	"deschutes"	"Wickiup Dam"	31835	144	72	442.152777777778	14	8	78	5	43.6846635	-121.6906643
+"804"	"Summer"	"deschutes"	"Wickiup Reservoir"	22296	168	39	571.692307692308	11	4	85	3.5	43.6821993	-121.6995049
+"805"	"Summer"	"deschutes"	"Wickiup Reservoir Campground"	38095	135	24	1587.29166666667	3	12	85	3.5	43.6701532	-121.7694354
+"806"	"Summer"	"deschutes"	"Wickiup Reservoir--Kiosk Ponds"	11616	145	37	313.945945945946	19	7	74	6	43.700289	-121.7088343
+"807"	"Summer"	"douglas"	"Diamond Lake"	11281	118	76	148.434210526316	18	3	79	7.5	43.1557188	-122.1514893
+"808"	"Summer"	"douglas"	"Diamond Lake--sewage ponds (restricted access)"	1425	73	6	237.5	7	12	81	6	43.1853403	-122.1426487
+"809"	"Summer"	"douglas"	"Fords Pond"	53249	156	82	649.378048780488	1	1	98	1	43.3913165	-123.363111
+"810"	"Summer"	"douglas"	"Plat I Reservoir"	13114	128	27	485.703703703704	4	2	94	2	43.394346	-123.2522678
+"811"	"Summer"	"douglas"	"Sparrow Park Rd. Beach"	4400	59	8	550	3	23.5	73.5	10	43.7485634	-124.1809747
+"812"	"Summer"	"douglas"	"Stables Rd."	2951	79	17	173.588235294118	12	11	77	9	43.717063	-124.091042
+"813"	"Summer"	"douglas"	"Stewart Park Wildlife Ponds & Nature Trail"	9633	96	43	224.023255813953	8	4	88	3	43.2276504	-123.3712292
+"814"	"Summer"	"douglas"	"Umpqua River--Salmon Harbor Marina"	9003	81	28	321.535714285714	5	9	86	4	43.6839497	-124.1812992
+"815"	"Summer"	"douglas"	"Umpqua River--South Jetty"	7312	95	43	170.046511627907	13	5.5	81.5	5	43.6655123	-124.2117691
+"816"	"Summer"	"douglas"	"Wildlife Safari (restricted access)"	2965	80	16	185.3125	11	10	79	7.5	43.1429002	-123.4299911
+"817"	"Summer"	"gilliam"	"Arlington (town)"	1448	46	38	38.1052631578947	7	5	88	5	45.7193942	-120.2036047
+"818"	"Summer"	"gilliam"	"Condon City Park"	769	31	14	54.9285714285714	5	10.5	84.5	6.5	45.2326076	-120.1848292
+"819"	"Summer"	"gilliam"	"Condon Sewage Ponds (restricted access)"	13520	83	35	386.285714285714	1	2	97	1.5	45.2275954	-120.17736
+"820"	"Summer"	"gilliam"	"Cottonwood Canyon SP (Gilliam Co.)"	986	71	38	25.9473684210526	16	3	81	9.5	45.4768042	-120.4663754
+"821"	"Summer"	"gilliam"	"Lonerock"	255	38	8	31.875	13	6	81	9.5	45.089218	-119.885803
+"822"	"Summer"	"gilliam"	"Lost Valley Rd.--valley and pine forest"	582	51	6	97	3	4	93	3	45.075741	-119.9704122
+"823"	"Summer"	"gilliam"	"Phillipi Canyon"	300	35	8	37.5	9	9	82	8	45.6757999	-120.4921155
+"824"	"Summer"	"gilliam"	"Port of Arlington"	1331	37	24	55.4583333333333	4	7.5	88.5	4	45.7229297	-120.2074885
+"825"	"Summer"	"gilliam"	"Wehrli Canyon Lane"	377	37	10	37.7	8	7.5	84.5	6.5	45.1495016	-120.2160072
+"826"	"Summer"	"gilliam"	"Willow Creek Wildlife Area"	8790	123	45	195.333333333333	2	1	97	1.5	45.7826593	-120.0048959
+"827"	"Summer"	"grant"	"Bates SP"	1648	93	24	68.6666666666667	20	2	78	8	44.5911668	-118.5129656
+"828"	"Summer"	"grant"	"Bull Prairie Lake"	629	57	7	89.8571428571429	11	13.5	75.5	9	44.974028	-119.6631718
+"829"	"Summer"	"grant"	"Clyde Holiday SP"	7721	112	71	108.746478873239	8	1	91	2	44.4155744	-119.0886211
+"830"	"Summer"	"grant"	"Cougar Creek (Ochocos National Forest)"	2507	57	1	2507	1	13.5	85.5	5	44.151143	-119.5793796
+"831"	"Summer"	"grant"	"Davis Creek Park"	794	64	8	99.25	9	6	85	6	44.4231916	-118.9642991
+"832"	"Summer"	"grant"	"Forest Conservation Area"	3660	90	9	406.666666666667	2	3	95	1	44.4573634	-118.6867458
+"833"	"Summer"	"grant"	"Malheur NF--Skyline Trail"	636	48	4	159	3	22	75	10	44.2769181	-118.6990764
+"834"	"Summer"	"grant"	"Monument Reserve (Thomas Cavender Reservoir)"	1058	64	8	132.25	4	6	90	3	44.8255575	-119.431813
+"835"	"Summer"	"grant"	"Phipps Meadow"	471	63	4	117.75	5	8	87	4	44.5811102	-118.4344882
+"836"	"Summer"	"grant"	"Poison Creek Reservoir"	1412	61	12	117.666666666667	6	11	83	7	44.0136974	-118.9142078
+"837"	"Summer"	"harney"	"Burns Sewage Ponds (restricted access)"	32754	113	52	629.884615384615	5	17.5	77.5	4	43.5672909	-119.0676928
+"838"	"Summer"	"harney"	"Chickahominy Reservoir"	42856	121	86	498.325581395349	7	13.5	79.5	3	43.5485481	-119.6205139
+"839"	"Summer"	"harney"	"Malheur NWR (general)"	25080	191	54	464.444444444444	10	2	88	1	43.2053426	-118.9297485
+"840"	"Summer"	"harney"	"Malheur NWR--Benson Pond"	57010	180	184	309.836956521739	25	3	72	6	42.9566738	-118.8657188
+"841"	"Summer"	"harney"	"Malheur NWR--Boca Lake (restricted access)"	12548	85	4	3137	3	38	59	10	42.916835	-118.8507628
+"842"	"Summer"	"harney"	"Malheur NWR--Central Patrol Rd."	12378	151	61	202.918032786885	32	6	62	8.5	43.2024856	-118.8875628
+"843"	"Summer"	"harney"	"Malheur NWR--Central Patrol Rd.--Krumbo Reservoir Rd. to P Ranch"	32034	154	97	330.247422680412	22	5	73	5	42.8368515	-118.8856745
+"844"	"Summer"	"harney"	"Malheur NWR--Headquarters"	189387	223	501	378.017964071856	17	1	82	2	43.2653681	-118.8433095
+"845"	"Summer"	"harney"	"Malheur NWR--Knox Pond"	15915	132	48	331.5625	21	10	69	7	42.8900268	-118.8682079
+"846"	"Summer"	"harney"	"Malheur NWR--Narrows"	36790	125	148	248.581081081081	27	11	62	8.5	43.2873151	-118.9591885
+"847"	"Summer"	"hood river"	"Bonney Butte"	10500	97	55	190.909090909091	1	2	97	1.5	45.266666	-121.599998
+"848"	"Summer"	"hood river"	"Cascade Locks--Easy Climb Trail"	852	68	9	94.6666666666667	9	13.5	77.5	7	45.6845271	-121.8532002
+"849"	"Summer"	"hood river"	"Cascade Locks--Marine Park (island)"	5094	69	55	92.6181818181818	11	12	77	8	45.668031	-121.897456
+"850"	"Summer"	"hood river"	"Elk Meadow"	1383	70	22	62.8636363636364	18	10.5	71.5	9	45.3453705	-121.6154961
+"851"	"Summer"	"hood river"	"Government Cove"	3668	85	23	159.478260869565	3	4	93	3	45.686396	-121.8430996
+"852"	"Summer"	"hood river"	"Hood River Spit"	3108	81	28	111	6	5	89	4	45.7141777	-121.5088555
+"853"	"Summer"	"hood river"	"Hood River mouth"	28027	137	165	169.860606060606	2	1	97	1.5	45.7152892	-121.5063858
+"854"	"Summer"	"hood river"	"Hood River--The Hook"	4912	86	52	94.4615384615385	10	3	87	5	45.717025	-121.525898
+"855"	"Summer"	"hood river"	"Mt. Hood (Hood River Co.)"	1218	65	9	135.333333333333	4	16	80	6	45.37236	-121.6722107
+"856"	"Summer"	"hood river"	"Mt. Hood--Timberline Trail #600--Mt. Hood Meadows Ski Area"	1757	74	30	58.5666666666667	21	8	71	10	45.3381499	-121.6644001
+"857"	"Summer"	"jackson"	"Agate Lake"	29866	155	104	287.173076923077	11	3	86	3.5	42.4099597	-122.7708006
+"858"	"Summer"	"jackson"	"Denman WMA--Ave. G and Ave. H ponds"	10825	135	53	204.245283018868	19	6	75	8	42.4395971	-122.8673269
+"859"	"Summer"	"jackson"	"Denman WMA--Little Butte Creek Unit"	12570	116	33	380.909090909091	8	11.5	80.5	6	42.4512305	-122.8661935
+"860"	"Summer"	"jackson"	"Emigrant Lake"	22649	156	79	286.696202531646	12	2	86	3.5	42.1433778	-122.6209306
+"861"	"Summer"	"jackson"	"Emigrant Lake--South Shore"	45653	163	85	537.094117647059	4	1	95	1	42.1337652	-122.6129258
+"862"	"Summer"	"jackson"	"Howard Prairie Lake"	3755	129	20	187.75	20	8	72	9	42.2325847	-122.4014282
+"863"	"Summer"	"jackson"	"Hyatt Reservoir"	16362	136	64	255.65625	14	5	81	5	42.1868115	-122.4508667
+"864"	"Summer"	"jackson"	"Lost Creek Lake--Medco A"	8838	117	29	304.758620689655	10	10	80	7	42.6738312	-122.6418829
+"865"	"Summer"	"jackson"	"White City Lagoons (Kirtland Rd. Ponds)"	50684	140	130	389.876923076923	7	4	89	2	42.4336881	-122.9128075
+"866"	"Summer"	"jackson"	"Willow Point Campground"	5345	116	25	213.8	18	11.5	70.5	10	42.2157473	-122.3994112
+"867"	"Summer"	"jefferson"	"Brewer Reservoir"	2823	70	13	217.153846153846	5	16.5	78.5	7	44.5946459	-120.9280157
+"868"	"Summer"	"jefferson"	"Camp Sherman"	5350	114	80	66.875	23	2	75	8	44.4599389	-121.6432683
+"869"	"Summer"	"jefferson"	"Dark Lake"	2998	78	12	249.833333333333	3	10	87	4	44.405915	-121.755323
+"870"	"Summer"	"jefferson"	"Haystack Lake Campground (east)"	6024	92	21	286.857142857143	2	6	92	2	44.495054	-121.142432
+"871"	"Summer"	"jefferson"	"Haystack Reservoir"	13119	146	55	238.527272727273	4	1	95	1	44.4978522	-121.1505318
+"872"	"Summer"	"jefferson"	"Little Willow Creek Reservoir"	2754	84	14	196.714285714286	6	8	86	5	44.6286855	-120.8700371
+"873"	"Summer"	"jefferson"	"Pelton Regulating Dam Wildlife Overlook"	5939	94	44	134.977272727273	10	4.5	85.5	6	44.7224039	-121.2435661
+"874"	"Summer"	"jefferson"	"Rimrock Springs WMA"	1295	94	25	51.8	31	4.5	64.5	10	44.4955258	-121.0514832
+"875"	"Summer"	"jefferson"	"Trout Creek Campground (Jefferson Co.)"	983	71	9	109.222222222222	13	15	72	9	44.8160444	-121.0948706
+"876"	"Summer"	"jefferson"	"Whiskey Springs"	17440	104	114	152.982456140351	9	3	88	3	44.470222	-121.573111
+"877"	"Summer"	"josephine"	"Applegate River MAPS Station (historical--from 1997 to 2006)"	988	71	3	329.333333333333	4	11	85	5.5	42.2936594	-123.2351232
+"878"	"Summer"	"josephine"	"Bigelow Lakes"	1110	84	11	100.909090909091	18	7.5	74.5	9.5	42.0886091	-123.3706309
+"879"	"Summer"	"josephine"	"Lake Selmac"	25120	152	55	456.727272727273	2	1	97	1	42.2617532	-123.5779095
+"880"	"Summer"	"josephine"	"Pacifica Garden"	2175	99	18	120.833333333333	17	3.5	79.5	7	42.2730987	-123.2603046
+"881"	"Summer"	"josephine"	"Provolt Pond"	5278	90	17	310.470588235294	5	5	90	2	42.288276	-123.2303596
+"882"	"Summer"	"josephine"	"Redwood Elementary School wetlands"	804	44	2	402	3	22.5	74.5	9.5	42.4271517	-123.3897474
+"883"	"Summer"	"josephine"	"Riverside Park (Josephine Co.)"	4850	62	26	186.538461538462	9	13	78	8	42.428475	-123.328305
+"884"	"Summer"	"josephine"	"Tussing Park/Reinhart Volunteer Park"	7997	89	28	285.607142857143	6	6	88	4	42.4285133	-123.3475668
+"885"	"Summer"	"josephine"	"Whitehorse County Park"	5356	116	38	140.947368421053	13	2	85	5.5	42.4371911	-123.4596434
+"886"	"Summer"	"josephine"	"Wildlife Images Rehabilitation and Education Center"	3616	99	14	258.285714285714	7	3.5	89.5	3	42.4903381	-123.474403
+"887"	"Summer"	"klamath"	"Davis Lake"	45747	157	65	703.8	13	3	84	3	43.5882401	-121.8540215
+"888"	"Summer"	"klamath"	"Eagle Ridge/Shoalwater Bay"	11310	148	34	332.647058823529	18	5	77	5.5	42.3970939	-121.9592285
+"889"	"Summer"	"klamath"	"Henzel Park"	23660	134	33	716.969696969697	12	10.5	77.5	4	42.5296818	-121.9288981
+"890"	"Summer"	"klamath"	"Klamath Wildlife Area--Miller Island Unit"	32118	146	89	360.876404494382	17	6	77	5.5	42.1551736	-121.8082073
+"891"	"Summer"	"klamath"	"Lakeside Wenner Wetland (restricted access)"	15185	111	13	1168.07692307692	7	23	70	8.5	42.2866075	-121.817771
+"892"	"Summer"	"klamath"	"Link River Trail"	24446	137	84	291.02380952381	21	8	71	7	42.2278182	-121.7991543
+"893"	"Summer"	"klamath"	"Upper Klamath Lake--Rocky Point"	18729	162	115	162.860869565217	28	2	70	8.5	42.477	-122.08503
+"894"	"Summer"	"klamath"	"Upper Klamath NWR (general)"	3893	125	16	243.3125	23	13	64	10	42.5237359	-122.0450592
+"895"	"Summer"	"klamath"	"Wingwatchers Lake Ewauna Nature Trail"	72965	142	51	1430.6862745098	5	7	88	2	42.2158372	-121.788817
+"896"	"Summer"	"klamath"	"Wood River Wetland"	163527	191	188	869.824468085106	10	1	89	1	42.5807466	-121.9327068
+"897"	"Summer"	"lake"	"Christmas Valley (town)"	65590	150	22	2981.36363636364	3	4	93	2	43.2415347	-120.682394
+"898"	"Summer"	"lake"	"Goose Lake State Recreation Area (Oregon)"	45834	179	161	284.683229813665	15	2	83	7	41.9941909	-120.3235781
+"899"	"Summer"	"lake"	"Lake Abert"	679616	114	64	10619	2	7	91	3	42.613	-120.2269
+"900"	"Summer"	"lake"	"Lake Abert--south end"	58320	73	29	2011.03448275862	4	28	68	10	42.5265592	-120.2451038
+"901"	"Summer"	"lake"	"Lakeview Settling Ponds"	19794	115	44	449.863636363636	10	6	84	6	42.1812624	-120.3649235
+"902"	"Summer"	"lake"	"Summer Lake"	11393	113	18	632.944444444444	7	8	85	4.5	42.825	-120.7456
+"903"	"Summer"	"lake"	"Summer Lake Wildlife Area"	471798	209	237	1990.70886075949	5	1	94	1	42.950819	-120.7639503
+"904"	"Summer"	"lake"	"Summer Lake Wildlife Area Headquarters"	15596	151	73	213.643835616438	20	3	77	8	42.9549463	-120.7868671
+"905"	"Summer"	"lake"	"Summer Lake Wildlife Area--Bullgate Dike"	5820	89	13	447.692307692308	11	15	74	9	42.931446	-120.74207
+"906"	"Summer"	"lake"	"Summer Lake Wildlife Area--East Link and Gull Island"	35134	107	18	1951.88888888889	6	9	85	4.5	42.955722	-120.714412
+"907"	"Summer"	"lane"	"Creswell Sewage Ponds (restricted access)"	11493	121	3	3831	3	20	77	5	43.92343	-123.0364037
+"908"	"Summer"	"lane"	"Dorena Reservoir--East Wildlife Area"	5953	120	7	850.428571428571	10	22	68	7	43.7542951	-122.8974116
+"909"	"Summer"	"lane"	"Fern Ridge WMA (general)"	47512	148	28	1696.85714285714	5	7	88	3	44.0893	-123.2945
+"910"	"Summer"	"lane"	"Fern Ridge WMA--Fisher Butte Unit north (dikes around Pond 4, 5, 6, and west edge of 3)"	206559	173	157	1315.66242038217	7	2	91	2	44.0667313	-123.263855
+"911"	"Summer"	"lane"	"Fern Ridge WMA--Fisher Butte Unit south (dikes around Pond 1, 2, and east edge of 3)"	55534	153	86	645.744186046512	18	4	78	4	44.0561844	-123.2576752
+"912"	"Summer"	"lane"	"Fern Ridge WMA--Perkins Peninsula"	83057	165	229	362.694323144105	41	3	56	10	44.0569986	-123.2899475
+"913"	"Summer"	"lane"	"Fern Ridge WMA--Royal Ave. area (general)"	718842	211	517	1390.41005802708	6	1	93	1	44.0705825	-123.2574606
+"914"	"Summer"	"lane"	"Fern Ridge WMA--Shore Lane Park"	16583	125	27	614.185185185185	21	17	62	8	44.0989507	-123.2714403
+"915"	"Summer"	"lane"	"Oakview Ave neighborhood"	58274	108	3	19424.6666666667	1	28.5	70.5	6	44.06805	-123.233293
+"916"	"Summer"	"lane"	"Row River Scenic Bike Route"	11483	99	5	2296.6	4	36	60	9	43.7905041	-123.0305643
+"917"	"Summer"	"lincoln"	"Boiler Bay State Wayside"	248334	137	423	587.078014184397	12	6	82	5	44.8288173	-124.0658998
+"918"	"Summer"	"lincoln"	"Lincoln City Sewage Treatment Plant (restricted access)"	19717	124	50	394.34	22	8	70	8	44.930364	-124.007842
+"919"	"Summer"	"lincoln"	"Mark Hatfield Marine Science Center and Estuary Trail"	269602	174	550	490.185454545455	15	2	83	4	44.6231604	-124.0434766
+"920"	"Summer"	"lincoln"	"Ona Beach SP"	110162	184	319	345.335423197492	24	1	75	7	44.5213563	-124.0740108
+"921"	"Summer"	"lincoln"	"Salishan Spit"	10197	106	12	849.75	7	16	77	6	44.90648	-124.029544
+"922"	"Summer"	"lincoln"	"Siletz Bay--Salishan Nature Trail"	99675	170	156	638.942307692308	11	3	86	2.5	44.8908168	-124.0253448
+"923"	"Summer"	"lincoln"	"Siletz Bay--Viewpoint from SW Fleet Ave."	15357	98	21	731.285714285714	9	30.5	60.5	9	44.9135149	-124.0174895
+"924"	"Summer"	"lincoln"	"Yaquina Bay"	6740	99	14	481.428571428571	16	28.5	55.5	10	44.6180325	-124.023757
+"925"	"Summer"	"lincoln"	"Yaquina Head Outstanding Natural Area"	428455	143	324	1322.39197530864	4	5	91	1	44.6757053	-124.0724874
+"926"	"Summer"	"lincoln"	"Yaquina Head Outstanding Natural Area--Lighthouse"	581969	116	420	1385.64047619048	3	11	86	2.5	44.6768624	-124.0788388
+"927"	"Summer"	"linn"	"Belts Dr."	3620	82	22	164.545454545455	12	7	81	6	44.3027215	-123.0264473
+"928"	"Summer"	"linn"	"Big Lake"	6065	130	51	118.921568627451	17	1	82	5	44.3762305	-121.8713379
+"929"	"Summer"	"linn"	"Bird Haven (restricted access)"	591	58	5	118.2	18.5	13.5	68	7	44.785266	-122.742029
+"930"	"Summer"	"linn"	"Brownsville Sewage Ponds (restricted/no access)"	874	46	4	218.5	10	23.5	66.5	8	44.3930703	-122.9994965
+"931"	"Summer"	"linn"	"Cheadle Lake"	9943	98	24	414.291666666667	4	6	90	2.5	44.5172866	-122.8906417
+"932"	"Summer"	"linn"	"Oak Creek Greenbelt Trail"	3824	69	5	764.8	1	10	89	4	44.5992674	-123.1185135
+"933"	"Summer"	"linn"	"Riverfront Park (Linn Co.)"	591	55	5	118.2	18.5	15.5	66	9	44.2722465	-123.1739044
+"934"	"Summer"	"linn"	"Simpson Park"	2634	80	34	77.4705882352941	28	8	64	10	44.6461302	-123.0736621
+"935"	"Summer"	"linn"	"Talking Water Gardens"	30529	114	113	270.16814159292	6	2	92	1	44.6444396	-123.0718371
+"936"	"Summer"	"linn"	"William L. Finley NWR--Snag Boat Bend Wildlife Area"	12299	105	41	299.975609756098	5	5	90	2.5	44.4257811	-123.2115311
+"937"	"Summer"	"malheur"	"Antelope Reservoir"	19926	114	28	711.642857142857	1	1	98	1	42.9043251	-117.2354507
+"938"	"Summer"	"malheur"	"Beulah Reservoir"	7260	107	17	427.058823529412	2	2	96	2	43.9293696	-118.1549978
+"939"	"Summer"	"malheur"	"Bully Creek Campground"	1399	57	10	139.9	10	12.5	77.5	10	44.0244843	-117.4028108
+"940"	"Summer"	"malheur"	"Bully Creek Reservoir"	1369	83	8	171.125	9	3	88	5	44.0305928	-117.4175835
+"941"	"Summer"	"malheur"	"Chukar Park"	1165	80	19	61.3157894736842	16	5.5	78.5	9	43.8036879	-118.1552741
+"942"	"Summer"	"malheur"	"Lake Owyhee State Park"	1108	81	9	123.111111111111	11	4	85	6	43.6191014	-117.2430426
+"943"	"Summer"	"malheur"	"Malheur Reservoir"	2840	80	8	355	3	5.5	91.5	3	44.3628877	-117.6931
+"944"	"Summer"	"malheur"	"Ontario Sewage Ponds (restricted access)"	4133	65	13	317.923076923077	4	7	89	4	44.0417458	-117.0024526
+"945"	"Summer"	"malheur"	"Owyhee River--Three Forks"	716	60	7	102.285714285714	12	9	79	8	42.543411	-117.1595764
+"946"	"Summer"	"malheur"	"Pole Creek Reservoir"	899	59	5	179.8	7	10	83	7	44.2523497	-117.56001
+"947"	"Summer"	"marion"	"Ankeny NWR"	42104	161	90	467.822222222222	7	2	91	2	44.7842	-123.0767
+"948"	"Summer"	"marion"	"Ankeny NWR--Eagle Marsh"	64009	141	192	333.380208333333	8	3	89	3	44.7967032	-123.0813789
+"949"	"Summer"	"marion"	"Ankeny NWR--Pintail Marsh"	278835	167	391	713.132992327366	4	1	95	1	44.7762488	-123.0898891
+"950"	"Summer"	"marion"	"Ankeny NWR--Pintail and Egret Marsh--Boardwalk and Blind"	4632	98	31	149.41935483871	22	10	68	10	44.781896	-123.0786324
+"951"	"Summer"	"marion"	"Cascade Hwy. ponds (west of Oregon Garden fence)"	1385	60	1	1385	1	29	70	9	44.9953515	-122.7959812
+"952"	"Summer"	"marion"	"Cascades Gateway City Park"	20737	84	23	901.608695652174	2	15	83	5	44.9127602	-122.9909992
+"953"	"Summer"	"marion"	"Keizer Rapids Park"	10461	96	41	255.146341463415	14	11	75	8	44.990908	-123.057667
+"954"	"Summer"	"marion"	"Minto-Brown Island Park"	49722	138	157	316.700636942675	9	4	87	4	44.924703	-123.0618095
+"955"	"Summer"	"marion"	"St. Louis Rd.--ponds"	12208	86	24	508.666666666667	6	13.5	80.5	6	45.1150228	-122.9347839
+"956"	"Summer"	"marion"	"Willamette Mission SP"	14398	108	58	248.241379310345	15	6.5	78.5	7	45.0792786	-123.0459309
+"957"	"Summer"	"morrow"	"Boardman Marina and RV Park"	7326	96	47	155.872340425532	8	4	88	6	45.8446728	-119.7066665
+"958"	"Summer"	"morrow"	"Boardman Sewage Ponds"	5878	66	31	189.612903225806	6	6	88	6	45.8474044	-119.6485174
+"959"	"Summer"	"morrow"	"Irrigon Marina Park"	1986	46	8	248.25	2	9.5	88.5	4	45.9008315	-119.4925565
+"960"	"Summer"	"morrow"	"Irrigon Wildlife Viewing Area"	2294	92	14	163.857142857143	7	5	88	6	45.9056513	-119.4445395
+"961"	"Summer"	"morrow"	"Paterson Ferry Rd."	2439	31	10	243.9	3	13	84	8	45.9156773	-119.5584154
+"962"	"Summer"	"morrow"	"Threemile Canyon Road and Ponds"	1401	49	11	127.363636363636	9	8	83	9	45.801623	-119.953362
+"963"	"Summer"	"morrow"	"Tower Rd. Ponds"	1066	46	14	76.1428571428571	11	9.5	79.5	10	45.75073	-119.83194
+"964"	"Summer"	"morrow"	"Umatilla NWR (Oregon)"	45483	141	56	812.196428571429	1	1	98	1	45.9049415	-119.5731354
+"965"	"Summer"	"morrow"	"Umatilla NWR--McCormack Slough"	7497	102	32	234.28125	4	2	94	2	45.8918422	-119.5853019
+"966"	"Summer"	"morrow"	"Willow Creek Reservoir (Morrow Co.)"	4572	99	21	217.714285714286	5	3	92	3	45.3427134	-119.5435904
+"967"	"Summer"	"multnomah"	"Broughton Beach"	201305	148	330	610.015151515152	14	6.5	79.5	4.5	45.6003622	-122.6152539
+"968"	"Summer"	"multnomah"	"Delta Park West--Columbia Slough Trail"	25027	112	29	863	8	24.5	67.5	9	45.5952502	-122.7029564
+"969"	"Summer"	"multnomah"	"Heron Lakes Golf Club--Force Lake"	140279	141	344	407.787790697674	24	8	68	7.5	45.604911	-122.6953554
+"970"	"Summer"	"multnomah"	"NE Sundial Rd.--Company Lake"	44802	131	97	461.876288659794	21	15	64	10	45.5615042	-122.40696
+"971"	"Summer"	"multnomah"	"Sandy River Mouth--West Bank"	47587	140	63	755.349206349206	11	9.5	79.5	4.5	45.5644545	-122.3985904
+"972"	"Summer"	"multnomah"	"Sauvie Island--JL Access Rd."	34347	140	48	715.5625	12	9.5	78.5	6	45.723516	-122.7821719
+"973"	"Summer"	"multnomah"	"Sauvie Island--Oak Island (Multnomah Co.)"	119158	172	207	575.642512077295	16	1	83	3	45.7144802	-122.8207541
+"974"	"Summer"	"multnomah"	"Sauvie Island--Sturgeon Lake J2 Viewpoint"	65606	139	45	1457.91111111111	3	11	86	2	45.72045	-122.791618
+"975"	"Summer"	"multnomah"	"Smith and Bybee Lakes Wetlands Natural Area"	264947	163	209	1267.68899521531	4	3	93	1	45.6203	-122.7456
+"976"	"Summer"	"multnomah"	"Smith and Bybee Lakes--Wetland Interlakes Trail"	188150	166	517	363.926499032882	30	2	68	7.5	45.616676	-122.7266407
+"977"	"Summer"	"polk"	"Baskett Slough NWR"	50988	155	146	349.232876712329	9	1	90	3	44.9614021	-123.257246
+"978"	"Summer"	"polk"	"Baskett Slough NWR--Mofitti Marsh"	20389	123	48	424.770833333333	6	3	91	1.5	44.9767375	-123.2665345
+"979"	"Summer"	"polk"	"Baskett Slough NWR--Morgan Lake"	41264	146	112	368.428571428571	7	2	91	1.5	44.9814388	-123.2613867
+"980"	"Summer"	"polk"	"Baskett Slough NWR--Parvipes Marsh"	4777	95	27	176.925925925926	18	10	72	10	44.968191	-123.2679212
+"981"	"Summer"	"polk"	"Baskett Slough NWR--South Slough transect path"	24605	106	80	307.5625	11	5	84	5	44.9562801	-123.2571548
+"982"	"Summer"	"polk"	"Fishback Hill"	5871	89	9	652.333333333333	2	11	87	4	44.8382822	-123.2991743
+"983"	"Summer"	"polk"	"Luckiamute SNA North unit (general, use more specific location if possible)"	8782	104	39	225.179487179487	15	6	79	7	44.741505	-123.1529274
+"984"	"Summer"	"polk"	"Luckiamute SNA North--Luckiamute Landing Greenway Tract (gallery forest and restoration)"	9530	97	44	216.590909090909	17	8	75	9	44.7303046	-123.1517223
+"985"	"Summer"	"polk"	"Monmouth Sewage Ponds (restricted access)"	6433	72	15	428.866666666667	5	19.5	75.5	8	44.8570857	-123.2194376
+"986"	"Summer"	"polk"	"Salemtowne Retirement Community Campus"	5583	79	12	465.25	3	14	83	6	44.9770562	-123.068338
+"987"	"Summer"	"sherman"	"Biggs--Rufus Frontage Rd. Ponds"	1146	66	27	42.4444444444444	15	4	81	10	45.6813591	-120.7830334
+"988"	"Summer"	"sherman"	"Cottonwood Canyon SP (Sherman Co.)"	1930	83	45	42.8888888888889	14	2	84	7.5	45.4783087	-120.4681778
+"989"	"Summer"	"sherman"	"Cottonwood Canyon SP--Lone Tree Campground"	1784	79	38	46.9473684210526	13	3	84	7.5	45.4828524	-120.4626095
+"990"	"Summer"	"sherman"	"Deschutes River State Recreation Area"	14433	127	132	109.340909090909	4	1	95	1	45.6306103	-120.9078884
+"991"	"Summer"	"sherman"	"John Day Dam--Boat Ramp"	7864	56	46	170.95652173913	1	6	93	2.5	45.7040964	-120.7229555
+"992"	"Summer"	"sherman"	"John Day Dam--Spillway Area"	7769	60	47	165.297872340426	2	5	93	2.5	45.7101351	-120.6945992
+"993"	"Summer"	"sherman"	"Le Page Park"	1416	52	24	59	7	7	86	4	45.7288945	-120.651485
+"994"	"Summer"	"sherman"	"Macks Canyon"	306	47	5	61.2	6	9	85	5.5	45.388957	-120.8755195
+"995"	"Summer"	"sherman"	"Rockbeach Ln."	1767	27	11	160.636363636364	3	15	82	9	45.6944531	-120.7452607
+"996"	"Summer"	"sherman"	"Wasco Sewage Ponds"	1504	45	23	65.3913043478261	5	10	85	5.5	45.5977322	-120.7061398
+"997"	"Summer"	"tillamook"	"Bayocean Spit"	22186	152	55	403.381818181818	15	4	81	3.5	45.553569	-123.9435911
+"998"	"Summer"	"tillamook"	"Bayocean Spit--bay (east) side"	101221	175	192	527.192708333333	12	2	86	1	45.5217439	-123.9484406
+"999"	"Summer"	"tillamook"	"Bayocean Spit--ocean (west) side"	28977	120	94	308.265957446808	23	11	66	9	45.5231871	-123.954277
+"1000"	"Summer"	"tillamook"	"Nehalem Bay SP"	90761	202	239	379.753138075314	18	1	81	3.5	45.6883197	-123.9372826
+"1001"	"Summer"	"tillamook"	"Nehalem Bay SP--Boat Ramp"	39289	131	117	335.803418803419	21	8	71	7	45.68955	-123.93382
+"1002"	"Summer"	"tillamook"	"Nehalem River--dike trail"	22403	101	24	933.458333333333	2	21.5	76.5	5	45.7163095	-123.8905317
+"1003"	"Summer"	"tillamook"	"Nehalem Sewage Ponds"	74816	129	110	680.145454545455	7	9	84	2	45.7161882	-123.8876724
+"1004"	"Summer"	"tillamook"	"Tillamook Bay--Barview Jetty"	94405	132	273	345.805860805861	20	7	73	6	45.56952	-123.949414
+"1005"	"Summer"	"tillamook"	"Tohl Ave. Dike Trail"	7076	103	13	544.307692307692	11	19	70	8	45.71071	-123.9047776
+"1006"	"Summer"	"umatilla"	"Cold Springs NWR"	114355	166	94	1216.54255319149	1	1	98	1	45.8502011	-119.1532407
+"1007"	"Summer"	"umatilla"	"Hat Rock SP"	3495	87	13	268.846153846154	7	8	85	6	45.9162882	-119.1631222
+"1008"	"Summer"	"umatilla"	"McKay Creek NWR"	18113	150	37	489.540540540541	5	2	93	2.5	45.5944377	-118.7966709
+"1009"	"Summer"	"umatilla"	"McKay Creek NWR--McKay Reservoir"	3393	105	29	117	15	6	79	10	45.5902094	-118.7934837
+"1010"	"Summer"	"umatilla"	"McNary Dam (OR)"	3745	83	26	144.038461538462	11	9	80	8.5	45.932289	-119.3023288
+"1011"	"Summer"	"umatilla"	"McNary Dam--Nature Trail"	6184	106	44	140.545454545455	12	5	83	7	45.9284683	-119.3115234
+"1012"	"Summer"	"umatilla"	"McNary Wildlife Nature Area"	27012	137	53	509.660377358491	4	3	93	2.5	45.9286872	-119.3130684
+"1013"	"Summer"	"umatilla"	"River Parkway"	3272	74	20	163.6	10	10	80	8.5	45.6780859	-118.7662089
+"1014"	"Summer"	"umatilla"	"Umatilla Marina Park"	20333	68	21	968.238095238095	2	12	86	5	45.9239464	-119.3308032
+"1015"	"Summer"	"umatilla"	"Warehouse Beach Recreation Area"	12530	121	28	447.5	6	4	90	4	45.9212418	-119.1412541
+"1016"	"Summer"	"union"	"La Grande Sewage Ponds"	182497	153	99	1843.40404040404	1	2	97	1.5	45.2869651	-118.0295563
+"1017"	"Summer"	"union"	"Ladd Marsh WMA"	9706	131	63	154.063492063492	14	5	81	8	45.2585762	-118.0359077
+"1018"	"Summer"	"union"	"Ladd Marsh WMA--Peach Rd."	22750	130	60	379.166666666667	5	6	89	4	45.2491806	-117.9520941
+"1019"	"Summer"	"union"	"Ladd Marsh WMA--Schoolhouse Pond"	35681	139	43	829.790697674419	3	4	93	3	45.270481	-117.9520051
+"1020"	"Summer"	"union"	"Morgan Lake"	7582	140	37	204.918918918919	11	3	86	6	45.2999306	-118.1369305
+"1021"	"Summer"	"union"	"Rhinehart Canyon"	8025	127	56	143.303571428571	16	7	77	10	45.5152488	-117.9260445
+"1022"	"Summer"	"union"	"Thief Valley Reservoir (Union Co.)"	99098	182	90	1101.08888888889	2	1	97	1.5	45.0229344	-117.785368
+"1023"	"Summer"	"union"	"Union Co. Fairgrounds Pond"	9916	112	15	661.066666666667	4	8	88	5	45.3455884	-118.1084073
+"1024"	"Summer"	"union"	"Wilkinson Ln."	4553	82	16	284.5625	6	14.5	79.5	9	45.275472	-117.943449
+"1025"	"Summer"	"union"	"Wolf Creek Reservoir"	2122	103	8	265.25	8	9	83	7	45.0572407	-118.0249023
+"1026"	"Summer"	"wallowa"	"Enterprise WMA"	12717	124	66	192.681818181818	4	1	95	2	45.4193591	-117.3054886
+"1027"	"Summer"	"wallowa"	"Joseph (town)"	1326	87	23	57.6521739130435	26	7	67	9.5	45.3516627	-117.228241
+"1028"	"Summer"	"wallowa"	"Joseph Sewage Ponds (restricted access)"	6279	86	25	251.16	1	8	91	3	45.3730226	-117.2189293
+"1029"	"Summer"	"wallowa"	"Kinney Lake"	9413	119	39	241.358974358974	2	2	96	1	45.3140722	-117.1021342
+"1030"	"Summer"	"wallowa"	"McCully Creek & Trail"	6616	99	77	85.9220779220779	13	4.5	82.5	4	45.2756112	-117.1372712
+"1031"	"Summer"	"wallowa"	"Tucker Down Rd."	1397	58	15	93.1333333333333	11	17	72	7.5	45.31928	-117.124931
+"1032"	"Summer"	"wallowa"	"Wallowa Lake SP"	6845	116	116	59.0086206896552	25	3	72	7.5	45.2814092	-117.2131348
+"1033"	"Summer"	"wallowa"	"Wallowa Mts.--Mirror Lake"	994	68	13	76.4615384615385	16	11	73	6	45.1784574	-117.3095695
+"1034"	"Summer"	"wallowa"	"Zumwalt Prairie"	1732	96	22	78.7272727272727	14	6	80	5	45.460251	-117.0921135
+"1035"	"Summer"	"wallowa"	"Zumwalt Prairie--Canyon Vista Trail"	542	57	7	77.4285714285714	15	18	67	9.5	45.5401416	-116.9234684
+"1036"	"Summer"	"wasco"	"Dufur City Park  and  Sewage Ponds"	5072	94	32	158.5	6	3	91	3	45.450227	-121.125211
+"1037"	"Summer"	"wasco"	"Dufur Gap Rd."	1254	71	6	209	5	11	84	5	45.3906146	-121.1550379
+"1038"	"Summer"	"wasco"	"Lone Pine Island viewpoint (restricted access)"	11471	53	48	238.979166666667	3	22	75	10	45.606073	-121.139799
+"1039"	"Summer"	"wasco"	"Mayer SP"	3162	79	34	93	13	7	80	7.5	45.682518	-121.286896
+"1040"	"Summer"	"wasco"	"Pine Hollow Reservoir"	2342	63	18	130.111111111111	9	14.5	76.5	9	45.2483193	-121.2897937
+"1041"	"Summer"	"wasco"	"Price Rd. wetlands"	5169	111	24	215.375	4	2	94	2	45.24208	-121.2697506
+"1042"	"Summer"	"wasco"	"Rock Creek Reservoir (Wasco Co.)"	2072	92	25	82.88	16	4	80	7.5	45.2241886	-121.3886261
+"1043"	"Summer"	"wasco"	"Taylor Lake"	3792	89	28	135.428571428571	8	6	86	4	45.6408078	-121.2058067
+"1044"	"Summer"	"wasco"	"The Dalles Riverfront Park"	31863	128	109	292.321100917431	2	1	97	1	45.6000709	-121.1664104
+"1045"	"Summer"	"wasco"	"The Dalles Riverfront Trail--Taylor Lake to Bargeway"	2828	73	18	157.111111111111	7	10	83	6	45.633392	-121.207058
+"1046"	"Summer"	"washington"	"Commonwealth Lake Park"	77904	129	160	486.9	12	9	79	9	45.5119108	-122.8098106
+"1047"	"Summer"	"washington"	"Fernhill Wetlands (general)"	612199	177	439	1394.53075170843	3	1	96	1	45.5064875	-123.0851855
+"1048"	"Summer"	"washington"	"Fernhill Wetlands--Natural Treatment System (ASoP/CWS survey)"	196498	141	147	1336.72108843537	4	5	91	4	45.507174	-123.0879879
+"1049"	"Summer"	"washington"	"Fernhill Wetlands--area outside of NTS (ASoP/CWS survey)"	73571	134	32	2299.09375	1	7	92	3	45.5067529	-123.0825162
+"1050"	"Summer"	"washington"	"Greenway Park"	19774	116	61	324.16393442623	18	10	72	10	45.4567592	-122.7949619
+"1051"	"Summer"	"washington"	"Henry Hagg Lake Park (Scoggins Valley Park)"	28993	140	41	707.146341463415	8	6	86	6.5	45.473855	-123.2135582
+"1052"	"Summer"	"washington"	"Jackson Bottom Wetlands Preserve"	138742	151	211	657.545023696683	9	4	87	5	45.505	-122.9889
+"1053"	"Summer"	"washington"	"Koll Center Wetlands"	206797	130	197	1049.73096446701	6	8	86	6.5	45.4562776	-122.7911854
+"1054"	"Summer"	"washington"	"Tualatin River NWR"	198082	168	516	383.87984496124	13	3	84	8	45.3811203	-122.8353667
+"1055"	"Summer"	"washington"	"Tualatin River NWR--Atfálat'i Unit"	380249	176	319	1192.00313479624	5	2	93	2	45.3817834	-122.8312254
+"1056"	"Summer"	"wheeler"	"Clarno BLM Boat Ramp"	725	54	19	38.1578947368421	11	7.5	81.5	7	44.9161887	-120.4692091
+"1057"	"Summer"	"wheeler"	"Dollarhide Pond"	306	49	8	38.25	10	11	79	8.5	44.560808	-120.142614
+"1058"	"Summer"	"wheeler"	"Fopiano Reservoir"	1060	60	11	96.3636363636364	1	4.5	94.5	2	44.5869421	-119.9449925
+"1059"	"Summer"	"wheeler"	"Fossil (town)"	1076	51	23	46.7826086956522	8	9	83	6	44.9980464	-120.2151403
+"1060"	"Summer"	"wheeler"	"Fossil Sewage Ponds"	1698	60	25	67.92	5	4.5	90.5	3	45.0011188	-120.2275895
+"1061"	"Summer"	"wheeler"	"Fossil Sewage Ponds-farm pond"	1550	44	18	86.1111111111111	2	14.5	83.5	5	45.0088659	-120.2345227
+"1062"	"Summer"	"wheeler"	"John Day Fossil Beds NM--Painted Hills Picnic Area"	784	71	42	18.6666666666667	24	2	74	10	44.6540559	-120.2517852
+"1063"	"Summer"	"wheeler"	"John Day Fossil Beds NM--Painted Hills Unit"	2914	73	38	76.6842105263158	4	1	95	1	44.6517908	-120.2670765
+"1064"	"Summer"	"wheeler"	"Mitchell (town)"	1373	66	34	40.3823529411765	9	3	88	4	44.5667051	-120.1539474
+"1065"	"Summer"	"wheeler"	"Service Creek Campground"	419	57	13	32.2307692307692	15	6	79	8.5	44.7919168	-120.0019133
+"1066"	"Summer"	"yamhill"	"Grand Island Driving Loop"	1630	56	11	148.181818181818	9	11.5	79.5	9	45.1259174	-123.0373917
+"1067"	"Summer"	"yamhill"	"Huddleston Fish Pond"	2160	72	30	72	14	6	80	8	45.0800143	-123.476364
+"1068"	"Summer"	"yamhill"	"Newberg City Water Treatment Ponds (restricted access)"	2487	59	15	165.8	8	10	82	7	45.2832733	-122.9564166
+"1069"	"Summer"	"yamhill"	"Our Lady of Guadalupe Trappist Abbey trails"	2865	74	17	168.529411764706	7	5	88	4	45.2859007	-123.0980515
+"1070"	"Summer"	"yamhill"	"Sheridan South Side Park and Fishing Pond"	6186	94	35	176.742857142857	6	2	92	3	45.087649	-123.391419
+"1071"	"Summer"	"yamhill"	"Sheridan WTP Ponds (restricted access)"	25909	103	29	893.413793103448	2	1	97	1	45.0875812	-123.3833313
+"1072"	"Summer"	"yamhill"	"Wennerberg Park"	1854	63	10	185.4	5	8	87	5	45.2917566	-123.1871538
+"1073"	"Summer"	"yamhill"	"Willamette Greenway--Grand Island Access"	5695	92	48	118.645833333333	12	3	85	6	45.104299	-123.021792
+"1074"	"Summer"	"yamhill"	"Yamhill Sewage Ponds (restricted access)"	6625	88	16	414.0625	3	4	93	2	45.337617	-123.1891394
+"1075"	"Winter"	"baker"	"Baker Sewage Treatment Ponds (restricted access)"	4236	34	9	470.666666666667	1	5	94	2.5	44.8135987	-117.8437478
+"1076"	"Winter"	"baker"	"Bob's Lake"	10237	43	26	393.730769230769	2	4	94	2.5	44.8375823	-117.8182411
+"1077"	"Winter"	"baker"	"Coral Ditch"	6327	56	22	287.590909090909	3	1	96	1	44.7987496	-117.8081346
+"1078"	"Winter"	"baker"	"Farewell Bend SP"	4228	53	22	192.181818181818	5	2	93	4	44.3059155	-117.2263527
+"1079"	"Winter"	"baker"	"Halfway (town)"	232	14	1	232	4	18	78	9.5	44.877085	-117.108465
+"1080"	"Winter"	"baker"	"Hewitt Park"	133	19	1	133	10	12	78	9.5	44.7566797	-117.126859
+"1081"	"Winter"	"baker"	"Memorial Pond"	1747	25	11	158.818181818182	8	6	86	5	44.872056	-117.8157091
+"1082"	"Winter"	"baker"	"North Powder Pond"	1142	47	22	51.9090909090909	15	3	82	7	45.013214	-117.930166
+"1083"	"Winter"	"baker"	"Oregon Trails West RV Park"	321	24	4	80.25	14	7.5	78.5	8	44.8025931	-117.8182755
+"1084"	"Winter"	"baker"	"Ruckles Creek Rd."	360	20	2	180	7	10.5	82.5	6	44.7858974	-117.6293921
+"1085"	"Winter"	"benton"	"Herbert Farm and Natural Area"	142784	107	59	2420.06779661017	8	11	81	7	44.5198988	-123.2947755
+"1086"	"Winter"	"benton"	"Philomath Sewage Ponds (restricted access)"	1554935	142	318	4889.73270440252	5	1	94	1	44.5185755	-123.3444586
+"1087"	"Winter"	"benton"	"Willamette Park (Benton Co.)"	176138	132	109	1615.94495412844	14	3	83	4.5	44.5410582	-123.2462597
+"1088"	"Winter"	"benton"	"William L. Finley NWR"	541202	138	241	2245.65145228216	10	2	88	3	44.4215209	-123.3151817
+"1089"	"Winter"	"benton"	"William L. Finley NWR--Bruce Rd."	401582	119	178	2256.07865168539	9	8	83	4.5	44.3895666	-123.3003867
+"1090"	"Winter"	"benton"	"William L. Finley NWR--Cabell Marsh"	322920	121	151	2138.54304635762	12	7	81	7	44.4152525	-123.319205
+"1091"	"Winter"	"benton"	"William L. Finley NWR--Cheadle Marsh"	83751	80	15	5583.4	2	34	64	10	44.3954315	-123.3006334
+"1092"	"Winter"	"benton"	"William L. Finley NWR--McFadden Marsh"	1720130	127	336	5119.43452380952	4	4	92	2	44.3907013	-123.2976294
+"1093"	"Winter"	"benton"	"William L. Finley NWR--Prairie Overlook"	423411	116	321	1319.03738317757	17	10	73	9	44.4242813	-123.304815
+"1094"	"Winter"	"benton"	"William L. Finley NWR--Scrape Pond"	907466	96	141	6435.92907801418	1	18	81	7	44.3898196	-123.3121777
+"1095"	"Winter"	"clackamas"	"Anderson Rd. Swale"	105031	102	64	1641.109375	2	1.5	96.5	1	45.240578	-122.746159
+"1096"	"Winter"	"clackamas"	"Blount Swale overlook (restricted access)"	47884	79	46	1040.95652173913	4	12.5	83.5	4	45.2639938	-122.6556319
+"1097"	"Winter"	"clackamas"	"Brown's Ferry Park"	48005	102	141	340.460992907801	17	1.5	81.5	6	45.3830796	-122.7380133
+"1098"	"Winter"	"clackamas"	"Clackamette Park"	36761	79	86	427.453488372093	13	12.5	74.5	8	45.3719259	-122.6032162
+"1099"	"Winter"	"clackamas"	"Ivor Davies Park"	20131	92	35	575.171428571429	6	5	89	2	45.136353	-122.570065
+"1100"	"Winter"	"clackamas"	"Meldrum Bar Park"	31905	86	50	638.1	5	10	85	3	45.3767733	-122.6143489
+"1101"	"Winter"	"clackamas"	"Milwaukie Riverfront Park (previously Jefferson St. Boat Launch)"	35569	98	122	291.549180327869	23	3	74	9	45.4412963	-122.642827
+"1102"	"Winter"	"clackamas"	"River Island Natural Area--North Unit"	2510	70	2	1255	3	19.5	77.5	7	45.377883	-122.3986139
+"1103"	"Winter"	"clackamas"	"River Island Natural Area--South Unit"	18557	90	42	441.833333333333	11	7	82	5	45.371773	-122.405607
+"1104"	"Winter"	"clatsop"	"Brownsmead area"	206580	145	105	1967.42857142857	2	1	97	1	46.2151793	-123.5395432
+"1105"	"Winter"	"clatsop"	"Cannon Beach"	22892	113	102	224.43137254902	24	5	71	7	45.888186	-123.9646626
+"1106"	"Winter"	"clatsop"	"Cannon Beach Settling Ponds"	50792	106	168	302.333333333333	20	8	72	6	45.8972364	-123.9574099
+"1107"	"Winter"	"clatsop"	"Columbia River--Tenasillahe Island (boat access only)"	18941	93	8	2367.625	1	10	89	3	46.241764	-123.4520817
+"1108"	"Winter"	"clatsop"	"Columbia River--Welch Island (boat access only)"	5435	65	3	1811.66666666667	4	31.5	64.5	9	46.2590198	-123.4854698
+"1109"	"Winter"	"clatsop"	"Sunset Beach Recreation Area"	20169	109	64	315.140625	19	6	75	5	46.1011393	-123.9375036
+"1110"	"Winter"	"clatsop"	"Svenson Island Rd."	68118	119	88	774.068181818182	9	3	88	4	46.1760972	-123.6502433
+"1111"	"Winter"	"clatsop"	"Warrenton Sewage Ponds (restricted access)"	11973	76	11	1088.45454545455	7	25.5	67.5	8	46.1744221	-123.921833
+"1112"	"Winter"	"clatsop"	"Wireless Rd."	161848	127	120	1348.73333333333	5	2	93	2	46.1602748	-123.8265181
+"1113"	"Winter"	"columbia"	"Crown Zellerbach Trail (east end)"	162930	134	189	862.063492063492	15	2	83	6	45.754063	-122.850469
+"1114"	"Winter"	"columbia"	"Dalton Lake"	7168	93	11	651.636363636364	18	10.5	71.5	9	45.8788977	-122.8071605
+"1115"	"Winter"	"columbia"	"Dike Rd. flats"	13824	93	14	987.428571428571	14	10.5	75.5	7	46.1157233	-123.00698
+"1116"	"Winter"	"columbia"	"Marshland Bottoms"	48301	104	17	2841.23529411765	5	7	88	3	46.1190902	-123.281343
+"1117"	"Winter"	"columbia"	"Sauvie Island (Columbia Co.)"	92479	125	60	1541.31666666667	10	3	87	4	45.763691	-122.7948761
+"1118"	"Winter"	"columbia"	"Sauvie Island--Multnomah Channel (Columbia Co.)"	30357	89	23	1319.86956521739	11	15	74	8	45.7350623	-122.8404093
+"1119"	"Winter"	"columbia"	"Sauvie Island--Reeder Rd. Observation Shelter"	870471	119	354	2458.95762711864	7	4	89	2	45.73246	-122.7739978
+"1120"	"Winter"	"columbia"	"Sauvie Island--Rentenaar Rd."	1531561	139	400	3828.9025	2	1	97	1	45.7574596	-122.776551
+"1121"	"Winter"	"columbia"	"Scappoose Bottoms"	79256	115	46	1722.95652173913	9	5	86	5	45.779824	-122.824323
+"1122"	"Winter"	"coos"	"42S Coquille-Bandon Highway Bottoms"	26280	81	12	2190	5	19	76	7.5	43.1715612	-124.2086484
+"1123"	"Winter"	"coos"	"Bradley Lake"	9296	84	6	1549.33333333333	7	17	76	7.5	43.0658468	-124.4267299
+"1124"	"Winter"	"coos"	"Face Rock Wayside"	160660	76	42	3825.2380952381	3	22.5	74.5	9.5	43.1049466	-124.4348216
+"1125"	"Winter"	"coos"	"Fossil Point"	63271	111	66	958.651515151515	11	3.5	85.5	4	43.35817	-124.308573
+"1126"	"Winter"	"coos"	"Johnson Pond"	31648	111	17	1861.64705882353	6	3.5	90.5	2	43.1323095	-124.1843891
+"1127"	"Winter"	"coos"	"Kronenberg County Park--Coquille Point"	135722	91	92	1475.23913043478	9	13	78	5	43.1147	-124.4353
+"1128"	"Winter"	"coos"	"Millicoma Marsh"	32555	128	47	692.659574468085	13	1	86	3	43.3682768	-124.1908908
+"1129"	"Winter"	"coos"	"Norway (town)"	38542	121	3	12847.3333333333	1	2	97	1	43.098421	-124.157812
+"1130"	"Winter"	"coos"	"Oregon Islands NWR--Table Rock Overlook"	57268	85	38	1507.05263157895	8	15	77	6	43.1161121	-124.4333861
+"1131"	"Winter"	"coos"	"Pigeon Point"	11491	94	19	604.789473684211	14	11.5	74.5	9.5	43.3629632	-124.3008113
+"1132"	"Winter"	"crook"	"Barnes Butte Reservoir (restricted access)"	4940	55	9	548.888888888889	7	8	85	6	44.3324439	-120.8248901
+"1133"	"Winter"	"crook"	"Crooked River Canyon Hwy."	3371	44	7	481.571428571429	10	11	79	10	44.1487964	-120.8256661
+"1134"	"Winter"	"crook"	"Crooked River Park"	5167	79	14	369.071428571429	14	3	83	7	44.2893883	-120.8439617
+"1135"	"Winter"	"crook"	"Crooked River Wetlands Complex"	135347	104	110	1230.42727272727	6	1	93	2	44.3165109	-120.897857
+"1136"	"Winter"	"crook"	"Houston Lakes"	40845	83	33	1237.72727272727	5	2	93	2	44.2941213	-120.9893417
+"1137"	"Winter"	"crook"	"Ochoco Reservoir"	6772	60	17	398.352941176471	12	6	82	8	44.3066526	-120.6975174
+"1138"	"Winter"	"crook"	"Powell Butte Community Center"	1021164	42	32	31911.375	1	13	86	5	44.224277	-121.02622
+"1139"	"Winter"	"crook"	"Prineville Sewage Ponds (closed to the public as of 6/9/21)"	37723	75	26	1450.88461538462	3	4	93	2	44.3067524	-120.8712494
+"1140"	"Winter"	"crook"	"Prineville Sewage Ponds New (closed to the public as of 6/9/21)"	4234	61	8	529.25	8	5	87	4	44.3182601	-120.888319
+"1141"	"Winter"	"crook"	"Shumway Rd."	29321	36	19	1543.21052631579	2	17.5	80.5	9	44.2050986	-121.0468433
+"1142"	"Winter"	"curry"	"Cape Blanco SP"	3625	82	30	120.833333333333	18	5	77	6	42.8363249	-124.5461655
+"1143"	"Winter"	"curry"	"Chetco River--South Jetty"	6737	71	49	137.489795918367	14	10	76	7	42.0445123	-124.2695332
+"1144"	"Winter"	"curry"	"Floras Lake"	13661	129	28	487.892857142857	2	1	97	1	42.9038274	-124.5049667
+"1145"	"Winter"	"curry"	"Floras Lake--Boice-Cope Co. Park"	3099	93	33	93.9090909090909	25	2	73	9	42.9017474	-124.5022202
+"1146"	"Winter"	"curry"	"Gold Beach--Marina"	8161	83	50	163.22	11	4	85	3	42.4230764	-124.4195652
+"1147"	"Winter"	"curry"	"Jerry's Flat"	1137	57	3	379	3	23	74	8	42.4635519	-124.3685045
+"1148"	"Winter"	"curry"	"Langlois (town)"	2531	55	13	194.692307692308	6	25.5	68.5	10	42.925877	-124.449977
+"1149"	"Winter"	"curry"	"Pistol River lowlands"	4779	85	31	154.161290322581	13	3	84	4	42.2717782	-124.3969738
+"1150"	"Winter"	"curry"	"Port Orford (town)"	2534	76	20	126.7	15	7	78	5	42.7460604	-124.498229
+"1151"	"Winter"	"curry"	"Winchuck River mouth"	5882	81	24	245.083333333333	5	6	89	2	42.0059705	-124.2130351
+"1152"	"Winter"	"deschutes"	"Awbrey Meadows"	15799	69	6	2633.16666666667	1	20.5	78.5	5	44.094724	-121.341221
+"1153"	"Winter"	"deschutes"	"Deschutes River Trail--Old Mill (Mill A  and  Loggers Loops)"	250759	120	152	1649.73026315789	4	2	94	1.5	44.045064	-121.316421
+"1154"	"Winter"	"deschutes"	"Farewell Bend Park"	47474	100	76	624.657894736842	9	5	86	3	44.0413879	-121.3250685
+"1155"	"Winter"	"deschutes"	"First Street River Trail"	49076	99	102	481.137254901961	18	6	76	7.5	44.0696883	-121.3122797
+"1156"	"Winter"	"deschutes"	"Hatfield Lake"	280565	128	229	1225.17467248908	5	1	94	1.5	44.1232081	-121.198554
+"1157"	"Winter"	"deschutes"	"Old Mill Casting Pond"	18346	84	33	555.939393939394	13	11	76	7.5	44.0491197	-121.3179975
+"1158"	"Winter"	"deschutes"	"Redmond Sewage Ponds (restricted access)"	33685	104	73	461.438356164384	19	4	77	6	44.3352042	-121.2192706
+"1159"	"Winter"	"deschutes"	"River Meadows (restricted access)"	6832	70	3	2277.33333333333	2	19	79	4	43.8249157	-121.4900945
+"1160"	"Winter"	"deschutes"	"Riverbend Park"	36958	96	85	434.8	20	7	73	9	44.0424676	-121.3211632
+"1161"	"Winter"	"douglas"	"Fivemile Rd. (east side of Tahkenitch Lake)"	3197	55	4	799.25	4	19.5	76.5	8.5	43.773988	-124.11337
+"1162"	"Winter"	"douglas"	"Fords Pond"	78215	134	106	737.877358490566	5	1	94	1.5	43.3913165	-123.363111
+"1163"	"Winter"	"douglas"	"OC Brown County Park"	4125	57	1	4125	2	17.5	80.5	6	43.20659	-123.2299
+"1164"	"Winter"	"douglas"	"Plat I Reservoir"	12316	94	30	410.533333333333	8	4	88	3	43.394346	-123.2522678
+"1165"	"Winter"	"douglas"	"River Front Park"	4255	73	13	327.307692307692	10	8	82	5	43.2202092	-123.363094
+"1166"	"Winter"	"douglas"	"Stewart Park Wildlife Ponds & Nature Trail"	43107	96	53	813.339622641509	3	3	94	1.5	43.2276504	-123.3712292
+"1167"	"Winter"	"douglas"	"Tahkenitch Landing and Campground"	5777	71	23	251.173913043478	14	9.5	76.5	8.5	43.799787	-124.146764
+"1168"	"Winter"	"douglas"	"Umpqua River--Salmon Harbor Marina"	13986	99	57	245.368421052632	15	2	83	4	43.6839497	-124.1812992
+"1169"	"Winter"	"douglas"	"Wildlife Safari (restricted access)"	4139	58	7	591.285714285714	7	15.5	77.5	7	43.1429002	-123.4299911
+"1170"	"Winter"	"douglas"	"Winchester Bay Public Dock"	3875	87	28	138.392857142857	21	6	73	10	43.6780529	-124.1772008
+"1171"	"Winter"	"gilliam"	"Arlington (town)"	15868	86	85	186.682352941176	5	1	94	3	45.7193942	-120.2036047
+"1172"	"Winter"	"gilliam"	"Condon City Park"	1687	27	9	187.444444444444	4	8.5	87.5	5	45.2326076	-120.1848292
+"1173"	"Winter"	"gilliam"	"Condon Sewage Ponds (restricted access)"	1655	32	13	127.307692307692	8	5	87	6	45.2275954	-120.17736
+"1174"	"Winter"	"gilliam"	"Cottonwood Canyon SP (Gilliam Co.)"	726	47	16	45.375	12	4	84	8	45.4768042	-120.4663754
+"1175"	"Winter"	"gilliam"	"Fourmile Rd."	409	20	3	136.333333333333	7	13.5	79.5	10	45.6438301	-120.0788927
+"1176"	"Winter"	"gilliam"	"Lonerock"	151	27	2	75.5	11	8.5	80.5	9	45.089218	-119.885803
+"1177"	"Winter"	"gilliam"	"Middle Rock Creek Ln."	620	24	2	310	3	11	86	7	45.5071098	-120.1809668
+"1178"	"Winter"	"gilliam"	"Port of Arlington"	36199	65	73	495.876712328767	1	3	96	1.5	45.7229297	-120.2074885
+"1179"	"Winter"	"gilliam"	"Upper Rock Creek Rd."	1000	30	6	166.666666666667	6	6	88	4	45.4920809	-120.1645732
+"1180"	"Winter"	"gilliam"	"Willow Creek Wildlife Area"	6114	70	19	321.789473684211	2	2	96	1.5	45.7826593	-120.0048959
+"1181"	"Winter"	"grant"	"Clyde Holiday SP"	535	43	10	53.5	14	3	83	8	44.4155744	-119.0886211
+"1182"	"Winter"	"grant"	"Davis Creek Park"	1424	46	3	474.666666666667	1	2	97	1	44.4231916	-118.9642991
+"1183"	"Winter"	"grant"	"Forest Conservation Area"	3106	69	13	238.923076923077	5	1	94	2	44.4573634	-118.6867458
+"1184"	"Winter"	"grant"	"John Day Fossil Beds NM--Sheep Rock unit"	785	33	11	71.3636363636364	11	5.5	83.5	7	44.55318	-119.6405983
+"1185"	"Winter"	"grant"	"Monument Reserve (Thomas Cavender Reservoir)"	841	33	3	280.333333333333	3	5.5	91.5	4	44.8255575	-119.431813
+"1186"	"Winter"	"grant"	"Moon Creek Wildlife Area"	404	23	3	134.666666666667	6	8.5	85.5	6	44.4177984	-119.2257365
+"1187"	"Winter"	"grant"	"Mount Vernon (town)"	295	22	4	73.75	10	10.5	79.5	9	44.417753	-119.113389
+"1188"	"Winter"	"grant"	"Poison Creek Reservoir"	314	28	3	104.666666666667	7	7	86	5	44.0136974	-118.9142078
+"1189"	"Winter"	"grant"	"Prairie City (town)"	1768	41	7	252.571428571429	4	4	92	3	44.4629979	-118.709329
+"1190"	"Winter"	"harney"	"Burns Sewage Ponds (restricted access)"	59700	64	30	1990	3	3	94	1	43.5672909	-119.0676928
+"1191"	"Winter"	"harney"	"Crystal Crane Hot Springs"	4747	54	15	316.466666666667	21	5.5	73.5	7	43.4404502	-118.6289884
+"1192"	"Winter"	"harney"	"Greenhouse Ln."	29672	52	17	1745.41176470588	4	7.5	88.5	2	43.512015	-119.0786411
+"1193"	"Winter"	"harney"	"Hines Nature Trail"	4665	45	7	666.428571428571	8	12.5	79.5	6	43.5561306	-119.0771071
+"1194"	"Winter"	"harney"	"Hotchkiss Ln."	25876	46	19	1361.89473684211	5	10.5	84.5	5	43.5568514	-119.0312433
+"1195"	"Winter"	"harney"	"Hotchkiss Ln.--WTP Ponds (restricted access)"	7636	44	18	424.222222222222	13	14.5	72.5	8.5	43.5551186	-119.0707684
+"1196"	"Winter"	"harney"	"Hwy. 205 (Catlow Valley Rd.)--Roaring Springs Ranch pulloff"	3444	46	9	382.666666666667	17	10.5	72.5	8.5	42.6567921	-118.9861518
+"1197"	"Winter"	"harney"	"Hwy. 205--Burns to Malheur NWR"	6430	54	9	714.444444444444	7	5.5	87.5	3	43.5291357	-119.0210724
+"1198"	"Winter"	"harney"	"Malheur NWR--Central Patrol Rd.--Krumbo Reservoir Rd. to P Ranch"	5558	59	11	505.272727272727	10	4	86	4	42.8368515	-118.8856745
+"1199"	"Winter"	"harney"	"Malheur NWR--Headquarters"	11103	90	45	246.733333333333	27	1	72	10	43.2653681	-118.8433095
+"1200"	"Winter"	"hood river"	"Cascade Locks (Oregon side)"	2561	49	18	142.277777777778	9	8	83	8.5	45.6722886	-121.8914008
+"1201"	"Winter"	"hood river"	"Cascade Locks--Easy Climb Trail"	1582	32	3	527.333333333333	2	13	85	7	45.6845271	-121.8532002
+"1202"	"Winter"	"hood river"	"Cascade Locks--Marine Park (island)"	1400	53	15	93.3333333333333	11	7	82	10	45.668031	-121.897456
+"1203"	"Winter"	"hood river"	"Government Cove"	17276	68	26	664.461538461538	1	4	95	1.5	45.686396	-121.8430996
+"1204"	"Winter"	"hood river"	"Hood River Spit"	4181	82	33	126.69696969697	10	3	87	6	45.7141777	-121.5088555
+"1205"	"Winter"	"hood river"	"Hood River Waterfront Park and path"	4058	58	21	193.238095238095	6	6	88	5	45.7157122	-121.5168904
+"1206"	"Winter"	"hood river"	"Hood River mouth"	28201	110	166	169.885542168675	7	1	92	3	45.7152892	-121.5063858
+"1207"	"Winter"	"hood river"	"Hood River--The Hook"	36080	86	114	316.491228070175	3	2	95	1.5	45.717025	-121.525898
+"1208"	"Winter"	"hood river"	"Indian Creek Trail--Arrowhead Ave. to Barrett Dr."	538	33	2	269	5	12	83	8.5	45.6899446	-121.5429876
+"1209"	"Winter"	"hood river"	"Viento SP"	7112	66	26	273.538461538462	4	5	91	4	45.6985666	-121.6693018
+"1210"	"Winter"	"jackson"	"Agate Lake"	35203	127	111	317.144144144144	20	2.5	77.5	7	42.4099597	-122.7708006
+"1211"	"Winter"	"jackson"	"Ashland Pond"	37463	119	119	314.81512605042	21	4	75	10	42.2151297	-122.7198815
+"1212"	"Winter"	"jackson"	"Bear Creek Greenway--Lynn Newbry Park"	29184	112	86	339.348837209302	16	7.5	76.5	9	42.2432604	-122.772131
+"1213"	"Winter"	"jackson"	"Denman WMA--Ave. G and Ave. H ponds"	47036	127	92	511.260869565217	10	2.5	87.5	2	42.4395971	-122.8673269
+"1214"	"Winter"	"jackson"	"Denman WMA--Little Butte Creek Unit"	18844	99	31	607.870967741935	5	13	82	4	42.4512305	-122.8661935
+"1215"	"Winter"	"jackson"	"Denman WMA--Whetstone Pond"	38576	129	108	357.185185185185	15	1	84	3	42.4181342	-122.8657722
+"1216"	"Winter"	"jackson"	"Emigrant Lake"	19408	114	59	328.949152542373	17	6	77	8	42.1433778	-122.6209306
+"1217"	"Winter"	"jackson"	"Emigrant Lake--South Shore"	16742	109	32	523.1875	9	9.5	81.5	5	42.1337652	-122.6129258
+"1218"	"Winter"	"jackson"	"RVM campus"	26946	94	35	769.885714285714	3	18	79	6	42.307586	-122.838162
+"1219"	"Winter"	"jackson"	"White City Lagoons (Kirtland Rd. Ponds)"	109792	115	99	1109.0101010101	2	5	93	1	42.4336881	-122.9128075
+"1220"	"Winter"	"jefferson"	"Agency Plains"	5526	36	4	1381.5	2	14	84	4	44.6822874	-121.1210351
+"1221"	"Winter"	"jefferson"	"Culver Sewage Ponds (restricted access)"	3021	43	10	302.1	9	9.5	81.5	5	44.528358	-121.220853
+"1222"	"Winter"	"jefferson"	"Green Dr."	3091	29	2	1545.5	1	23.5	75.5	7	44.494566	-121.24979
+"1223"	"Winter"	"jefferson"	"Haystack Reservoir"	5684	70	24	236.833333333333	12	2	86	3	44.4978522	-121.1505318
+"1224"	"Winter"	"jefferson"	"Lake Billy Chinook"	1255	64	9	139.444444444444	21	3	76	6	44.5696406	-121.2694073
+"1225"	"Winter"	"jefferson"	"Madras Sewage Ponds (restricted access)"	2170	29	2	1085	3	23.5	73.5	8	44.6638814	-121.1664024
+"1226"	"Winter"	"jefferson"	"Pelton Regulating Dam Wildlife Overlook"	13826	73	32	432.0625	6	1	93	1	44.7224039	-121.2435661
+"1227"	"Winter"	"jefferson"	"Suttle Lake"	2674	54	27	99.037037037037	23	5.5	71.5	9	44.4225937	-121.7367554
+"1228"	"Winter"	"jefferson"	"Trout Creek Campground (Jefferson Co.)"	629	46	8	78.625	26	8	66	10	44.8160444	-121.0948706
+"1229"	"Winter"	"jefferson"	"Trout Creek to Frog Springs trail"	2168	59	6	361.333333333333	7	4	89	2	44.8072518	-121.1049514
+"1230"	"Winter"	"josephine"	"Hunt Ln."	6999	60	12	583.25	4	13	83	8	42.4421973	-123.4147453
+"1231"	"Winter"	"josephine"	"Lake Selmac"	18380	97	39	471.282051282051	5	1	94	1	42.2617532	-123.5779095
+"1232"	"Winter"	"josephine"	"Lower River Rd.--Fort Vannoy & ponds"	18460	77	13	1420	1	7	92	2	42.4369757	-123.4198952
+"1233"	"Winter"	"josephine"	"Pacifica Garden"	4312	84	17	253.647058823529	11	5	84	7	42.2730987	-123.2603046
+"1234"	"Winter"	"josephine"	"Provolt Pond"	3119	76	15	207.933333333333	14	8	78	10	42.288276	-123.2303596
+"1235"	"Winter"	"josephine"	"Redwood Elementary School wetlands"	2881	66	8	360.125	9	10.5	80.5	9	42.4271517	-123.3897474
+"1236"	"Winter"	"josephine"	"Riverside Park (Josephine Co.)"	24173	89	58	416.775862068966	7	4	89	5	42.428475	-123.328305
+"1237"	"Winter"	"josephine"	"Rogue Lea Estates ponds"	17528	78	29	604.413793103448	3	6	91	3.5	42.429792	-123.3599854
+"1238"	"Winter"	"josephine"	"Tussing Park/Reinhart Volunteer Park"	16471	92	38	433.447368421053	6	3	91	3.5	42.4285133	-123.3475668
+"1239"	"Winter"	"josephine"	"Whitehorse County Park"	6355	95	29	219.137931034483	13	2	85	6	42.4371911	-123.4596434
+"1240"	"Winter"	"klamath"	"Klamath Wildlife Area--Miller Island Unit"	239825	130	147	1631.46258503401	8	1	91	2	42.1551736	-121.8082073
+"1241"	"Winter"	"klamath"	"Lake Ewauna--North Shore Trail"	16136	81	6	2689.33333333333	3	14.5	82.5	6	42.2130695	-121.7754311
+"1242"	"Winter"	"klamath"	"Link River Trail"	53872	112	102	528.156862745098	22	3.5	74.5	9.5	42.2278182	-121.7991543
+"1243"	"Winter"	"klamath"	"Lower Klamath Lake Rd."	37469	87	44	851.568181818182	13	12.5	74.5	9.5	42.0947579	-121.7891692
+"1244"	"Winter"	"klamath"	"Lower Klamath NWR (OR side)"	115234	87	41	2810.58536585366	2	12.5	85.5	4	42.013744	-121.7566509
+"1245"	"Winter"	"klamath"	"Lower Klamath NWR--Straits Drain"	248988	88	54	4610.88888888889	1	11	88	3	42.0243992	-121.7778454
+"1246"	"Winter"	"klamath"	"Township Rd."	85592	89	51	1678.27450980392	7	10	83	5	42.0385842	-121.769886
+"1247"	"Winter"	"klamath"	"Veterans Park--Klamath Falls"	127085	106	184	690.679347826087	17	8	75	7.5	42.2186735	-121.788522
+"1248"	"Winter"	"klamath"	"Wingwatchers Lake Ewauna Nature Trail"	97521	112	54	1805.94444444444	4	3.5	92.5	1	42.2158372	-121.788817
+"1249"	"Winter"	"klamath"	"Wood River Wetland"	35234	111	62	568.290322580645	20	5	75	7.5	42.5807466	-121.9327068
+"1250"	"Winter"	"lake"	"Ana Reservoir"	1446	59	13	111.230769230769	15	5	80	9	42.996989	-120.7577705
+"1251"	"Winter"	"lake"	"Christmas Valley (town)"	2943	64	3	981	5	3.5	91.5	3	43.2415347	-120.682394
+"1252"	"Winter"	"lake"	"Fort Rock (general area)"	3026	39	16	189.125	12	7	81	8	43.35595	-120.9612724
+"1253"	"Winter"	"lake"	"Goose Lake State Recreation Area (Oregon)"	66453	25	5	13290.6	1	14	85	7	41.9941909	-120.3235781
+"1254"	"Winter"	"lake"	"Lakeview Settling Ponds"	6841	46	7	977.285714285714	6	6	88	6	42.1812624	-120.3649235
+"1255"	"Winter"	"lake"	"Summer Lake"	10605	83	7	1515	4	2	94	2	42.825	-120.7456
+"1256"	"Winter"	"lake"	"Summer Lake Wildlife Area"	141520	112	53	2670.18867924528	3	1	96	1	42.950819	-120.7639503
+"1257"	"Winter"	"lake"	"Summer Lake Wildlife Area Headquarters"	5626	64	10	562.6	7	3.5	89.5	5	42.9549463	-120.7868671
+"1258"	"Winter"	"lake"	"Summer Lake Wildlife Area--Bullgate Dike"	16855	37	3	5618.33333333333	2	8	90	4	42.931446	-120.74207
+"1259"	"Winter"	"lake"	"Summer Lake Wildlife Area--East Link and Gull Island"	741	20	2	370.5	8	15.5	76.5	10	42.955722	-120.714412
+"1260"	"Winter"	"lane"	"Alton Baker Park (general)"	355045	129	228	1557.2149122807	17	2	81	2.5	44.0533353	-123.0674572
+"1261"	"Winter"	"lane"	"Bond Rd."	153642	105	64	2400.65625	9	11.5	79.5	4	44.1214675	-123.23861
+"1262"	"Winter"	"lane"	"Fern Ridge WMA (general)"	71932	115	17	4231.29411764706	3	5	92	1	44.0893	-123.2945
+"1263"	"Winter"	"lane"	"Fern Ridge WMA--Dam"	156239	97	79	1977.70886075949	11	20.5	68.5	8	44.1205895	-123.3029509
+"1264"	"Winter"	"lane"	"Fern Ridge WMA--East Coyote area"	56292	106	34	1655.64705882353	15	9	76	5	44.0502183	-123.2542849
+"1265"	"Winter"	"lane"	"Fern Ridge WMA--Royal Ave. area (general)"	405309	147	287	1412.22648083624	18	1	81	2.5	44.0705825	-123.2574606
+"1266"	"Winter"	"lane"	"Fern Ridge WMA--Royal Unit (Royal footpath and north of Royal)"	39628	102	42	943.52380952381	31	17	52	10	44.0725631	-123.2544565
+"1267"	"Winter"	"lane"	"K.R. Nielsen Rd."	123287	114	111	1110.69369369369	24	6	70	7	44.0465117	-123.2499504
+"1268"	"Winter"	"lane"	"Oakview Ave neighborhood"	172524	93	4	43131	1	26	73	6	44.06805	-123.233293
+"1269"	"Winter"	"lane"	"Ricketts Rd. (public section)"	99740	90	25	3989.6	4	31.5	64.5	9	43.9545673	-123.0191517
+"1270"	"Winter"	"lincoln"	"East Devil's Lake State Recreation Area"	24509	94	47	521.468085106383	11	20.5	68.5	8	44.9672392	-123.9970422
+"1271"	"Winter"	"lincoln"	"Holmes Road Park"	6817	80	10	681.7	8	28	64	9.5	44.9898947	-123.9951754
+"1272"	"Winter"	"lincoln"	"Lincoln City Sewage Treatment Plant (restricted access)"	9215	83	17	542.058823529412	10	26	64	9.5	44.930364	-124.007842
+"1273"	"Winter"	"lincoln"	"Mark Hatfield Marine Science Center and Estuary Trail"	264179	150	539	490.128014842301	14	1	85	1	44.6231604	-124.0434766
+"1274"	"Winter"	"lincoln"	"Yaquina Bay"	14053	106	32	439.15625	17	8	75	6	44.6180325	-124.023757
+"1275"	"Winter"	"lincoln"	"Yaquina Bay--Idaho Flats"	26465	101	37	715.27027027027	7	15	78	5	44.6149166	-124.0411806
+"1276"	"Winter"	"lincoln"	"Yaquina Bay--Sally's Bend-LNG Facility"	96039	128	200	480.195	15	3	82	2	44.6262136	-124.0254092
+"1277"	"Winter"	"lincoln"	"Yaquina Head Outstanding Natural Area"	81908	107	167	490.467065868263	13	7	80	3	44.6757053	-124.0724874
+"1278"	"Winter"	"lincoln"	"Yaquina Head Outstanding Natural Area--Lighthouse"	120332	95	198	607.737373737374	9	19	72	7	44.6768624	-124.0788388
+"1279"	"Winter"	"lincoln"	"Yaquina River--SW Jetty Way"	219164	144	518	423.096525096525	19	2	79	4	44.6158891	-124.0618658
+"1280"	"Winter"	"linn"	"Belts Dr."	148845	90	41	3630.36585365854	1	5	94	1	44.3027215	-123.0264473
+"1281"	"Winter"	"linn"	"Bowers Rocks State Park"	3684	74	8	460.5	17	13	70	10	44.6293777	-123.1591415
+"1282"	"Winter"	"linn"	"Cheadle Lake"	21600	108	40	540	15	2	83	5	44.5172866	-122.8906417
+"1283"	"Winter"	"linn"	"Creek Dr."	54928	60	37	1484.54054054054	4	19.5	76.5	8	44.4033507	-123.181558
+"1284"	"Winter"	"linn"	"Diamond Hill Dr."	56965	76	40	1424.125	5	11	84	4	44.2815873	-123.0310822
+"1285"	"Winter"	"linn"	"Eicher Rd. Quarry (no longer accessible; all viewpoints are on private property)"	19663	79	34	578.323529411765	13	8	79	7	44.6147298	-123.015721
+"1286"	"Winter"	"linn"	"Gap Rd. Rice Ponds"	21052	92	25	842.08	8	4	88	3	44.3642376	-122.9857635
+"1287"	"Winter"	"linn"	"Oak Creek Greenbelt Trail"	16964	80	9	1884.88888888889	2	7	91	2	44.5992674	-123.1185135
+"1288"	"Winter"	"linn"	"Talking Water Gardens"	105192	121	231	455.376623376623	18	1	81	6	44.6444396	-123.0718371
+"1289"	"Winter"	"linn"	"Timber-Linn Memorial Park"	18375	68	29	633.620689655172	12	15	73	9	44.636487	-123.0570179
+"1290"	"Winter"	"malheur"	"Antelope Reservoir"	2653	45	5	530.6	4	4	92	1.5	42.9043251	-117.2354507
+"1291"	"Winter"	"malheur"	"Beck-Kiwanis Park"	1895	46	10	189.5	9	2.5	88.5	4	44.0374113	-116.9688606
+"1292"	"Winter"	"malheur"	"Catfish Junction RV Park"	1744	30	4	436	6	9	85	6	44.2657542	-117.1245146
+"1293"	"Winter"	"malheur"	"Hwy. 20--Juntura to Ontario"	1386	34	8	173.25	10	7	83	8	43.7943702	-117.6843667
+"1294"	"Winter"	"malheur"	"Juntura (town)"	626	29	3	208.666666666667	8	10	82	9.5	43.7466536	-118.0804334
+"1295"	"Winter"	"malheur"	"Malheur Reservoir"	2159	11	1	2159	1	17	82	9.5	44.3628877	-117.6931
+"1296"	"Winter"	"malheur"	"Ontario Sewage Ponds (restricted access)"	2908	32	4	727	3	8	89	3	44.0417458	-117.0024526
+"1297"	"Winter"	"malheur"	"Ontario State Recreation Site"	6210	47	21	295.714285714286	7	1	92	1.5	44.0489486	-116.9736564
+"1298"	"Winter"	"malheur"	"Pole Creek Reservoir"	892	14	1	892	2	14.5	83.5	7	44.2523497	-117.56001
+"1299"	"Winter"	"malheur"	"Succor Creek State Natural Area"	655	46	4	163.75	11	2.5	86.5	5	43.4542502	-117.1244287
+"1300"	"Winter"	"marion"	"Ankeny NWR"	296940	133	171	1736.49122807018	2	1	97	1	44.7842	-123.0767
+"1301"	"Winter"	"marion"	"Ankeny NWR--Ankeny Hill Nature Center"	99558	96	105	948.171428571429	8	9	83	6	44.80188	-123.06371
+"1302"	"Winter"	"marion"	"Ankeny NWR--Eagle Marsh"	254254	118	274	927.934306569343	9	3	88	2	44.7967032	-123.0813789
+"1303"	"Winter"	"marion"	"Ankeny NWR--Pintail Marsh"	246191	115	268	918.623134328358	11	4	85	4	44.7762488	-123.0898891
+"1304"	"Winter"	"marion"	"Ankeny NWR--Rail Trail"	189590	113	272	697.022058823529	15	5	80	8	44.7741583	-123.0824089
+"1305"	"Winter"	"marion"	"Ankeny NWR--Wintel Rd."	72125	94	63	1144.84126984127	5	11	84	5	44.7750779	-123.0834281
+"1306"	"Winter"	"marion"	"Cascade Hwy. ponds (west of Oregon Garden fence)"	16015	84	4	4003.75	1	16.5	82.5	7	44.9953515	-122.7959812
+"1307"	"Winter"	"marion"	"Cascades Gateway City Park"	43139	97	53	813.943396226415	13	7.5	79.5	9	44.9127602	-122.9909992
+"1308"	"Winter"	"marion"	"Duckflat Rd."	66316	95	46	1441.65217391304	3	10	87	3	44.779043	-122.9388242
+"1309"	"Winter"	"marion"	"Minto-Brown Island Park"	69959	128	148	472.695945945946	19	2	79	10	44.924703	-123.0618095
+"1310"	"Winter"	"morrow"	"Boardman Marina and RV Park"	139440	98	70	1992	3	2	95	2.5	45.8446728	-119.7066665
+"1311"	"Winter"	"morrow"	"Boardman Sewage Ponds"	7214	47	16	450.875	7	8	85	7.5	45.8474044	-119.6485174
+"1312"	"Winter"	"morrow"	"Irrigon Marina Park"	9365	70	14	668.928571428571	5	3	92	4	45.9008315	-119.4925565
+"1313"	"Winter"	"morrow"	"Irrigon Wildlife Viewing Area"	5895	52	13	453.461538461538	6	6	88	5	45.9056513	-119.4445395
+"1314"	"Winter"	"morrow"	"Quesna County Park"	2606	53	11	236.909090909091	8	5	87	6	45.8115652	-119.9683642
+"1315"	"Winter"	"morrow"	"Threemile Canyon Road and Ponds"	1008	35	7	144	10	9	81	10	45.801623	-119.953362
+"1316"	"Winter"	"morrow"	"Tower Rd. Ponds"	2939	26	3	979.666666666667	4	11	85	7.5	45.75073	-119.83194
+"1317"	"Winter"	"morrow"	"Ulman Utility Ponds"	2813	48	13	216.384615384615	9	7	84	9	45.846491	-119.669403
+"1318"	"Winter"	"morrow"	"Umatilla NWR (Oregon)"	323197	104	47	6876.53191489362	2	1	97	1	45.9049415	-119.5731354
+"1319"	"Winter"	"morrow"	"Umatilla NWR--McCormack Slough"	100462	59	13	7727.84615384615	1	4	95	2.5	45.8918422	-119.5853019
+"1320"	"Winter"	"multnomah"	"Delta Park West--Columbia Slough Trail"	148041	116	42	3524.78571428571	2	12	86	2	45.5952502	-122.7029564
+"1321"	"Winter"	"multnomah"	"Heron Lakes Golf Club"	171017	114	84	2035.91666666667	6	14	80	7	45.604677	-122.7018804
+"1322"	"Winter"	"multnomah"	"Heron Lakes Golf Club--Force Lake"	270623	118	321	843.06230529595	20	11	69	9.5	45.604911	-122.6953554
+"1323"	"Winter"	"multnomah"	"Sauvie Island (Multnomah Co.)"	447955	146	213	2103.07511737089	4	1	95	1	45.6630067	-122.8092957
+"1324"	"Winter"	"multnomah"	"Sauvie Island--NW Gillihan Loop Rd."	77047	103	47	1639.29787234043	7	24	69	9.5	45.6483204	-122.7787399
+"1325"	"Winter"	"multnomah"	"Sauvie Island--NW Oak Island Rd."	187133	119	138	1356.03623188406	10	9.5	80.5	6	45.6988121	-122.8357109
+"1326"	"Winter"	"multnomah"	"Sauvie Island--Oak Island (Multnomah Co.)"	145064	105	33	4395.87878787879	1	21	78	8	45.7144802	-122.8207541
+"1327"	"Winter"	"multnomah"	"Sauvie Island--Raccoon Point"	539017	120	388	1389.21907216495	9	8	83	4	45.6916122	-122.8055191
+"1328"	"Winter"	"multnomah"	"Smith and Bybee Lakes Wetlands Natural Area"	151764	127	142	1068.76056338028	15	4	81	5	45.6203	-122.7456
+"1329"	"Winter"	"multnomah"	"Vanport Wetlands"	272104	121	192	1417.20833333333	8	6.5	85.5	3	45.598966	-122.6880813
+"1330"	"Winter"	"polk"	"Baskett Slough NWR"	468511	134	211	2220.43127962085	3	1	96	1	44.9614021	-123.257246
+"1331"	"Winter"	"polk"	"Baskett Slough NWR--Coville Rd."	289572	107	129	2244.74418604651	2	4	94	2	44.9623003	-123.2454142
+"1332"	"Winter"	"polk"	"Baskett Slough NWR--Hwy 22 Overlook"	160718	74	86	1868.81395348837	4	17	79	10	44.9524592	-123.2691262
+"1333"	"Winter"	"polk"	"Baskett Slough NWR--Rich Guadagno Trail"	90931	105	131	694.129770992366	12	5.5	82.5	6	44.9646461	-123.2588339
+"1334"	"Winter"	"polk"	"Baskett Slough NWR--Smithfield Rd."	59083	104	88	671.397727272727	13	7	80	9	44.9835216	-123.2574606
+"1335"	"Winter"	"polk"	"Baskett Slough NWR--The Narrows and Cottonwood Pond"	265760	105	174	1527.35632183908	5	5.5	89.5	4	44.9592377	-123.2700262
+"1336"	"Winter"	"polk"	"Livermore Rd."	158470	118	142	1115.98591549296	7	3	90	3	45.0097499	-123.2535124
+"1337"	"Winter"	"polk"	"Luckiamute SNA North unit (general, use more specific location if possible)"	13735	90	19	722.894736842105	10	8	82	7	44.741505	-123.1529274
+"1338"	"Winter"	"polk"	"Monmouth Sewage Ponds (restricted access)"	104280	120	178	585.842696629213	15	2	83	5	44.8570857	-123.2194376
+"1339"	"Winter"	"polk"	"Salemtowne Retirement Community Campus"	13183	86	16	823.9375	9	10	81	8	44.9770562	-123.068338
+"1340"	"Winter"	"sherman"	"Biggs Grain Elevators"	19970	48	26	768.076923076923	1	7	92	4	45.6693047	-120.8430004
+"1341"	"Winter"	"sherman"	"Biggs Junction"	2511	36	25	100.44	8	10	82	8	45.669647	-120.832344
+"1342"	"Winter"	"sherman"	"Biggs--Rufus Frontage Rd. Ponds"	7998	64	28	285.642857142857	3	4	93	3	45.6813591	-120.7830334
+"1343"	"Winter"	"sherman"	"Cottonwood Canyon SP (Sherman Co.)"	1578	63	25	63.12	10	5.5	84.5	7	45.4783087	-120.4681778
+"1344"	"Winter"	"sherman"	"Deschutes River State Recreation Area"	60789	125	232	262.021551724138	4	1	95	2	45.6306103	-120.9078884
+"1345"	"Winter"	"sherman"	"John Day Dam--Boat Ramp"	4636	63	28	165.571428571429	5	5.5	89.5	6	45.7040964	-120.7229555
+"1346"	"Winter"	"sherman"	"John Day Dam--Spillway Area"	3978	72	38	104.684210526316	7	2.5	90.5	5	45.7101351	-120.6945992
+"1347"	"Winter"	"sherman"	"Macks Canyon"	175	31	2	87.5	9	11	80	10	45.388957	-120.8755195
+"1348"	"Winter"	"sherman"	"Rockbeach Ln."	16224	72	39	416	2	2.5	95.5	1	45.6944531	-120.7452607
+"1349"	"Winter"	"sherman"	"Wasco Sewage Ponds"	1603	30	13	123.307692307692	6	12.5	81.5	9	45.5977322	-120.7061398
+"1350"	"Winter"	"tillamook"	"Bayocean Spit"	30704	118	36	852.888888888889	13	10	77	4	45.553569	-123.9435911
+"1351"	"Winter"	"tillamook"	"Bayocean Spit--bay (east) side"	208087	139	147	1415.55782312925	6	2	92	1	45.5217439	-123.9484406
+"1352"	"Winter"	"tillamook"	"Goodspeed Rd."	66470	119	103	645.339805825243	20	9	71	6	45.4706856	-123.8637364
+"1353"	"Winter"	"tillamook"	"Goose Point"	24259	86	15	1617.26666666667	4	27	69	7.5	45.5085881	-123.8872687
+"1354"	"Winter"	"tillamook"	"Nehalem Bay SP"	45887	148	86	533.56976744186	26	1	73	5	45.6883197	-123.9372826
+"1355"	"Winter"	"tillamook"	"Nehalem Meadows"	87568	123	52	1684	3	5.5	91.5	2	45.7148777	-123.8854755
+"1356"	"Winter"	"tillamook"	"Nehalem Meadows--Tideland Rd."	32579	94	36	904.972222222222	11	20	69	7.5	45.7159662	-123.8721746
+"1357"	"Winter"	"tillamook"	"Nehalem Sewage Ponds"	42092	108	73	576.602739726027	23	12	65	10	45.7161882	-123.8876724
+"1358"	"Winter"	"tillamook"	"Neskowin Area"	58387	132	72	810.930555555556	14	3	83	3	45.1065939	-123.9810562
+"1359"	"Winter"	"tillamook"	"Tillamook Bay--Garibaldi Marina"	69436	104	107	648.934579439252	19	14	67	9	45.5559147	-123.913192
+"1360"	"Winter"	"umatilla"	"Cold Springs NWR"	115494	82	24	4812.25	2	4.5	93.5	2	45.8502011	-119.1532407
+"1361"	"Winter"	"umatilla"	"Echo Meadows Rd."	16005	62	11	1455	7	9	84	6.5	45.7533552	-119.2202854
+"1362"	"Winter"	"umatilla"	"Hat Rock SP"	17189	79	28	613.892857142857	10	6	84	6.5	45.9162882	-119.1631222
+"1363"	"Winter"	"umatilla"	"McKay Creek NWR"	6918	70	14	494.142857142857	12	8	80	10	45.5944377	-118.7966709
+"1364"	"Winter"	"umatilla"	"McNary Dam--Boat Ramp"	30995	61	41	755.975609756098	8	10	82	8	45.9266746	-119.2918226
+"1365"	"Winter"	"umatilla"	"McNary Dam--Nature Trail"	56828	116	94	604.553191489362	11	2	87	5	45.9284683	-119.3115234
+"1366"	"Winter"	"umatilla"	"McNary Wildlife Nature Area"	184297	120	117	1575.18803418803	6	1	93	3	45.9286872	-119.3130684
+"1367"	"Winter"	"umatilla"	"Stanfield Meadows"	15841	52	9	1760.11111111111	5	14	81	9	45.7635822	-119.2479444
+"1368"	"Winter"	"umatilla"	"Umatilla Marina Park"	73997	71	24	3083.20833333333	3	7	90	4	45.9239464	-119.3308032
+"1369"	"Winter"	"umatilla"	"Warehouse Beach Recreation Area"	168144	82	22	7642.90909090909	1	4.5	94.5	1	45.9212418	-119.1412541
+"1370"	"Winter"	"union"	"Alicel Scrape"	17452	65	26	671.230769230769	3	8	89	4.5	45.3659019	-117.9989462
+"1371"	"Winter"	"union"	"Hot Lake"	13932	63	34	409.764705882353	7	9	84	8	45.2449064	-117.9629946
+"1372"	"Winter"	"union"	"La Grande Sewage Ponds"	69834	77	47	1485.82978723404	1	4	95	2	45.2869651	-118.0295563
+"1373"	"Winter"	"union"	"Ladd Marsh WMA"	6409	79	36	178.027777777778	14	3	83	9	45.2585762	-118.0359077
+"1374"	"Winter"	"union"	"Ladd Marsh WMA--Foothill Rd. overlook"	4717	50	22	214.409090909091	13	11	76	10	45.2644287	-118.0429535
+"1375"	"Winter"	"union"	"Ladd Marsh WMA--Peach Rd."	16200	82	46	352.173913043478	9	2	89	4.5	45.2491806	-117.9520941
+"1376"	"Winter"	"union"	"Ladd Marsh WMA--Schoolhouse Pond"	9215	67	25	368.6	8	6	86	7	45.270481	-117.9520051
+"1377"	"Winter"	"union"	"Thief Valley Reservoir (Union Co.)"	8255	66	17	485.588235294118	4	7	89	4.5	45.0229344	-117.785368
+"1378"	"Winter"	"union"	"Union Co. Fairgrounds Pond"	7538	72	18	418.777777777778	6	5	89	4.5	45.3455884	-118.1084073
+"1379"	"Winter"	"union"	"Wilkinson Ln."	40474	87	43	941.255813953488	2	1	97	1	45.275472	-117.943449
+"1380"	"Winter"	"wallowa"	"Eggleson Ln."	3866	63	26	148.692307692308	10	5	85	7	45.396661	-117.248381
+"1381"	"Winter"	"wallowa"	"Elk Mountain Rd."	11182	58	67	166.89552238806	5	7	88	4	45.4442652	-117.2092724
+"1382"	"Winter"	"wallowa"	"Enterprise (town)"	9129	77	60	152.15	8	2	90	2	45.4243813	-117.2714567
+"1383"	"Winter"	"wallowa"	"Enterprise WMA"	20137	80	86	234.151162790698	2	1	97	1	45.4193591	-117.3054886
+"1384"	"Winter"	"wallowa"	"Joseph (town)"	17062	73	109	156.532110091743	7	3.5	89.5	3	45.3516627	-117.228241
+"1385"	"Winter"	"wallowa"	"Knight's Pond (Iwetemlaykin Site)"	1919	38	10	191.9	3	16	81	9.5	45.3386312	-117.2280768
+"1386"	"Winter"	"wallowa"	"Leap Ln."	5113	53	39	131.102564102564	11	8	81	9.5	45.5294408	-117.3056602
+"1387"	"Winter"	"wallowa"	"Pete's Pond"	19556	73	129	151.596899224806	9	3.5	87.5	5.5	45.4207146	-117.2839022
+"1388"	"Winter"	"wallowa"	"School Flat Rd."	15607	49	66	236.469696969697	1	11.5	87.5	5.5	45.525627	-117.3634449
+"1389"	"Winter"	"wallowa"	"Wallowa Lake"	5597	49	33	169.606060606061	4	11.5	84.5	8	45.3095041	-117.2080326
+"1390"	"Winter"	"wasco"	"Celilo Park"	11332	76	77	147.168831168831	14	5	81	7	45.6506425	-120.9610949
+"1391"	"Winter"	"wasco"	"Deschutes River SRA--Heritage Landing"	11989	92	68	176.308823529412	11	3	86	6	45.6308454	-120.9144974
+"1392"	"Winter"	"wasco"	"Lone Pine Island viewpoint (restricted access)"	14617	70	41	356.512195121951	3	7	90	3	45.606073	-121.139799
+"1393"	"Winter"	"wasco"	"Mayer SP"	92936	102	74	1255.89189189189	1	1	98	1	45.682518	-121.286896
+"1394"	"Winter"	"wasco"	"Mayer SP--east river access"	5434	48	16	339.625	4	19.5	76.5	10	45.6756963	-121.2653121
+"1395"	"Winter"	"wasco"	"Mosier Plateau Trail"	953	60	4	238.25	8	14	78	9	45.6829762	-121.3905434
+"1396"	"Winter"	"wasco"	"Pine Hollow Reservoir"	6689	75	21	318.52380952381	5	6	89	4	45.2483193	-121.2897937
+"1397"	"Winter"	"wasco"	"Price Rd. wetlands"	8955	98	32	279.84375	7	2	91	2	45.24208	-121.2697506
+"1398"	"Winter"	"wasco"	"The Dalles Riverfront Park"	17128	85	84	203.904761904762	9	4	87	5	45.6000709	-121.1664104
+"1399"	"Winter"	"wasco"	"White River Wildlife Area--Smock Prairie"	1230	50	1	1230	2	18	80	8	45.1577113	-121.4029169
+"1400"	"Winter"	"washington"	"Commonwealth Lake Park"	415626	127	333	1248.12612612613	12	6.5	81.5	5.5	45.5119108	-122.8098106
+"1401"	"Winter"	"washington"	"Dawson Creek Corporate Park"	281957	115	243	1160.31687242798	14	9	77	8	45.5416154	-122.9335785
+"1402"	"Winter"	"washington"	"Fernhill Wetlands (general)"	1141900	145	527	2166.79316888046	5	1	94	2	45.5064875	-123.0851855
+"1403"	"Winter"	"washington"	"Fernhill Wetlands--area outside of NTS (ASoP/CWS survey)"	94484	113	32	2952.625	3	10	87	4	45.5067529	-123.0825162
+"1404"	"Winter"	"washington"	"Jackson Bottom Wetlands Preserve"	361269	135	217	1664.83410138249	8	2	90	3	45.505	-122.9889
+"1405"	"Winter"	"washington"	"Koll Center Wetlands"	339235	129	295	1149.94915254237	15	5	80	7	45.4562776	-122.7911854
+"1406"	"Winter"	"washington"	"SW Golf Course Rd."	223667	84	48	4659.72916666667	1	23	76	9	45.5015697	-123.0498764
+"1407"	"Winter"	"washington"	"Tualatin River NWR--Atfálat'i Unit"	842381	134	247	3410.44939271255	2	3	95	1	45.3817834	-122.8312254
+"1408"	"Winter"	"washington"	"Wapato Lake NWR (Washington County)"	67625	102	38	1779.60526315789	7	11.5	81.5	5.5	45.4342514	-123.1377011
+"1409"	"Winter"	"wheeler"	"Clarno BLM Boat Ramp"	370	33	5	74	8	5	87	4.5	44.9161887	-120.4692091
+"1410"	"Winter"	"wheeler"	"Clarno Rd."	168	27	2	84	4	9.5	86.5	6	44.8954167	-120.4357677
+"1411"	"Winter"	"wheeler"	"Dollarhide Pond"	267	15	3	89	2	13.5	84.5	8	44.560808	-120.142614
+"1412"	"Winter"	"wheeler"	"Fossil (town)"	1268	32	17	74.5882352941177	7	6	87	4.5	44.9980464	-120.2151403
+"1413"	"Winter"	"wheeler"	"Fossil Sewage Ponds-farm pond"	1103	34	14	78.7857142857143	6	3.5	90.5	3	45.0088659	-120.2345227
+"1414"	"Winter"	"wheeler"	"John Day Fossil Beds NM--Painted Cove Trail"	435	30	7	62.1428571428571	9	7.5	83.5	9	44.6616449	-120.2795649
+"1415"	"Winter"	"wheeler"	"John Day Fossil Beds NM--Painted Hills Unit"	1006	62	25	40.24	14	1	85	7	44.6517908	-120.2670765
+"1416"	"Winter"	"wheeler"	"John Day Fossil Beds National Monument--Clarno Unit"	553	30	9	61.4444444444444	10	7.5	82.5	10	44.9200702	-120.4161215
+"1417"	"Winter"	"wheeler"	"Mitchell (town)"	2380	45	27	88.1481481481482	3	2	95	2	44.5667051	-120.1539474
+"1418"	"Winter"	"wheeler"	"Spray (town)"	820	34	7	117.142857142857	1	3.5	95.5	1	44.8316265	-119.793025
+"1419"	"Winter"	"yamhill"	"Grand Island Driving Loop"	8968	66	5	1793.6	1	6.5	92.5	3	45.1259174	-123.0373917
+"1420"	"Winter"	"yamhill"	"Huddleston Fish Pond"	12203	97	65	187.738461538462	15	1	84	6.5	45.0800143	-123.476364
+"1421"	"Winter"	"yamhill"	"Maud Williamson State Recreation Site"	7123	60	20	356.15	7	9	84	6.5	45.0975185	-123.0682468
+"1422"	"Winter"	"yamhill"	"McMinnville Airport Park & Airport Road"	2965	56	13	228.076923076923	14	10	76	10	45.1960102	-123.1471252
+"1423"	"Winter"	"yamhill"	"Newberg City Water Treatment Ponds (restricted access)"	5795	66	19	305	11	6.5	82.5	9	45.2832733	-122.9564166
+"1424"	"Winter"	"yamhill"	"Sheridan South Side Park and Fishing Pond"	16742	83	57	293.719298245614	12	2	86	5	45.087649	-123.391419
+"1425"	"Winter"	"yamhill"	"Sheridan WTP Ponds (restricted access)"	22818	79	29	786.827586206897	3	3.5	93.5	1	45.0875812	-123.3833313
+"1426"	"Winter"	"yamhill"	"Wennerberg Park"	3485	47	6	580.833333333333	4	13	83	8	45.2917566	-123.1871538
+"1427"	"Winter"	"yamhill"	"Willamette Greenway--Grand Island Access"	5298	79	16	331.125	8	3.5	88.5	4	45.104299	-123.021792
+"1428"	"Winter"	"yamhill"	"Yamhill Sewage Ponds (restricted access)"	12374	72	15	824.933333333333	2	5	93	2	45.337617	-123.1891394

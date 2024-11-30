@@ -1,0 +1,1443 @@
+"season"	"county"	"common_name"	"number_seen"	"total_number_seen"	"percentage_of_total"
+"1"	"Fall"	"baker"	"Canada Goose"	18897	111131	17
+"2"	"Fall"	"baker"	"European Starling"	13831	111131	12
+"3"	"Fall"	"baker"	"Mallard"	9794	111131	9
+"4"	"Fall"	"baker"	"American Coot"	6416	111131	6
+"5"	"Fall"	"baker"	"Northern Shoveler"	6861	111131	6
+"6"	"Fall"	"baker"	"American Wigeon"	2991	111131	3
+"7"	"Fall"	"baker"	"House Sparrow"	3265	111131	3
+"8"	"Fall"	"baker"	"Ring-necked Duck"	3277	111131	3
+"9"	"Fall"	"baker"	"American Robin"	1865	111131	2
+"10"	"Fall"	"baker"	"California Quail"	2193	111131	2
+"11"	"Fall"	"benton"	"Cackling Goose"	2590378	8532056	30
+"12"	"Fall"	"benton"	"Northern Shoveler"	1008440	8532056	12
+"13"	"Fall"	"benton"	"American Coot"	532860	8532056	6
+"14"	"Fall"	"benton"	"Mallard"	550328	8532056	6
+"15"	"Fall"	"benton"	"European Starling"	453198	8532056	5
+"16"	"Fall"	"benton"	"American Wigeon"	288144	8532056	3
+"17"	"Fall"	"benton"	"Canada Goose"	241227	8532056	3
+"18"	"Fall"	"benton"	"Green-winged Teal"	226247	8532056	3
+"19"	"Fall"	"benton"	"Northern Pintail"	229975	8532056	3
+"20"	"Fall"	"benton"	"Ring-necked Duck"	253415	8532056	3
+"21"	"Fall"	"clackamas"	"Cackling Goose"	216867	825880	26
+"22"	"Fall"	"clackamas"	"Mallard"	46349	825880	6
+"23"	"Fall"	"clackamas"	"European Starling"	39410	825880	5
+"24"	"Fall"	"clackamas"	"American Crow"	34978	825880	4
+"25"	"Fall"	"clackamas"	"Canada Goose"	32425	825880	4
+"26"	"Fall"	"clackamas"	"Dark-eyed Junco"	35057	825880	4
+"27"	"Fall"	"clackamas"	"American Robin"	22635	825880	3
+"28"	"Fall"	"clackamas"	"Black-capped Chickadee"	20846	825880	3
+"29"	"Fall"	"clackamas"	"American Wigeon"	13275	825880	2
+"30"	"Fall"	"clackamas"	"Bushtit"	14485	825880	2
+"31"	"Fall"	"clatsop"	"Cackling Goose"	386552	2174394	18
+"32"	"Fall"	"clatsop"	"European Starling"	219808	2174394	10
+"33"	"Fall"	"clatsop"	"Dunlin"	190834	2174394	9
+"34"	"Fall"	"clatsop"	"Northern Pintail"	99661	2174394	5
+"35"	"Fall"	"clatsop"	"American Wigeon"	92891	2174394	4
+"36"	"Fall"	"clatsop"	"Mallard"	77873	2174394	4
+"37"	"Fall"	"clatsop"	"California Gull"	69246	2174394	3
+"38"	"Fall"	"clatsop"	"American Crow"	34632	2174394	2
+"39"	"Fall"	"clatsop"	"Bufflehead"	41870	2174394	2
+"40"	"Fall"	"clatsop"	"Canada Goose"	52224	2174394	2
+"41"	"Fall"	"columbia"	"Cackling Goose"	1398827	2756213	51
+"42"	"Fall"	"columbia"	"Snow Goose"	407695	2756213	15
+"43"	"Fall"	"columbia"	"Sandhill Crane"	99901	2756213	4
+"44"	"Fall"	"columbia"	"European Starling"	70153	2756213	3
+"45"	"Fall"	"columbia"	"Red-winged Blackbird"	69978	2756213	3
+"46"	"Fall"	"columbia"	"American Coot"	54076	2756213	2
+"47"	"Fall"	"columbia"	"Canada Goose"	49907	2756213	2
+"48"	"Fall"	"columbia"	"Green-winged Teal"	41730	2756213	2
+"49"	"Fall"	"columbia"	"Mallard"	58410	2756213	2
+"50"	"Fall"	"columbia"	"Northern Pintail"	41506	2756213	2
+"51"	"Fall"	"coos"	"Pacific Loon"	98903	913343	11
+"52"	"Fall"	"coos"	"California Gull"	75764	913343	8
+"53"	"Fall"	"coos"	"American Wigeon"	54977	913343	6
+"54"	"Fall"	"coos"	"Surf Scoter"	56377	913343	6
+"55"	"Fall"	"coos"	"Cackling Goose"	45509	913343	5
+"56"	"Fall"	"coos"	"Western Gull"	36441	913343	4
+"57"	"Fall"	"coos"	"Canada Goose"	27077	913343	3
+"58"	"Fall"	"coos"	"Common Murre"	28004	913343	3
+"59"	"Fall"	"coos"	"Sooty Shearwater"	29761	913343	3
+"60"	"Fall"	"coos"	"American Crow"	18522	913343	2
+"61"	"Fall"	"crook"	"Canada Goose"	52419	359461	15
+"62"	"Fall"	"crook"	"Mallard"	31738	359461	9
+"63"	"Fall"	"crook"	"Northern Shoveler"	30694	359461	9
+"64"	"Fall"	"crook"	"European Starling"	28704	359461	8
+"65"	"Fall"	"crook"	"American Coot"	25830	359461	7
+"66"	"Fall"	"crook"	"Green-winged Teal"	26247	359461	7
+"67"	"Fall"	"crook"	"American Robin"	18609	359461	5
+"68"	"Fall"	"crook"	"American Wigeon"	16346	359461	5
+"69"	"Fall"	"crook"	"Ring-necked Duck"	19036	359461	5
+"70"	"Fall"	"crook"	"Brewer's Blackbird"	6010	359461	2
+"71"	"Fall"	"curry"	"California Gull"	102929	533599	19
+"72"	"Fall"	"curry"	"Cackling Goose"	54466	533599	10
+"73"	"Fall"	"curry"	"Surf Scoter"	50703	533599	10
+"74"	"Fall"	"curry"	"Pacific Loon"	27770	533599	5
+"75"	"Fall"	"curry"	"Western Gull"	20880	533599	4
+"76"	"Fall"	"curry"	"European Starling"	16876	533599	3
+"77"	"Fall"	"curry"	"Pine Siskin"	17666	533599	3
+"78"	"Fall"	"curry"	"American Crow"	8031	533599	2
+"79"	"Fall"	"curry"	"American Robin"	9413	533599	2
+"80"	"Fall"	"curry"	"Brown Pelican"	11685	533599	2
+"81"	"Fall"	"deschutes"	"American Robin"	262949	1943598	14
+"82"	"Fall"	"deschutes"	"Mallard"	208506	1943598	11
+"83"	"Fall"	"deschutes"	"American Coot"	194962	1943598	10
+"84"	"Fall"	"deschutes"	"Canada Goose"	176564	1943598	9
+"85"	"Fall"	"deschutes"	"American Wigeon"	108933	1943598	6
+"86"	"Fall"	"deschutes"	"Dark-eyed Junco"	53268	1943598	3
+"87"	"Fall"	"deschutes"	"Bufflehead"	38660	1943598	2
+"88"	"Fall"	"deschutes"	"European Starling"	42972	1943598	2
+"89"	"Fall"	"deschutes"	"Green-winged Teal"	41484	1943598	2
+"90"	"Fall"	"deschutes"	"House Finch"	31869	1943598	2
+"91"	"Fall"	"douglas"	"American Coot"	101315	550934	18
+"92"	"Fall"	"douglas"	"American Robin"	35622	550934	6
+"93"	"Fall"	"douglas"	"Canada Goose"	31298	550934	6
+"94"	"Fall"	"douglas"	"American Wigeon"	25368	550934	5
+"95"	"Fall"	"douglas"	"European Starling"	29911	550934	5
+"96"	"Fall"	"douglas"	"Mallard"	21945	550934	4
+"97"	"Fall"	"douglas"	"Northern Shoveler"	22145	550934	4
+"98"	"Fall"	"douglas"	"Surf Scoter"	19610	550934	4
+"99"	"Fall"	"douglas"	"Bufflehead"	16116	550934	3
+"100"	"Fall"	"douglas"	"Dark-eyed Junco"	10449	550934	2
+"101"	"Fall"	"gilliam"	"European Starling"	23724	77634	31
+"102"	"Fall"	"gilliam"	"Canada Goose"	9594	77634	12
+"103"	"Fall"	"gilliam"	"American Coot"	5356	77634	7
+"104"	"Fall"	"gilliam"	"Mallard"	4961	77634	6
+"105"	"Fall"	"gilliam"	"California Gull"	3624	77634	5
+"106"	"Fall"	"gilliam"	"Common Goldeneye"	2542	77634	3
+"107"	"Fall"	"gilliam"	"Horned Lark"	2162	77634	3
+"108"	"Fall"	"gilliam"	"White-crowned Sparrow"	2033	77634	3
+"109"	"Fall"	"gilliam"	"American Robin"	1270	77634	2
+"110"	"Fall"	"gilliam"	"House Sparrow"	1910	77634	2
+"111"	"Fall"	"grant"	"European Starling"	7023	56257	12
+"112"	"Fall"	"grant"	"American Robin"	3775	56257	7
+"113"	"Fall"	"grant"	"Canada Goose"	4036	56257	7
+"114"	"Fall"	"grant"	"California Quail"	3124	56257	6
+"115"	"Fall"	"grant"	"Mallard"	2764	56257	5
+"116"	"Fall"	"grant"	"Sandhill Crane"	2572	56257	5
+"117"	"Fall"	"grant"	"Vaux's Swift"	3021	56257	5
+"118"	"Fall"	"grant"	"Dark-eyed Junco"	2334	56257	4
+"119"	"Fall"	"grant"	"American Wigeon"	1223	56257	2
+"120"	"Fall"	"grant"	"Black-billed Magpie"	1011	56257	2
+"121"	"Fall"	"harney"	"Canada Goose"	44956	505339	9
+"122"	"Fall"	"harney"	"European Starling"	47679	505339	9
+"123"	"Fall"	"harney"	"California Quail"	35539	505339	7
+"124"	"Fall"	"harney"	"Northern Shoveler"	32991	505339	7
+"125"	"Fall"	"harney"	"American Coot"	27118	505339	5
+"126"	"Fall"	"harney"	"Mallard"	27154	505339	5
+"127"	"Fall"	"harney"	"American Robin"	21201	505339	4
+"128"	"Fall"	"harney"	"White-crowned Sparrow"	18035	505339	4
+"129"	"Fall"	"harney"	"Ruddy Duck"	13754	505339	3
+"130"	"Fall"	"harney"	"Sandhill Crane"	16621	505339	3
+"131"	"Fall"	"hood river"	"American Coot"	130195	335515	39
+"132"	"Fall"	"hood river"	"Lesser Scaup"	29469	335515	9
+"133"	"Fall"	"hood river"	"Canada Goose"	18673	335515	6
+"134"	"Fall"	"hood river"	"American Wigeon"	14410	335515	4
+"135"	"Fall"	"hood river"	"Mallard"	11068	335515	3
+"136"	"Fall"	"hood river"	"Ring-necked Duck"	8917	335515	3
+"137"	"Fall"	"hood river"	"Bufflehead"	6536	335515	2
+"138"	"Fall"	"hood river"	"California Gull"	5631	335515	2
+"139"	"Fall"	"hood river"	"Dark-eyed Junco"	5126	335515	2
+"140"	"Fall"	"hood river"	"European Starling"	5378	335515	2
+"141"	"Fall"	"jackson"	"American Robin"	124671	1299549	10
+"142"	"Fall"	"jackson"	"European Starling"	112744	1299549	9
+"143"	"Fall"	"jackson"	"Canada Goose"	93158	1299549	7
+"144"	"Fall"	"jackson"	"American Coot"	64001	1299549	5
+"145"	"Fall"	"jackson"	"Dark-eyed Junco"	57378	1299549	4
+"146"	"Fall"	"jackson"	"Golden-crowned Sparrow"	56002	1299549	4
+"147"	"Fall"	"jackson"	"Red-winged Blackbird"	49122	1299549	4
+"148"	"Fall"	"jackson"	"American Wigeon"	41811	1299549	3
+"149"	"Fall"	"jackson"	"Cedar Waxwing"	32963	1299549	3
+"150"	"Fall"	"jackson"	"Mallard"	36828	1299549	3
+"151"	"Fall"	"jefferson"	"American Robin"	33715	238375	14
+"152"	"Fall"	"jefferson"	"American Coot"	24185	238375	10
+"153"	"Fall"	"jefferson"	"Canada Goose"	20065	238375	8
+"154"	"Fall"	"jefferson"	"European Starling"	14828	238375	6
+"155"	"Fall"	"jefferson"	"Mallard"	10916	238375	5
+"156"	"Fall"	"jefferson"	"Brewer's Blackbird"	6271	238375	3
+"157"	"Fall"	"jefferson"	"Common Merganser"	7809	238375	3
+"158"	"Fall"	"jefferson"	"American Wigeon"	4010	238375	2
+"159"	"Fall"	"jefferson"	"Bufflehead"	5724	238375	2
+"160"	"Fall"	"jefferson"	"Dark-eyed Junco"	5521	238375	2
+"161"	"Fall"	"josephine"	"Canada Goose"	49249	381349	13
+"162"	"Fall"	"josephine"	"American Robin"	36632	381349	10
+"163"	"Fall"	"josephine"	"Dark-eyed Junco"	28010	381349	7
+"164"	"Fall"	"josephine"	"American Coot"	22888	381349	6
+"165"	"Fall"	"josephine"	"Mallard"	17269	381349	5
+"166"	"Fall"	"josephine"	"European Starling"	15967	381349	4
+"167"	"Fall"	"josephine"	"American Crow"	11300	381349	3
+"168"	"Fall"	"josephine"	"Cedar Waxwing"	13019	381349	3
+"169"	"Fall"	"josephine"	"Golden-crowned Sparrow"	10485	381349	3
+"170"	"Fall"	"josephine"	"American Wigeon"	6707	381349	2
+"171"	"Fall"	"klamath"	"American Coot"	290330	1231643	24
+"172"	"Fall"	"klamath"	"Northern Shoveler"	89968	1231643	7
+"173"	"Fall"	"klamath"	"Ruddy Duck"	86820	1231643	7
+"174"	"Fall"	"klamath"	"Canada Goose"	62767	1231643	5
+"175"	"Fall"	"klamath"	"Bufflehead"	52078	1231643	4
+"176"	"Fall"	"klamath"	"Red-winged Blackbird"	49196	1231643	4
+"177"	"Fall"	"klamath"	"Ring-billed Gull"	46473	1231643	4
+"178"	"Fall"	"klamath"	"American Wigeon"	36077	1231643	3
+"179"	"Fall"	"klamath"	"European Starling"	34122	1231643	3
+"180"	"Fall"	"klamath"	"Mallard"	33319	1231643	3
+"181"	"Fall"	"lake"	"Northern Shoveler"	81462	416615	20
+"182"	"Fall"	"lake"	"American Coot"	74671	416615	18
+"183"	"Fall"	"lake"	"American Avocet"	33770	416615	8
+"184"	"Fall"	"lake"	"Eared Grebe"	31274	416615	8
+"185"	"Fall"	"lake"	"Snow Goose"	18122	416615	4
+"186"	"Fall"	"lake"	"American Wigeon"	12440	416615	3
+"187"	"Fall"	"lake"	"Canada Goose"	13148	416615	3
+"188"	"Fall"	"lake"	"European Starling"	8138	416615	2
+"189"	"Fall"	"lake"	"Gadwall"	6870	416615	2
+"190"	"Fall"	"lake"	"Green-winged Teal"	7964	416615	2
+"191"	"Fall"	"lane"	"Cackling Goose"	1254325	4256482	29
+"192"	"Fall"	"lane"	"European Starling"	251321	4256482	6
+"193"	"Fall"	"lane"	"Canada Goose"	164533	4256482	4
+"194"	"Fall"	"lane"	"Dunlin"	190413	4256482	4
+"195"	"Fall"	"lane"	"American Coot"	100608	4256482	2
+"196"	"Fall"	"lane"	"American Crow"	83778	4256482	2
+"197"	"Fall"	"lane"	"California Gull"	73070	4256482	2
+"198"	"Fall"	"lane"	"Dark-eyed Junco"	97617	4256482	2
+"199"	"Fall"	"lane"	"Mallard"	98548	4256482	2
+"200"	"Fall"	"lane"	"Red-winged Blackbird"	100875	4256482	2
+"201"	"Fall"	"lincoln"	"American Wigeon"	542146	4156249	13
+"202"	"Fall"	"lincoln"	"Pacific Loon"	521544	4156249	13
+"203"	"Fall"	"lincoln"	"Surf Scoter"	439258	4156249	11
+"204"	"Fall"	"lincoln"	"California Gull"	359441	4156249	9
+"205"	"Fall"	"lincoln"	"Common Murre"	162670	4156249	4
+"206"	"Fall"	"lincoln"	"Northern Pintail"	181542	4156249	4
+"207"	"Fall"	"lincoln"	"Sooty Shearwater"	130207	4156249	3
+"208"	"Fall"	"lincoln"	"Western Gull"	132684	4156249	3
+"209"	"Fall"	"lincoln"	"Brown Pelican"	69130	4156249	2
+"210"	"Fall"	"lincoln"	"Bufflehead"	68107	4156249	2
+"211"	"Fall"	"linn"	"European Starling"	428192	1184538	36
+"212"	"Fall"	"linn"	"Cackling Goose"	120993	1184538	10
+"213"	"Fall"	"linn"	"American Wigeon"	77824	1184538	7
+"214"	"Fall"	"linn"	"American Coot"	31628	1184538	3
+"215"	"Fall"	"linn"	"Killdeer"	36536	1184538	3
+"216"	"Fall"	"linn"	"Mallard"	33157	1184538	3
+"217"	"Fall"	"linn"	"American Pipit"	20436	1184538	2
+"218"	"Fall"	"linn"	"American Robin"	19703	1184538	2
+"219"	"Fall"	"linn"	"Brewer's Blackbird"	20563	1184538	2
+"220"	"Fall"	"linn"	"Canada Goose"	28721	1184538	2
+"221"	"Fall"	"malheur"	"Canada Goose"	19681	123490	16
+"222"	"Fall"	"malheur"	"Red-winged Blackbird"	18396	123490	15
+"223"	"Fall"	"malheur"	"European Starling"	14892	123490	12
+"224"	"Fall"	"malheur"	"Mallard"	9668	123490	8
+"225"	"Fall"	"malheur"	"American Coot"	6085	123490	5
+"226"	"Fall"	"malheur"	"Common Goldeneye"	3788	123490	3
+"227"	"Fall"	"malheur"	"Snow Goose"	4178	123490	3
+"228"	"Fall"	"malheur"	"American Robin"	2966	123490	2
+"229"	"Fall"	"malheur"	"American Wigeon"	3086	123490	2
+"230"	"Fall"	"malheur"	"Northern Shoveler"	2469	123490	2
+"231"	"Fall"	"marion"	"Cackling Goose"	1492213	2742418	54
+"232"	"Fall"	"marion"	"Green-winged Teal"	135104	2742418	5
+"233"	"Fall"	"marion"	"Mallard"	142361	2742418	5
+"234"	"Fall"	"marion"	"Canada Goose"	106474	2742418	4
+"235"	"Fall"	"marion"	"European Starling"	83227	2742418	3
+"236"	"Fall"	"marion"	"Northern Pintail"	58249	2742418	2
+"237"	"Fall"	"marion"	"American Coot"	28182	2742418	1
+"238"	"Fall"	"marion"	"American Crow"	24681	2742418	1
+"239"	"Fall"	"marion"	"American Goldfinch"	14276	2742418	1
+"240"	"Fall"	"marion"	"American Robin"	32303	2742418	1
+"241"	"Fall"	"morrow"	"American Coot"	101930	448039	23
+"242"	"Fall"	"morrow"	"Snow Goose"	104075	448039	23
+"243"	"Fall"	"morrow"	"Mallard"	54759	448039	12
+"244"	"Fall"	"morrow"	"Canada Goose"	40563	448039	9
+"245"	"Fall"	"morrow"	"American Crow"	21740	448039	5
+"246"	"Fall"	"morrow"	"European Starling"	23270	448039	5
+"247"	"Fall"	"morrow"	"American Wigeon"	18878	448039	4
+"248"	"Fall"	"morrow"	"Red-winged Blackbird"	7392	448039	2
+"249"	"Fall"	"morrow"	"Ring-billed Gull"	10138	448039	2
+"250"	"Fall"	"morrow"	"American Robin"	6447	448039	1
+"251"	"Fall"	"multnomah"	"Cackling Goose"	2010938	6769425	30
+"252"	"Fall"	"multnomah"	"American Crow"	646312	6769425	10
+"253"	"Fall"	"multnomah"	"Snow Goose"	361133	6769425	5
+"254"	"Fall"	"multnomah"	"Vaux's Swift"	337282	6769425	5
+"255"	"Fall"	"multnomah"	"Canada Goose"	223464	6769425	3
+"256"	"Fall"	"multnomah"	"European Starling"	224609	6769425	3
+"257"	"Fall"	"multnomah"	"Mallard"	228504	6769425	3
+"258"	"Fall"	"multnomah"	"American Wigeon"	128586	6769425	2
+"259"	"Fall"	"multnomah"	"Dark-eyed Junco"	117089	6769425	2
+"260"	"Fall"	"multnomah"	"Greater White-fronted Goose"	101865	6769425	2
+"261"	"Fall"	"polk"	"Cackling Goose"	641596	1382957	46
+"262"	"Fall"	"polk"	"European Starling"	173305	1382957	13
+"263"	"Fall"	"polk"	"Mallard"	78880	1382957	6
+"264"	"Fall"	"polk"	"Northern Pintail"	48611	1382957	4
+"265"	"Fall"	"polk"	"Red-winged Blackbird"	36852	1382957	3
+"266"	"Fall"	"polk"	"Canada Goose"	30020	1382957	2
+"267"	"Fall"	"polk"	"Northern Shoveler"	22698	1382957	2
+"268"	"Fall"	"polk"	"American Coot"	12823	1382957	1
+"269"	"Fall"	"polk"	"American Crow"	15028	1382957	1
+"270"	"Fall"	"polk"	"American Pipit"	9063	1382957	1
+"271"	"Fall"	"sherman"	"Canada Goose"	21620	174361	12
+"272"	"Fall"	"sherman"	"Bonaparte's Gull"	16995	174361	10
+"273"	"Fall"	"sherman"	"California Gull"	14871	174361	9
+"274"	"Fall"	"sherman"	"American Coot"	11844	174361	7
+"275"	"Fall"	"sherman"	"Common Merganser"	10600	174361	6
+"276"	"Fall"	"sherman"	"European Starling"	7073	174361	4
+"277"	"Fall"	"sherman"	"Lesser Scaup"	6536	174361	4
+"278"	"Fall"	"sherman"	"Ring-billed Gull"	6718	174361	4
+"279"	"Fall"	"sherman"	"American Wigeon"	5473	174361	3
+"280"	"Fall"	"sherman"	"Double-crested Cormorant"	4714	174361	3
+"281"	"Fall"	"tillamook"	"American Wigeon"	361120	2214260	16
+"282"	"Fall"	"tillamook"	"European Starling"	152254	2214260	7
+"283"	"Fall"	"tillamook"	"Surf Scoter"	152292	2214260	7
+"284"	"Fall"	"tillamook"	"Cackling Goose"	124081	2214260	6
+"285"	"Fall"	"tillamook"	"Northern Pintail"	127416	2214260	6
+"286"	"Fall"	"tillamook"	"Bufflehead"	64098	2214260	3
+"287"	"Fall"	"tillamook"	"Canada Goose"	64813	2214260	3
+"288"	"Fall"	"tillamook"	"Mallard"	62779	2214260	3
+"289"	"Fall"	"tillamook"	"Sooty Shearwater"	65278	2214260	3
+"290"	"Fall"	"tillamook"	"Western Gull"	56764	2214260	3
+"291"	"Fall"	"umatilla"	"Snow Goose"	408410	1100880	37
+"292"	"Fall"	"umatilla"	"Ring-billed Gull"	80514	1100880	7
+"293"	"Fall"	"umatilla"	"Canada Goose"	68966	1100880	6
+"294"	"Fall"	"umatilla"	"European Starling"	66112	1100880	6
+"295"	"Fall"	"umatilla"	"American Coot"	48506	1100880	4
+"296"	"Fall"	"umatilla"	"American Wigeon"	45041	1100880	4
+"297"	"Fall"	"umatilla"	"Mallard"	49403	1100880	4
+"298"	"Fall"	"umatilla"	"Cackling Goose"	31883	1100880	3
+"299"	"Fall"	"umatilla"	"Double-crested Cormorant"	20060	1100880	2
+"300"	"Fall"	"umatilla"	"American Robin"	15636	1100880	1
+"301"	"Fall"	"union"	"Mallard"	160274	907264	18
+"302"	"Fall"	"union"	"Northern Shoveler"	87461	907264	10
+"303"	"Fall"	"union"	"European Starling"	80283	907264	9
+"304"	"Fall"	"union"	"Canada Goose"	66282	907264	7
+"305"	"Fall"	"union"	"Ring-necked Duck"	38520	907264	4
+"306"	"Fall"	"union"	"Ruddy Duck"	35434	907264	4
+"307"	"Fall"	"union"	"American Coot"	25208	907264	3
+"308"	"Fall"	"union"	"California Quail"	23035	907264	3
+"309"	"Fall"	"union"	"Dark-eyed Junco"	25347	907264	3
+"310"	"Fall"	"union"	"Brewer's Blackbird"	14613	907264	2
+"311"	"Fall"	"wallowa"	"Mallard"	16138	136871	12
+"312"	"Fall"	"wallowa"	"Canada Goose"	12837	136871	9
+"313"	"Fall"	"wallowa"	"European Starling"	12766	136871	9
+"314"	"Fall"	"wallowa"	"American Coot"	9775	136871	7
+"315"	"Fall"	"wallowa"	"Bufflehead"	6658	136871	5
+"316"	"Fall"	"wallowa"	"Dark-eyed Junco"	5919	136871	4
+"317"	"Fall"	"wallowa"	"Bohemian Waxwing"	4533	136871	3
+"318"	"Fall"	"wallowa"	"California Quail"	3597	136871	3
+"319"	"Fall"	"wallowa"	"Gray-crowned Rosy-Finch"	3429	136871	3
+"320"	"Fall"	"wallowa"	"American Robin"	2435	136871	2
+"321"	"Fall"	"wasco"	"American Coot"	84909	365588	23
+"322"	"Fall"	"wasco"	"Canada Goose"	39140	365588	11
+"323"	"Fall"	"wasco"	"California Gull"	36523	365588	10
+"324"	"Fall"	"wasco"	"American Wigeon"	26316	365588	7
+"325"	"Fall"	"wasco"	"European Starling"	13604	365588	4
+"326"	"Fall"	"wasco"	"Dark-eyed Junco"	9243	365588	3
+"327"	"Fall"	"wasco"	"Mallard"	10424	365588	3
+"328"	"Fall"	"wasco"	"American Robin"	6179	365588	2
+"329"	"Fall"	"wasco"	"Double-crested Cormorant"	8941	365588	2
+"330"	"Fall"	"wasco"	"Lesser Scaup"	7315	365588	2
+"331"	"Fall"	"washington"	"Cackling Goose"	3341644	7231923	46
+"332"	"Fall"	"washington"	"Northern Pintail"	852909	7231923	12
+"333"	"Fall"	"washington"	"Mallard"	352468	7231923	5
+"334"	"Fall"	"washington"	"Canada Goose"	263387	7231923	4
+"335"	"Fall"	"washington"	"Green-winged Teal"	250808	7231923	3
+"336"	"Fall"	"washington"	"American Coot"	164776	7231923	2
+"337"	"Fall"	"washington"	"American Wigeon"	169347	7231923	2
+"338"	"Fall"	"washington"	"European Starling"	151609	7231923	2
+"339"	"Fall"	"washington"	"Red-winged Blackbird"	154785	7231923	2
+"340"	"Fall"	"washington"	"American Crow"	85963	7231923	1
+"341"	"Fall"	"wheeler"	"American Robin"	4817	22588	21
+"342"	"Fall"	"wheeler"	"Canada Goose"	2390	22588	11
+"343"	"Fall"	"wheeler"	"European Starling"	1602	22588	7
+"344"	"Fall"	"wheeler"	"Wild Turkey"	1024	22588	5
+"345"	"Fall"	"wheeler"	"Dark-eyed Junco"	817	22588	4
+"346"	"Fall"	"wheeler"	"Mallard"	934	22588	4
+"347"	"Fall"	"wheeler"	"American Coot"	567	22588	3
+"348"	"Fall"	"wheeler"	"Common Raven"	587	22588	3
+"349"	"Fall"	"wheeler"	"Ring-necked Duck"	667	22588	3
+"350"	"Fall"	"wheeler"	"Townsend's Solitaire"	697	22588	3
+"351"	"Fall"	"yamhill"	"Northern Shoveler"	55041	308382	18
+"352"	"Fall"	"yamhill"	"Cackling Goose"	40780	308382	13
+"353"	"Fall"	"yamhill"	"European Starling"	39569	308382	13
+"354"	"Fall"	"yamhill"	"American Coot"	16212	308382	5
+"355"	"Fall"	"yamhill"	"Canada Goose"	12930	308382	4
+"356"	"Fall"	"yamhill"	"Ruddy Duck"	13614	308382	4
+"357"	"Fall"	"yamhill"	"American Robin"	10351	308382	3
+"358"	"Fall"	"yamhill"	"American Wigeon"	9956	308382	3
+"359"	"Fall"	"yamhill"	"Dark-eyed Junco"	8316	308382	3
+"360"	"Fall"	"yamhill"	"Mallard"	10293	308382	3
+"361"	"Spring"	"baker"	"Canada Goose"	12530	170831	7
+"362"	"Spring"	"baker"	"American Coot"	10987	170831	6
+"363"	"Spring"	"baker"	"European Starling"	10210	170831	6
+"364"	"Spring"	"baker"	"Red-winged Blackbird"	10945	170831	6
+"365"	"Spring"	"baker"	"Brewer's Blackbird"	6482	170831	4
+"366"	"Spring"	"baker"	"Lesser Scaup"	4945	170831	3
+"367"	"Spring"	"baker"	"Mallard"	5629	170831	3
+"368"	"Spring"	"baker"	"Northern Shoveler"	4959	170831	3
+"369"	"Spring"	"baker"	"Snow Goose"	5249	170831	3
+"370"	"Spring"	"baker"	"Tree Swallow"	4404	170831	3
+"371"	"Spring"	"benton"	"Cackling Goose"	790483	4650367	17
+"372"	"Spring"	"benton"	"Northern Shoveler"	469971	4650367	10
+"373"	"Spring"	"benton"	"Greater White-fronted Goose"	223961	4650367	5
+"374"	"Spring"	"benton"	"Green-winged Teal"	117328	4650367	3
+"375"	"Spring"	"benton"	"Mallard"	127509	4650367	3
+"376"	"Spring"	"benton"	"Violet-green Swallow"	127931	4650367	3
+"377"	"Spring"	"benton"	"American Robin"	97212	4650367	2
+"378"	"Spring"	"benton"	"Barn Swallow"	74397	4650367	2
+"379"	"Spring"	"benton"	"Bufflehead"	71073	4650367	2
+"380"	"Spring"	"benton"	"Canada Goose"	113519	4650367	2
+"381"	"Spring"	"clackamas"	"Cackling Goose"	157813	894822	18
+"382"	"Spring"	"clackamas"	"American Robin"	44333	894822	5
+"383"	"Spring"	"clackamas"	"European Starling"	34848	894822	4
+"384"	"Spring"	"clackamas"	"Mallard"	35473	894822	4
+"385"	"Spring"	"clackamas"	"Song Sparrow"	36081	894822	4
+"386"	"Spring"	"clackamas"	"Violet-green Swallow"	34391	894822	4
+"387"	"Spring"	"clackamas"	"American Crow"	25739	894822	3
+"388"	"Spring"	"clackamas"	"Canada Goose"	30395	894822	3
+"389"	"Spring"	"clackamas"	"Spotted Towhee"	24019	894822	3
+"390"	"Spring"	"clackamas"	"Black-capped Chickadee"	21735	894822	2
+"391"	"Spring"	"clatsop"	"Common Murre"	727296	2989836	24
+"392"	"Spring"	"clatsop"	"Caspian Tern"	260522	2989836	9
+"393"	"Spring"	"clatsop"	"Double-crested Cormorant"	168308	2989836	6
+"394"	"Spring"	"clatsop"	"Western Sandpiper"	181038	2989836	6
+"395"	"Spring"	"clatsop"	"Cackling Goose"	143753	2989836	5
+"396"	"Spring"	"clatsop"	"Dunlin"	149606	2989836	5
+"397"	"Spring"	"clatsop"	"Western Gull"	145374	2989836	5
+"398"	"Spring"	"clatsop"	"Sanderling"	112851	2989836	4
+"399"	"Spring"	"clatsop"	"European Starling"	50028	2989836	2
+"400"	"Spring"	"clatsop"	"Mallard"	47153	2989836	2
+"401"	"Spring"	"columbia"	"Cackling Goose"	279146	1149884	24
+"402"	"Spring"	"columbia"	"Snow Goose"	120210	1149884	10
+"403"	"Spring"	"columbia"	"Sandhill Crane"	58585	1149884	5
+"404"	"Spring"	"columbia"	"American Coot"	34341	1149884	3
+"405"	"Spring"	"columbia"	"European Starling"	32282	1149884	3
+"406"	"Spring"	"columbia"	"Tree Swallow"	30101	1149884	3
+"407"	"Spring"	"columbia"	"American Goldfinch"	23236	1149884	2
+"408"	"Spring"	"columbia"	"American Robin"	18828	1149884	2
+"409"	"Spring"	"columbia"	"Canada Goose"	22813	1149884	2
+"410"	"Spring"	"columbia"	"Green-winged Teal"	28087	1149884	2
+"411"	"Spring"	"coos"	"Common Murre"	746413	1500811	50
+"412"	"Spring"	"coos"	"Western Sandpiper"	196464	1500811	13
+"413"	"Spring"	"coos"	"Western Gull"	51514	1500811	3
+"414"	"Spring"	"coos"	"Dunlin"	31937	1500811	2
+"415"	"Spring"	"coos"	"American Coot"	8447	1500811	1
+"416"	"Spring"	"coos"	"American Crow"	13597	1500811	1
+"417"	"Spring"	"coos"	"American Wigeon"	11370	1500811	1
+"418"	"Spring"	"coos"	"Barn Swallow"	8295	1500811	1
+"419"	"Spring"	"coos"	"Brandt's Cormorant"	14097	1500811	1
+"420"	"Spring"	"coos"	"Bufflehead"	7777	1500811	1
+"421"	"Spring"	"crook"	"American Coot"	59549	565013	11
+"422"	"Spring"	"crook"	"Canada Goose"	63695	565013	11
+"423"	"Spring"	"crook"	"Greater White-fronted Goose"	47156	565013	8
+"424"	"Spring"	"crook"	"Tree Swallow"	34304	565013	6
+"425"	"Spring"	"crook"	"Mallard"	28768	565013	5
+"426"	"Spring"	"crook"	"Northern Shoveler"	26313	565013	5
+"427"	"Spring"	"crook"	"Red-winged Blackbird"	20786	565013	4
+"428"	"Spring"	"crook"	"Bufflehead"	18407	565013	3
+"429"	"Spring"	"crook"	"Cliff Swallow"	18888	565013	3
+"430"	"Spring"	"crook"	"Yellow-headed Blackbird"	17831	565013	3
+"431"	"Spring"	"curry"	"Cackling Goose"	99637	390835	25
+"432"	"Spring"	"curry"	"Surf Scoter"	45725	390835	12
+"433"	"Spring"	"curry"	"Common Murre"	43728	390835	11
+"434"	"Spring"	"curry"	"Western Gull"	16910	390835	4
+"435"	"Spring"	"curry"	"Pacific Loon"	13028	390835	3
+"436"	"Spring"	"curry"	"Red-necked Phalarope"	7766	390835	2
+"437"	"Spring"	"curry"	"Sooty Shearwater"	7725	390835	2
+"438"	"Spring"	"curry"	"American Crow"	4055	390835	1
+"439"	"Spring"	"curry"	"American Robin"	3521	390835	1
+"440"	"Spring"	"curry"	"Barn Swallow"	2944	390835	1
+"441"	"Spring"	"deschutes"	"American Coot"	119106	2048122	6
+"442"	"Spring"	"deschutes"	"Canada Goose"	117527	2048122	6
+"443"	"Spring"	"deschutes"	"Tree Swallow"	96094	2048122	5
+"444"	"Spring"	"deschutes"	"American Robin"	74776	2048122	4
+"445"	"Spring"	"deschutes"	"Mallard"	84418	2048122	4
+"446"	"Spring"	"deschutes"	"Red-winged Blackbird"	90714	2048122	4
+"447"	"Spring"	"deschutes"	"Bufflehead"	65823	2048122	3
+"448"	"Spring"	"deschutes"	"Ruddy Duck"	62302	2048122	3
+"449"	"Spring"	"deschutes"	"Violet-green Swallow"	64459	2048122	3
+"450"	"Spring"	"deschutes"	"Cliff Swallow"	35895	2048122	2
+"451"	"Spring"	"douglas"	"Canada Goose"	20162	326320	6
+"452"	"Spring"	"douglas"	"Greater White-fronted Goose"	12894	326320	4
+"453"	"Spring"	"douglas"	"Mallard"	9228	326320	3
+"454"	"Spring"	"douglas"	"Sanderling"	9704	326320	3
+"455"	"Spring"	"douglas"	"Turkey Vulture"	9178	326320	3
+"456"	"Spring"	"douglas"	"Western Sandpiper"	10208	326320	3
+"457"	"Spring"	"douglas"	"American Coot"	6758	326320	2
+"458"	"Spring"	"douglas"	"American Robin"	7381	326320	2
+"459"	"Spring"	"douglas"	"Bufflehead"	7613	326320	2
+"460"	"Spring"	"douglas"	"European Starling"	6497	326320	2
+"461"	"Spring"	"gilliam"	"Cliff Swallow"	6798	68629	10
+"462"	"Spring"	"gilliam"	"American Coot"	5356	68629	8
+"463"	"Spring"	"gilliam"	"Mallard"	3657	68629	5
+"464"	"Spring"	"gilliam"	"Red-winged Blackbird"	3286	68629	5
+"465"	"Spring"	"gilliam"	"Western Meadowlark"	3280	68629	5
+"466"	"Spring"	"gilliam"	"European Starling"	2882	68629	4
+"467"	"Spring"	"gilliam"	"House Sparrow"	2501	68629	4
+"468"	"Spring"	"gilliam"	"Brewer's Blackbird"	1890	68629	3
+"469"	"Spring"	"gilliam"	"Horned Lark"	2077	68629	3
+"470"	"Spring"	"gilliam"	"Bank Swallow"	1066	68629	2
+"471"	"Spring"	"grant"	"Vaux's Swift"	23768	144715	16
+"472"	"Spring"	"grant"	"Red-winged Blackbird"	9300	144715	6
+"473"	"Spring"	"grant"	"American Robin"	5880	144715	4
+"474"	"Spring"	"grant"	"Brewer's Blackbird"	4504	144715	3
+"475"	"Spring"	"grant"	"Canada Goose"	4407	144715	3
+"476"	"Spring"	"grant"	"Cliff Swallow"	3718	144715	3
+"477"	"Spring"	"grant"	"European Starling"	4419	144715	3
+"478"	"Spring"	"grant"	"Tree Swallow"	4235	144715	3
+"479"	"Spring"	"grant"	"Mallard"	2680	144715	2
+"480"	"Spring"	"grant"	"Sandhill Crane"	2683	144715	2
+"481"	"Spring"	"harney"	"Ross's Goose"	1051762	4268748	25
+"482"	"Spring"	"harney"	"Snow Goose"	368384	4268748	9
+"483"	"Spring"	"harney"	"White-faced Ibis"	316214	4268748	7
+"484"	"Spring"	"harney"	"Red-winged Blackbird"	199645	4268748	5
+"485"	"Spring"	"harney"	"American Coot"	177031	4268748	4
+"486"	"Spring"	"harney"	"Canada Goose"	144889	4268748	3
+"487"	"Spring"	"harney"	"Northern Pintail"	116257	4268748	3
+"488"	"Spring"	"harney"	"Yellow-headed Blackbird"	110786	4268748	3
+"489"	"Spring"	"harney"	"Cliff Swallow"	78608	4268748	2
+"490"	"Spring"	"harney"	"Northern Shoveler"	64734	4268748	2
+"491"	"Spring"	"hood river"	"Canada Goose"	6207	105055	6
+"492"	"Spring"	"hood river"	"American Coot"	4920	105055	5
+"493"	"Spring"	"hood river"	"Tree Swallow"	4882	105055	5
+"494"	"Spring"	"hood river"	"American Robin"	4485	105055	4
+"495"	"Spring"	"hood river"	"European Starling"	4106	105055	4
+"496"	"Spring"	"hood river"	"Violet-green Swallow"	4423	105055	4
+"497"	"Spring"	"hood river"	"Bufflehead"	2828	105055	3
+"498"	"Spring"	"hood river"	"Cliff Swallow"	3421	105055	3
+"499"	"Spring"	"hood river"	"Dark-eyed Junco"	2810	105055	3
+"500"	"Spring"	"hood river"	"Yellow-rumped Warbler"	3306	105055	3
+"501"	"Spring"	"jackson"	"Tree Swallow"	73588	1229864	6
+"502"	"Spring"	"jackson"	"Canada Goose"	66089	1229864	5
+"503"	"Spring"	"jackson"	"European Starling"	48612	1229864	4
+"504"	"Spring"	"jackson"	"Red-winged Blackbird"	45953	1229864	4
+"505"	"Spring"	"jackson"	"Lesser Goldfinch"	30925	1229864	3
+"506"	"Spring"	"jackson"	"Mallard"	31140	1229864	3
+"507"	"Spring"	"jackson"	"Northern Shoveler"	31358	1229864	3
+"508"	"Spring"	"jackson"	"Acorn Woodpecker"	27495	1229864	2
+"509"	"Spring"	"jackson"	"American Robin"	26541	1229864	2
+"510"	"Spring"	"jackson"	"Brewer's Blackbird"	30678	1229864	2
+"511"	"Spring"	"jefferson"	"Canada Goose"	7094	153834	5
+"512"	"Spring"	"jefferson"	"Cliff Swallow"	6648	153834	4
+"513"	"Spring"	"jefferson"	"European Starling"	6713	153834	4
+"514"	"Spring"	"jefferson"	"Mallard"	6397	153834	4
+"515"	"Spring"	"jefferson"	"Violet-green Swallow"	5626	153834	4
+"516"	"Spring"	"jefferson"	"American Robin"	5153	153834	3
+"517"	"Spring"	"jefferson"	"Dark-eyed Junco"	4349	153834	3
+"518"	"Spring"	"jefferson"	"Red-winged Blackbird"	5269	153834	3
+"519"	"Spring"	"jefferson"	"Yellow-rumped Warbler"	5170	153834	3
+"520"	"Spring"	"jefferson"	"Brewer's Blackbird"	3033	153834	2
+"521"	"Spring"	"josephine"	"Canada Goose"	20157	249573	8
+"522"	"Spring"	"josephine"	"Tree Swallow"	14057	249573	6
+"523"	"Spring"	"josephine"	"Cliff Swallow"	8030	249573	3
+"524"	"Spring"	"josephine"	"European Starling"	6621	249573	3
+"525"	"Spring"	"josephine"	"Lesser Goldfinch"	7225	249573	3
+"526"	"Spring"	"josephine"	"Mallard"	7886	249573	3
+"527"	"Spring"	"josephine"	"Turkey Vulture"	6786	249573	3
+"528"	"Spring"	"josephine"	"Violet-green Swallow"	6282	249573	3
+"529"	"Spring"	"josephine"	"Acorn Woodpecker"	5681	249573	2
+"530"	"Spring"	"josephine"	"American Crow"	5489	249573	2
+"531"	"Spring"	"klamath"	"Greater White-fronted Goose"	405607	2010392	20
+"532"	"Spring"	"klamath"	"Ross's Goose"	95126	2010392	5
+"533"	"Spring"	"klamath"	"American Coot"	82374	2010392	4
+"534"	"Spring"	"klamath"	"Northern Shoveler"	84445	2010392	4
+"535"	"Spring"	"klamath"	"Red-winged Blackbird"	77100	2010392	4
+"536"	"Spring"	"klamath"	"White-faced Ibis"	71996	2010392	4
+"537"	"Spring"	"klamath"	"Canada Goose"	60550	2010392	3
+"538"	"Spring"	"klamath"	"Cliff Swallow"	68033	2010392	3
+"539"	"Spring"	"klamath"	"Dunlin"	55099	2010392	3
+"540"	"Spring"	"klamath"	"Snow Goose"	60926	2010392	3
+"541"	"Spring"	"lake"	"Ring-billed Gull"	101107	1308858	8
+"542"	"Spring"	"lake"	"American Coot"	79465	1308858	6
+"543"	"Spring"	"lake"	"Snow Goose"	77411	1308858	6
+"544"	"Spring"	"lake"	"Cliff Swallow"	71866	1308858	5
+"545"	"Spring"	"lake"	"California Gull"	50725	1308858	4
+"546"	"Spring"	"lake"	"Northern Shoveler"	57763	1308858	4
+"547"	"Spring"	"lake"	"Red-winged Blackbird"	52778	1308858	4
+"548"	"Spring"	"lake"	"American Avocet"	37891	1308858	3
+"549"	"Spring"	"lake"	"Canada Goose"	33205	1308858	3
+"550"	"Spring"	"lake"	"Gadwall"	42129	1308858	3
+"551"	"Spring"	"lane"	"Cackling Goose"	936840	4166642	22
+"552"	"Spring"	"lane"	"Canada Goose"	152086	4166642	4
+"553"	"Spring"	"lane"	"Vaux's Swift"	135386	4166642	3
+"554"	"Spring"	"lane"	"Western Sandpiper"	104806	4166642	3
+"555"	"Spring"	"lane"	"American Robin"	86006	4166642	2
+"556"	"Spring"	"lane"	"European Starling"	102872	4166642	2
+"557"	"Spring"	"lane"	"Greater White-fronted Goose"	101648	4166642	2
+"558"	"Spring"	"lane"	"Green-winged Teal"	76113	4166642	2
+"559"	"Spring"	"lane"	"Mallard"	100287	4166642	2
+"560"	"Spring"	"lane"	"Red-winged Blackbird"	77323	4166642	2
+"561"	"Spring"	"lincoln"	"Common Murre"	2122941	5146765	41
+"562"	"Spring"	"lincoln"	"Western Sandpiper"	809318	5146765	16
+"563"	"Spring"	"lincoln"	"Pacific Loon"	450947	5146765	9
+"564"	"Spring"	"lincoln"	"Surf Scoter"	204950	5146765	4
+"565"	"Spring"	"lincoln"	"Pelagic Cormorant"	77659	5146765	2
+"566"	"Spring"	"lincoln"	"Red-necked Phalarope"	80059	5146765	2
+"567"	"Spring"	"lincoln"	"Western Gull"	127457	5146765	2
+"568"	"Spring"	"lincoln"	"American Crow"	37873	5146765	1
+"569"	"Spring"	"lincoln"	"Brandt's Cormorant"	72998	5146765	1
+"570"	"Spring"	"lincoln"	"Brant"	26063	5146765	1
+"571"	"Spring"	"linn"	"Cackling Goose"	36232	437632	8
+"572"	"Spring"	"linn"	"European Starling"	27057	437632	6
+"573"	"Spring"	"linn"	"American Robin"	16193	437632	4
+"574"	"Spring"	"linn"	"Mallard"	17895	437632	4
+"575"	"Spring"	"linn"	"Red-winged Blackbird"	15916	437632	4
+"576"	"Spring"	"linn"	"Canada Goose"	13537	437632	3
+"577"	"Spring"	"linn"	"Song Sparrow"	12283	437632	3
+"578"	"Spring"	"linn"	"Tree Swallow"	11627	437632	3
+"579"	"Spring"	"linn"	"Violet-green Swallow"	13974	437632	3
+"580"	"Spring"	"linn"	"American Goldfinch"	9226	437632	2
+"581"	"Spring"	"malheur"	"Canada Goose"	26507	289938	9
+"582"	"Spring"	"malheur"	"White-faced Ibis"	20089	289938	7
+"583"	"Spring"	"malheur"	"Red-winged Blackbird"	17655	289938	6
+"584"	"Spring"	"malheur"	"American Coot"	14745	289938	5
+"585"	"Spring"	"malheur"	"Cliff Swallow"	15097	289938	5
+"586"	"Spring"	"malheur"	"Snow Goose"	15641	289938	5
+"587"	"Spring"	"malheur"	"Mallard"	10592	289938	4
+"588"	"Spring"	"malheur"	"European Starling"	9114	289938	3
+"589"	"Spring"	"malheur"	"Western Meadowlark"	8229	289938	3
+"590"	"Spring"	"malheur"	"Brewer's Blackbird"	5843	289938	2
+"591"	"Spring"	"marion"	"Cackling Goose"	806200	1765861	46
+"592"	"Spring"	"marion"	"Canada Goose"	55552	1765861	3
+"593"	"Spring"	"marion"	"European Starling"	45043	1765861	3
+"594"	"Spring"	"marion"	"Green-winged Teal"	45725	1765861	3
+"595"	"Spring"	"marion"	"Red-winged Blackbird"	44611	1765861	3
+"596"	"Spring"	"marion"	"American Coot"	29062	1765861	2
+"597"	"Spring"	"marion"	"American Robin"	37772	1765861	2
+"598"	"Spring"	"marion"	"Mallard"	41529	1765861	2
+"599"	"Spring"	"marion"	"Northern Shoveler"	41144	1765861	2
+"600"	"Spring"	"marion"	"Tree Swallow"	35887	1765861	2
+"601"	"Spring"	"morrow"	"American Coot"	14195	133519	11
+"602"	"Spring"	"morrow"	"Red-winged Blackbird"	10161	133519	8
+"603"	"Spring"	"morrow"	"Snow Goose"	10525	133519	8
+"604"	"Spring"	"morrow"	"Canada Goose"	6925	133519	5
+"605"	"Spring"	"morrow"	"Mallard"	5239	133519	4
+"606"	"Spring"	"morrow"	"Cliff Swallow"	3375	133519	3
+"607"	"Spring"	"morrow"	"European Starling"	4385	133519	3
+"608"	"Spring"	"morrow"	"Greater White-fronted Goose"	3526	133519	3
+"609"	"Spring"	"morrow"	"White-crowned Sparrow"	3363	133519	3
+"610"	"Spring"	"morrow"	"American Wigeon"	2280	133519	2
+"611"	"Spring"	"multnomah"	"Cackling Goose"	467638	3986156	12
+"612"	"Spring"	"multnomah"	"American Crow"	214849	3986156	5
+"613"	"Spring"	"multnomah"	"American Robin"	184140	3986156	5
+"614"	"Spring"	"multnomah"	"European Starling"	148069	3986156	4
+"615"	"Spring"	"multnomah"	"Mallard"	146600	3986156	4
+"616"	"Spring"	"multnomah"	"Song Sparrow"	147814	3986156	4
+"617"	"Spring"	"multnomah"	"Canada Goose"	120469	3986156	3
+"618"	"Spring"	"multnomah"	"Dark-eyed Junco"	108724	3986156	3
+"619"	"Spring"	"multnomah"	"Tree Swallow"	115346	3986156	3
+"620"	"Spring"	"multnomah"	"Yellow-rumped Warbler"	114560	3986156	3
+"621"	"Spring"	"polk"	"Cackling Goose"	1092669	2023381	54
+"622"	"Spring"	"polk"	"American Coot"	114079	2023381	6
+"623"	"Spring"	"polk"	"Northern Shoveler"	79825	2023381	4
+"624"	"Spring"	"polk"	"Mallard"	57651	2023381	3
+"625"	"Spring"	"polk"	"Canada Goose"	40954	2023381	2
+"626"	"Spring"	"polk"	"European Starling"	32426	2023381	2
+"627"	"Spring"	"polk"	"Greater White-fronted Goose"	37206	2023381	2
+"628"	"Spring"	"polk"	"Red-winged Blackbird"	35547	2023381	2
+"629"	"Spring"	"polk"	"American Crow"	11055	2023381	1
+"630"	"Spring"	"polk"	"American Goldfinch"	15807	2023381	1
+"631"	"Spring"	"sherman"	"Canada Goose"	15309	131183	12
+"632"	"Spring"	"sherman"	"California Gull"	9515	131183	7
+"633"	"Spring"	"sherman"	"Cliff Swallow"	8595	131183	7
+"634"	"Spring"	"sherman"	"Violet-green Swallow"	8814	131183	7
+"635"	"Spring"	"sherman"	"American Coot"	6079	131183	5
+"636"	"Spring"	"sherman"	"Tree Swallow"	4892	131183	4
+"637"	"Spring"	"sherman"	"American Goldfinch"	3505	131183	3
+"638"	"Spring"	"sherman"	"Red-winged Blackbird"	3648	131183	3
+"639"	"Spring"	"sherman"	"Yellow-rumped Warbler"	3679	131183	3
+"640"	"Spring"	"sherman"	"American Crow"	2756	131183	2
+"641"	"Spring"	"tillamook"	"Common Murre"	282320	1756011	16
+"642"	"Spring"	"tillamook"	"Western Sandpiper"	122679	1756011	7
+"643"	"Spring"	"tillamook"	"Bufflehead"	70908	1756011	4
+"644"	"Spring"	"tillamook"	"American Wigeon"	49994	1756011	3
+"645"	"Spring"	"tillamook"	"Pacific Loon"	55311	1756011	3
+"646"	"Spring"	"tillamook"	"Surf Scoter"	56521	1756011	3
+"647"	"Spring"	"tillamook"	"Western Gull"	60321	1756011	3
+"648"	"Spring"	"tillamook"	"American Crow"	35393	1756011	2
+"649"	"Spring"	"tillamook"	"American Robin"	33781	1756011	2
+"650"	"Spring"	"tillamook"	"Barn Swallow"	30516	1756011	2
+"651"	"Spring"	"umatilla"	"Cackling Goose"	62790	530494	12
+"652"	"Spring"	"umatilla"	"American Coot"	35253	530494	7
+"653"	"Spring"	"umatilla"	"European Starling"	29404	530494	6
+"654"	"Spring"	"umatilla"	"Canada Goose"	25321	530494	5
+"655"	"Spring"	"umatilla"	"Red-winged Blackbird"	27361	530494	5
+"656"	"Spring"	"umatilla"	"Cliff Swallow"	22416	530494	4
+"657"	"Spring"	"umatilla"	"Sandhill Crane"	22724	530494	4
+"658"	"Spring"	"umatilla"	"Mallard"	15023	530494	3
+"659"	"Spring"	"umatilla"	"Snow Goose"	15461	530494	3
+"660"	"Spring"	"umatilla"	"American Robin"	11121	530494	2
+"661"	"Spring"	"union"	"Canada Goose"	75720	1022199	7
+"662"	"Spring"	"union"	"American Coot"	55288	1022199	5
+"663"	"Spring"	"union"	"Red-winged Blackbird"	47701	1022199	5
+"664"	"Spring"	"union"	"European Starling"	38191	1022199	4
+"665"	"Spring"	"union"	"Greater White-fronted Goose"	42894	1022199	4
+"666"	"Spring"	"union"	"Mallard"	38203	1022199	4
+"667"	"Spring"	"union"	"Northern Shoveler"	37998	1022199	4
+"668"	"Spring"	"union"	"Cliff Swallow"	30887	1022199	3
+"669"	"Spring"	"union"	"Gadwall"	26617	1022199	3
+"670"	"Spring"	"union"	"Ruddy Duck"	33623	1022199	3
+"671"	"Spring"	"wallowa"	"Canada Goose"	6884	103422	7
+"672"	"Spring"	"wallowa"	"Mallard"	6995	103422	7
+"673"	"Spring"	"wallowa"	"American Robin"	6023	103422	6
+"674"	"Spring"	"wallowa"	"European Starling"	5076	103422	5
+"675"	"Spring"	"wallowa"	"Red-winged Blackbird"	4881	103422	5
+"676"	"Spring"	"wallowa"	"Brewer's Blackbird"	4332	103422	4
+"677"	"Spring"	"wallowa"	"Black-billed Magpie"	2909	103422	3
+"678"	"Spring"	"wallowa"	"California Quail"	1907	103422	2
+"679"	"Spring"	"wallowa"	"Dark-eyed Junco"	1686	103422	2
+"680"	"Spring"	"wallowa"	"Tree Swallow"	2452	103422	2
+"681"	"Spring"	"wasco"	"Canada Goose"	12062	206087	6
+"682"	"Spring"	"wasco"	"American Coot"	10531	206087	5
+"683"	"Spring"	"wasco"	"Cliff Swallow"	9499	206087	5
+"684"	"Spring"	"wasco"	"Red-winged Blackbird"	7423	206087	4
+"685"	"Spring"	"wasco"	"American Robin"	5834	206087	3
+"686"	"Spring"	"wasco"	"European Starling"	7078	206087	3
+"687"	"Spring"	"wasco"	"Violet-green Swallow"	6477	206087	3
+"688"	"Spring"	"wasco"	"Yellow-rumped Warbler"	5924	206087	3
+"689"	"Spring"	"wasco"	"Brewer's Blackbird"	3819	206087	2
+"690"	"Spring"	"wasco"	"California Gull"	4977	206087	2
+"691"	"Spring"	"washington"	"Cackling Goose"	931750	4048178	23
+"692"	"Spring"	"washington"	"Canada Goose"	255904	4048178	6
+"693"	"Spring"	"washington"	"Mallard"	229157	4048178	6
+"694"	"Spring"	"washington"	"Red-winged Blackbird"	175570	4048178	4
+"695"	"Spring"	"washington"	"Tree Swallow"	142010	4048178	4
+"696"	"Spring"	"washington"	"Gadwall"	117080	4048178	3
+"697"	"Spring"	"washington"	"Green-winged Teal"	128560	4048178	3
+"698"	"Spring"	"washington"	"American Coot"	70212	4048178	2
+"699"	"Spring"	"washington"	"American Crow"	68454	4048178	2
+"700"	"Spring"	"washington"	"American Robin"	99297	4048178	2
+"701"	"Spring"	"wheeler"	"Cliff Swallow"	5632	64309	9
+"702"	"Spring"	"wheeler"	"Red-winged Blackbird"	4319	64309	7
+"703"	"Spring"	"wheeler"	"American Robin"	2419	64309	4
+"704"	"Spring"	"wheeler"	"Bank Swallow"	2356	64309	4
+"705"	"Spring"	"wheeler"	"Brewer's Blackbird"	2267	64309	4
+"706"	"Spring"	"wheeler"	"Canada Goose"	2141	64309	3
+"707"	"Spring"	"wheeler"	"Western Meadowlark"	2045	64309	3
+"708"	"Spring"	"wheeler"	"American Coot"	1506	64309	2
+"709"	"Spring"	"wheeler"	"Cedar Waxwing"	1010	64309	2
+"710"	"Spring"	"wheeler"	"Chipping Sparrow"	1172	64309	2
+"711"	"Spring"	"yamhill"	"Cackling Goose"	23403	213349	11
+"712"	"Spring"	"yamhill"	"American Robin"	12666	213349	6
+"713"	"Spring"	"yamhill"	"Northern Shoveler"	13456	213349	6
+"714"	"Spring"	"yamhill"	"European Starling"	9188	213349	4
+"715"	"Spring"	"yamhill"	"Greater White-fronted Goose"	6582	213349	3
+"716"	"Spring"	"yamhill"	"Green-winged Teal"	5620	213349	3
+"717"	"Spring"	"yamhill"	"Brewer's Blackbird"	3213	213349	2
+"718"	"Spring"	"yamhill"	"Canada Goose"	4547	213349	2
+"719"	"Spring"	"yamhill"	"Cliff Swallow"	4935	213349	2
+"720"	"Spring"	"yamhill"	"Lesser Scaup"	4455	213349	2
+"721"	"Summer"	"baker"	"Canada Goose"	17750	165270	11
+"722"	"Summer"	"baker"	"European Starling"	12123	165270	7
+"723"	"Summer"	"baker"	"Brewer's Blackbird"	10707	165270	6
+"724"	"Summer"	"baker"	"Mallard"	8356	165270	5
+"725"	"Summer"	"baker"	"American Coot"	5592	165270	3
+"726"	"Summer"	"baker"	"Northern Shoveler"	4860	165270	3
+"727"	"Summer"	"baker"	"Red-winged Blackbird"	5575	165270	3
+"728"	"Summer"	"baker"	"American Robin"	3945	165270	2
+"729"	"Summer"	"baker"	"Cliff Swallow"	3457	165270	2
+"730"	"Summer"	"baker"	"Gadwall"	2773	165270	2
+"731"	"Summer"	"benton"	"Northern Shoveler"	207151	2226592	9
+"732"	"Summer"	"benton"	"Mallard"	172982	2226592	8
+"733"	"Summer"	"benton"	"Barn Swallow"	152572	2226592	7
+"734"	"Summer"	"benton"	"Violet-green Swallow"	124513	2226592	6
+"735"	"Summer"	"benton"	"Vaux's Swift"	83120	2226592	4
+"736"	"Summer"	"benton"	"Brewer's Blackbird"	76094	2226592	3
+"737"	"Summer"	"benton"	"Canada Goose"	70266	2226592	3
+"738"	"Summer"	"benton"	"Cedar Waxwing"	72698	2226592	3
+"739"	"Summer"	"benton"	"European Starling"	67251	2226592	3
+"740"	"Summer"	"benton"	"American Crow"	34826	2226592	2
+"741"	"Summer"	"clackamas"	"Vaux's Swift"	32483	473016	7
+"742"	"Summer"	"clackamas"	"Mallard"	25332	473016	5
+"743"	"Summer"	"clackamas"	"American Crow"	20119	473016	4
+"744"	"Summer"	"clackamas"	"American Robin"	17036	473016	4
+"745"	"Summer"	"clackamas"	"Black-capped Chickadee"	19667	473016	4
+"746"	"Summer"	"clackamas"	"Canada Goose"	19860	473016	4
+"747"	"Summer"	"clackamas"	"European Starling"	18469	473016	4
+"748"	"Summer"	"clackamas"	"Song Sparrow"	17067	473016	4
+"749"	"Summer"	"clackamas"	"Violet-green Swallow"	16941	473016	4
+"750"	"Summer"	"clackamas"	"Dark-eyed Junco"	13668	473016	3
+"751"	"Summer"	"clatsop"	"Sooty Shearwater"	1572624	3865117	41
+"752"	"Summer"	"clatsop"	"Common Murre"	622152	3865117	16
+"753"	"Summer"	"clatsop"	"California Gull"	178067	3865117	5
+"754"	"Summer"	"clatsop"	"Brown Pelican"	144047	3865117	4
+"755"	"Summer"	"clatsop"	"Double-crested Cormorant"	161285	3865117	4
+"756"	"Summer"	"clatsop"	"Western Gull"	170733	3865117	4
+"757"	"Summer"	"clatsop"	"Caspian Tern"	110113	3865117	3
+"758"	"Summer"	"clatsop"	"Western Sandpiper"	99466	3865117	3
+"759"	"Summer"	"clatsop"	"Barn Swallow"	60450	3865117	2
+"760"	"Summer"	"clatsop"	"Canada Goose"	66174	3865117	2
+"761"	"Summer"	"columbia"	"American White Pelican"	119235	1038356	11
+"762"	"Summer"	"columbia"	"Barn Swallow"	97167	1038356	9
+"763"	"Summer"	"columbia"	"Vaux's Swift"	93230	1038356	9
+"764"	"Summer"	"columbia"	"European Starling"	74366	1038356	7
+"765"	"Summer"	"columbia"	"Western Sandpiper"	61615	1038356	6
+"766"	"Summer"	"columbia"	"Green-winged Teal"	45844	1038356	4
+"767"	"Summer"	"columbia"	"Mallard"	38270	1038356	4
+"768"	"Summer"	"columbia"	"Cackling Goose"	32045	1038356	3
+"769"	"Summer"	"columbia"	"Great Egret"	26766	1038356	3
+"770"	"Summer"	"columbia"	"Ring-billed Gull"	27107	1038356	3
+"771"	"Summer"	"coos"	"Common Murre"	200729	765723	26
+"772"	"Summer"	"coos"	"Western Sandpiper"	85418	765723	11
+"773"	"Summer"	"coos"	"Western Gull"	60266	765723	8
+"774"	"Summer"	"coos"	"Canada Goose"	23330	765723	3
+"775"	"Summer"	"coos"	"Least Sandpiper"	20918	765723	3
+"776"	"Summer"	"coos"	"American Crow"	15173	765723	2
+"777"	"Summer"	"coos"	"Barn Swallow"	13060	765723	2
+"778"	"Summer"	"coos"	"Brandt's Cormorant"	12637	765723	2
+"779"	"Summer"	"coos"	"Brown Pelican"	17207	765723	2
+"780"	"Summer"	"coos"	"California Gull"	13357	765723	2
+"781"	"Summer"	"crook"	"Canada Goose"	51166	380263	13
+"782"	"Summer"	"crook"	"Mallard"	47551	380263	13
+"783"	"Summer"	"crook"	"American Coot"	26213	380263	7
+"784"	"Summer"	"crook"	"Bank Swallow"	18395	380263	5
+"785"	"Summer"	"crook"	"Least Sandpiper"	14287	380263	4
+"786"	"Summer"	"crook"	"Western Sandpiper"	13957	380263	4
+"787"	"Summer"	"crook"	"Barn Swallow"	11283	380263	3
+"788"	"Summer"	"crook"	"Brewer's Blackbird"	12643	380263	3
+"789"	"Summer"	"crook"	"European Starling"	11288	380263	3
+"790"	"Summer"	"crook"	"Killdeer"	11676	380263	3
+"791"	"Summer"	"curry"	"Common Murre"	26504	283114	9
+"792"	"Summer"	"curry"	"Western Gull"	25775	283114	9
+"793"	"Summer"	"curry"	"Brown Pelican"	16775	283114	6
+"794"	"Summer"	"curry"	"Sooty Shearwater"	12340	283114	4
+"795"	"Summer"	"curry"	"Barn Swallow"	7185	283114	3
+"796"	"Summer"	"curry"	"Double-crested Cormorant"	8322	283114	3
+"797"	"Summer"	"curry"	"Swainson's Thrush"	7661	283114	3
+"798"	"Summer"	"curry"	"Violet-green Swallow"	8925	283114	3
+"799"	"Summer"	"curry"	"American Crow"	5670	283114	2
+"800"	"Summer"	"curry"	"Brandt's Cormorant"	5837	283114	2
+"801"	"Summer"	"deschutes"	"Vaux's Swift"	170358	1699611	10
+"802"	"Summer"	"deschutes"	"Canada Goose"	136831	1699611	8
+"803"	"Summer"	"deschutes"	"Mallard"	101060	1699611	6
+"804"	"Summer"	"deschutes"	"American Coot"	67534	1699611	4
+"805"	"Summer"	"deschutes"	"Brewer's Blackbird"	50716	1699611	3
+"806"	"Summer"	"deschutes"	"Red-winged Blackbird"	44925	1699611	3
+"807"	"Summer"	"deschutes"	"American Robin"	40226	1699611	2
+"808"	"Summer"	"deschutes"	"American White Pelican"	25987	1699611	2
+"809"	"Summer"	"deschutes"	"Barn Swallow"	27346	1699611	2
+"810"	"Summer"	"deschutes"	"European Starling"	29479	1699611	2
+"811"	"Summer"	"douglas"	"Vaux's Swift"	34273	326614	10
+"812"	"Summer"	"douglas"	"Canada Goose"	16798	326614	5
+"813"	"Summer"	"douglas"	"Mallard"	14982	326614	5
+"814"	"Summer"	"douglas"	"American Coot"	14583	326614	4
+"815"	"Summer"	"douglas"	"Violet-green Swallow"	12760	326614	4
+"816"	"Summer"	"douglas"	"European Starling"	8941	326614	3
+"817"	"Summer"	"douglas"	"Turkey Vulture"	8204	326614	3
+"818"	"Summer"	"douglas"	"Western Sandpiper"	8689	326614	3
+"819"	"Summer"	"douglas"	"American Goldfinch"	5119	326614	2
+"820"	"Summer"	"douglas"	"Barn Swallow"	7399	326614	2
+"821"	"Summer"	"gilliam"	"Mallard"	4793	41020	12
+"822"	"Summer"	"gilliam"	"Brewer's Blackbird"	3055	41020	7
+"823"	"Summer"	"gilliam"	"Horned Lark"	2858	41020	7
+"824"	"Summer"	"gilliam"	"Barn Swallow"	2478	41020	6
+"825"	"Summer"	"gilliam"	"European Starling"	2636	41020	6
+"826"	"Summer"	"gilliam"	"Red-winged Blackbird"	1939	41020	5
+"827"	"Summer"	"gilliam"	"Cliff Swallow"	1574	41020	4
+"828"	"Summer"	"gilliam"	"Canada Goose"	1333	41020	3
+"829"	"Summer"	"gilliam"	"House Sparrow"	1386	41020	3
+"830"	"Summer"	"gilliam"	"American White Pelican"	753	41020	2
+"831"	"Summer"	"grant"	"Vaux's Swift"	6894	85199	8
+"832"	"Summer"	"grant"	"Brewer's Blackbird"	5165	85199	6
+"833"	"Summer"	"grant"	"Red-winged Blackbird"	4859	85199	6
+"834"	"Summer"	"grant"	"European Starling"	4184	85199	5
+"835"	"Summer"	"grant"	"American Robin"	3725	85199	4
+"836"	"Summer"	"grant"	"Mountain Chickadee"	2252	85199	3
+"837"	"Summer"	"grant"	"California Quail"	1746	85199	2
+"838"	"Summer"	"grant"	"Canada Goose"	1558	85199	2
+"839"	"Summer"	"grant"	"Cassin's Finch"	1393	85199	2
+"840"	"Summer"	"grant"	"Cedar Waxwing"	1521	85199	2
+"841"	"Summer"	"harney"	"American Coot"	78079	1030558	8
+"842"	"Summer"	"harney"	"Canada Goose"	59662	1030558	6
+"843"	"Summer"	"harney"	"Red-winged Blackbird"	58992	1030558	6
+"844"	"Summer"	"harney"	"White-faced Ibis"	64555	1030558	6
+"845"	"Summer"	"harney"	"Long-billed Dowitcher"	45401	1030558	4
+"846"	"Summer"	"harney"	"American White Pelican"	29113	1030558	3
+"847"	"Summer"	"harney"	"Bank Swallow"	29383	1030558	3
+"848"	"Summer"	"harney"	"Brewer's Blackbird"	33973	1030558	3
+"849"	"Summer"	"harney"	"Mallard"	35878	1030558	3
+"850"	"Summer"	"harney"	"Barn Swallow"	23647	1030558	2
+"851"	"Summer"	"hood river"	"California Gull"	9074	135288	7
+"852"	"Summer"	"hood river"	"Canada Goose"	9235	135288	7
+"853"	"Summer"	"hood river"	"Dark-eyed Junco"	6491	135288	5
+"854"	"Summer"	"hood river"	"European Starling"	6328	135288	5
+"855"	"Summer"	"hood river"	"American Coot"	3967	135288	3
+"856"	"Summer"	"hood river"	"American Robin"	3797	135288	3
+"857"	"Summer"	"hood river"	"Pine Siskin"	3501	135288	3
+"858"	"Summer"	"hood river"	"Violet-green Swallow"	4215	135288	3
+"859"	"Summer"	"hood river"	"Yellow-rumped Warbler"	3509	135288	3
+"860"	"Summer"	"hood river"	"American Crow"	2391	135288	2
+"861"	"Summer"	"jackson"	"Canada Goose"	65251	738549	9
+"862"	"Summer"	"jackson"	"European Starling"	53144	738549	7
+"863"	"Summer"	"jackson"	"Vaux's Swift"	39362	738549	5
+"864"	"Summer"	"jackson"	"Acorn Woodpecker"	20071	738549	3
+"865"	"Summer"	"jackson"	"Brewer's Blackbird"	22805	738549	3
+"866"	"Summer"	"jackson"	"Dark-eyed Junco"	19161	738549	3
+"867"	"Summer"	"jackson"	"Lesser Goldfinch"	23050	738549	3
+"868"	"Summer"	"jackson"	"Mallard"	24713	738549	3
+"869"	"Summer"	"jackson"	"Red-winged Blackbird"	20757	738549	3
+"870"	"Summer"	"jackson"	"American Robin"	12419	738549	2
+"871"	"Summer"	"jefferson"	"Canada Goose"	13117	155811	8
+"872"	"Summer"	"jefferson"	"European Starling"	8900	155811	6
+"873"	"Summer"	"jefferson"	"Dark-eyed Junco"	5619	155811	4
+"874"	"Summer"	"jefferson"	"Mallard"	5877	155811	4
+"875"	"Summer"	"jefferson"	"Yellow-rumped Warbler"	5930	155811	4
+"876"	"Summer"	"jefferson"	"Brewer's Blackbird"	3918	155811	3
+"877"	"Summer"	"jefferson"	"Violet-green Swallow"	3896	155811	3
+"878"	"Summer"	"jefferson"	"American Robin"	3866	155811	2
+"879"	"Summer"	"jefferson"	"Barn Swallow"	2415	155811	2
+"880"	"Summer"	"jefferson"	"Chipping Sparrow"	2827	155811	2
+"881"	"Summer"	"josephine"	"Canada Goose"	17756	193321	9
+"882"	"Summer"	"josephine"	"Mallard"	10434	193321	5
+"883"	"Summer"	"josephine"	"European Starling"	7405	193321	4
+"884"	"Summer"	"josephine"	"Turkey Vulture"	8632	193321	4
+"885"	"Summer"	"josephine"	"American Crow"	5880	193321	3
+"886"	"Summer"	"josephine"	"Black-capped Chickadee"	6320	193321	3
+"887"	"Summer"	"josephine"	"Lesser Goldfinch"	6041	193321	3
+"888"	"Summer"	"josephine"	"Northern Rough-winged Swallow"	5419	193321	3
+"889"	"Summer"	"josephine"	"Violet-green Swallow"	4919	193321	3
+"890"	"Summer"	"josephine"	"Wild Turkey"	5414	193321	3
+"891"	"Summer"	"klamath"	"American Coot"	110999	979003	11
+"892"	"Summer"	"klamath"	"Canada Goose"	64728	979003	7
+"893"	"Summer"	"klamath"	"Ring-billed Gull"	66324	979003	7
+"894"	"Summer"	"klamath"	"Red-winged Blackbird"	52918	979003	5
+"895"	"Summer"	"klamath"	"Mallard"	40195	979003	4
+"896"	"Summer"	"klamath"	"American White Pelican"	30369	979003	3
+"897"	"Summer"	"klamath"	"Brewer's Blackbird"	28456	979003	3
+"898"	"Summer"	"klamath"	"Cliff Swallow"	27278	979003	3
+"899"	"Summer"	"klamath"	"European Starling"	25102	979003	3
+"900"	"Summer"	"klamath"	"White-faced Ibis"	30201	979003	3
+"901"	"Summer"	"lake"	"Wilson's Phalarope"	758615	2453693	31
+"902"	"Summer"	"lake"	"American Avocet"	390119	2453693	16
+"903"	"Summer"	"lake"	"Northern Shoveler"	158393	2453693	6
+"904"	"Summer"	"lake"	"Eared Grebe"	119244	2453693	5
+"905"	"Summer"	"lake"	"American Coot"	87112	2453693	4
+"906"	"Summer"	"lake"	"Black-necked Stilt"	63978	2453693	3
+"907"	"Summer"	"lake"	"California Gull"	62079	2453693	3
+"908"	"Summer"	"lake"	"Canada Goose"	54252	2453693	2
+"909"	"Summer"	"lake"	"Gadwall"	42360	2453693	2
+"910"	"Summer"	"lake"	"Long-billed Dowitcher"	51855	2453693	2
+"911"	"Summer"	"lane"	"Vaux's Swift"	291588	3134237	9
+"912"	"Summer"	"lane"	"European Starling"	203715	3134237	6
+"913"	"Summer"	"lane"	"Western Sandpiper"	194038	3134237	6
+"914"	"Summer"	"lane"	"Barn Swallow"	169294	3134237	5
+"915"	"Summer"	"lane"	"Canada Goose"	154216	3134237	5
+"916"	"Summer"	"lane"	"Mallard"	114203	3134237	4
+"917"	"Summer"	"lane"	"Red-winged Blackbird"	122685	3134237	4
+"918"	"Summer"	"lane"	"Surf Scoter"	81539	3134237	3
+"919"	"Summer"	"lane"	"American Crow"	69098	3134237	2
+"920"	"Summer"	"lane"	"Cedar Waxwing"	54466	3134237	2
+"921"	"Summer"	"lincoln"	"Common Murre"	1172467	2962360	40
+"922"	"Summer"	"lincoln"	"California Gull"	202682	2962360	7
+"923"	"Summer"	"lincoln"	"Western Gull"	157017	2962360	5
+"924"	"Summer"	"lincoln"	"Sooty Shearwater"	108367	2962360	4
+"925"	"Summer"	"lincoln"	"Western Sandpiper"	115736	2962360	4
+"926"	"Summer"	"lincoln"	"Brandt's Cormorant"	102029	2962360	3
+"927"	"Summer"	"lincoln"	"Brown Pelican"	97488	2962360	3
+"928"	"Summer"	"lincoln"	"Pelagic Cormorant"	82388	2962360	3
+"929"	"Summer"	"lincoln"	"Surf Scoter"	100818	2962360	3
+"930"	"Summer"	"lincoln"	"Canada Goose"	44699	2962360	2
+"931"	"Summer"	"linn"	"European Starling"	20212	238365	8
+"932"	"Summer"	"linn"	"Barn Swallow"	13141	238365	6
+"933"	"Summer"	"linn"	"Mallard"	14075	238365	6
+"934"	"Summer"	"linn"	"American Goldfinch"	8984	238365	4
+"935"	"Summer"	"linn"	"Canada Goose"	8847	238365	4
+"936"	"Summer"	"linn"	"American Robin"	8115	238365	3
+"937"	"Summer"	"linn"	"Black-capped Chickadee"	6083	238365	3
+"938"	"Summer"	"linn"	"Cedar Waxwing"	6293	238365	3
+"939"	"Summer"	"linn"	"Dark-eyed Junco"	5992	238365	3
+"940"	"Summer"	"linn"	"Red-winged Blackbird"	6387	238365	3
+"941"	"Summer"	"malheur"	"Canada Goose"	19994	96509	21
+"942"	"Summer"	"malheur"	"European Starling"	4345	96509	5
+"943"	"Summer"	"malheur"	"Mallard"	4003	96509	4
+"944"	"Summer"	"malheur"	"Red-winged Blackbird"	3856	96509	4
+"945"	"Summer"	"malheur"	"American Coot"	2564	96509	3
+"946"	"Summer"	"malheur"	"American White Pelican"	2474	96509	3
+"947"	"Summer"	"malheur"	"Brewer's Blackbird"	3281	96509	3
+"948"	"Summer"	"malheur"	"Cliff Swallow"	2863	96509	3
+"949"	"Summer"	"malheur"	"Horned Lark"	3340	96509	3
+"950"	"Summer"	"malheur"	"White-faced Ibis"	3065	96509	3
+"951"	"Summer"	"marion"	"Mallard"	101964	874726	12
+"952"	"Summer"	"marion"	"Barn Swallow"	69984	874726	8
+"953"	"Summer"	"marion"	"Canada Goose"	61834	874726	7
+"954"	"Summer"	"marion"	"European Starling"	49048	874726	6
+"955"	"Summer"	"marion"	"Vaux's Swift"	45049	874726	5
+"956"	"Summer"	"marion"	"Long-billed Dowitcher"	38320	874726	4
+"957"	"Summer"	"marion"	"American Goldfinch"	22704	874726	3
+"958"	"Summer"	"marion"	"Cedar Waxwing"	23620	874726	3
+"959"	"Summer"	"marion"	"Red-winged Blackbird"	26408	874726	3
+"960"	"Summer"	"marion"	"American Crow"	18621	874726	2
+"961"	"Summer"	"morrow"	"Canada Goose"	16334	108545	15
+"962"	"Summer"	"morrow"	"Mallard"	12102	108545	11
+"963"	"Summer"	"morrow"	"European Starling"	6355	108545	6
+"964"	"Summer"	"morrow"	"Ring-billed Gull"	5212	108545	5
+"965"	"Summer"	"morrow"	"American Coot"	4830	108545	4
+"966"	"Summer"	"morrow"	"Bank Swallow"	4157	108545	4
+"967"	"Summer"	"morrow"	"Red-winged Blackbird"	4091	108545	4
+"968"	"Summer"	"morrow"	"American Wigeon"	3091	108545	3
+"969"	"Summer"	"morrow"	"Barn Swallow"	2976	108545	3
+"970"	"Summer"	"morrow"	"Cliff Swallow"	3154	108545	3
+"971"	"Summer"	"multnomah"	"Vaux's Swift"	1016689	3618535	28
+"972"	"Summer"	"multnomah"	"Barn Swallow"	239207	3618535	7
+"973"	"Summer"	"multnomah"	"American Crow"	193319	3618535	5
+"974"	"Summer"	"multnomah"	"Mallard"	170095	3618535	5
+"975"	"Summer"	"multnomah"	"Canada Goose"	132690	3618535	4
+"976"	"Summer"	"multnomah"	"European Starling"	149553	3618535	4
+"977"	"Summer"	"multnomah"	"American White Pelican"	83811	3618535	2
+"978"	"Summer"	"multnomah"	"Black-capped Chickadee"	60870	3618535	2
+"979"	"Summer"	"multnomah"	"Cedar Waxwing"	54353	3618535	2
+"980"	"Summer"	"multnomah"	"Great Egret"	74482	3618535	2
+"981"	"Summer"	"polk"	"Barn Swallow"	34026	398330	9
+"982"	"Summer"	"polk"	"Mallard"	28807	398330	7
+"983"	"Summer"	"polk"	"European Starling"	24055	398330	6
+"984"	"Summer"	"polk"	"Violet-green Swallow"	22715	398330	6
+"985"	"Summer"	"polk"	"Canada Goose"	18963	398330	5
+"986"	"Summer"	"polk"	"American Goldfinch"	15104	398330	4
+"987"	"Summer"	"polk"	"Brewer's Blackbird"	16322	398330	4
+"988"	"Summer"	"polk"	"Red-winged Blackbird"	17877	398330	4
+"989"	"Summer"	"polk"	"American Robin"	10041	398330	3
+"990"	"Summer"	"polk"	"American Crow"	9387	398330	2
+"991"	"Summer"	"sherman"	"American White Pelican"	18659	62796	30
+"992"	"Summer"	"sherman"	"Canada Goose"	5317	62796	8
+"993"	"Summer"	"sherman"	"California Gull"	3295	62796	5
+"994"	"Summer"	"sherman"	"European Starling"	2470	62796	4
+"995"	"Summer"	"sherman"	"American Crow"	1773	62796	3
+"996"	"Summer"	"sherman"	"Brewer's Blackbird"	1745	62796	3
+"997"	"Summer"	"sherman"	"Common Merganser"	1947	62796	3
+"998"	"Summer"	"sherman"	"Barn Swallow"	1345	62796	2
+"999"	"Summer"	"sherman"	"Cliff Swallow"	1324	62796	2
+"1000"	"Summer"	"sherman"	"House Finch"	946	62796	2
+"1001"	"Summer"	"tillamook"	"Common Murre"	167514	1413775	12
+"1002"	"Summer"	"tillamook"	"Brown Pelican"	126807	1413775	9
+"1003"	"Summer"	"tillamook"	"Western Gull"	77765	1413775	6
+"1004"	"Summer"	"tillamook"	"Double-crested Cormorant"	77682	1413775	5
+"1005"	"Summer"	"tillamook"	"Western Sandpiper"	63705	1413775	5
+"1006"	"Summer"	"tillamook"	"Barn Swallow"	54643	1413775	4
+"1007"	"Summer"	"tillamook"	"California Gull"	54930	1413775	4
+"1008"	"Summer"	"tillamook"	"American Crow"	36106	1413775	3
+"1009"	"Summer"	"tillamook"	"Canada Goose"	38180	1413775	3
+"1010"	"Summer"	"tillamook"	"European Starling"	37679	1413775	3
+"1011"	"Summer"	"umatilla"	"Canada Goose"	52832	313740	17
+"1012"	"Summer"	"umatilla"	"Ring-billed Gull"	39697	313740	13
+"1013"	"Summer"	"umatilla"	"European Starling"	15356	313740	5
+"1014"	"Summer"	"umatilla"	"American White Pelican"	13779	313740	4
+"1015"	"Summer"	"umatilla"	"Mallard"	11334	313740	4
+"1016"	"Summer"	"umatilla"	"Western Sandpiper"	10854	313740	3
+"1017"	"Summer"	"umatilla"	"Barn Swallow"	5575	313740	2
+"1018"	"Summer"	"umatilla"	"Brewer's Blackbird"	6663	313740	2
+"1019"	"Summer"	"umatilla"	"Cliff Swallow"	5666	313740	2
+"1020"	"Summer"	"umatilla"	"Killdeer"	6500	313740	2
+"1021"	"Summer"	"union"	"Mallard"	48511	669194	7
+"1022"	"Summer"	"union"	"Ruddy Duck"	49453	669194	7
+"1023"	"Summer"	"union"	"European Starling"	40878	669194	6
+"1024"	"Summer"	"union"	"Canada Goose"	32905	669194	5
+"1025"	"Summer"	"union"	"Brewer's Blackbird"	28448	669194	4
+"1026"	"Summer"	"union"	"American Coot"	17092	669194	3
+"1027"	"Summer"	"union"	"Killdeer"	18021	669194	3
+"1028"	"Summer"	"union"	"Red-winged Blackbird"	22991	669194	3
+"1029"	"Summer"	"union"	"American Robin"	14313	669194	2
+"1030"	"Summer"	"union"	"Barn Swallow"	13946	669194	2
+"1031"	"Summer"	"wallowa"	"European Starling"	7903	139337	6
+"1032"	"Summer"	"wallowa"	"Brewer's Blackbird"	6775	139337	5
+"1033"	"Summer"	"wallowa"	"Canada Goose"	6577	139337	5
+"1034"	"Summer"	"wallowa"	"Mallard"	6313	139337	5
+"1035"	"Summer"	"wallowa"	"American Robin"	5888	139337	4
+"1036"	"Summer"	"wallowa"	"Red-winged Blackbird"	3693	139337	3
+"1037"	"Summer"	"wallowa"	"Cedar Waxwing"	2757	139337	2
+"1038"	"Summer"	"wallowa"	"Chipping Sparrow"	3178	139337	2
+"1039"	"Summer"	"wallowa"	"Dark-eyed Junco"	3383	139337	2
+"1040"	"Summer"	"wallowa"	"Killdeer"	2373	139337	2
+"1041"	"Summer"	"wasco"	"Canada Goose"	21315	168967	13
+"1042"	"Summer"	"wasco"	"California Gull"	16069	168967	10
+"1043"	"Summer"	"wasco"	"American White Pelican"	13550	168967	8
+"1044"	"Summer"	"wasco"	"European Starling"	8498	168967	5
+"1045"	"Summer"	"wasco"	"Mallard"	6588	168967	4
+"1046"	"Summer"	"wasco"	"Violet-green Swallow"	5944	168967	4
+"1047"	"Summer"	"wasco"	"Brewer's Blackbird"	4997	168967	3
+"1048"	"Summer"	"wasco"	"House Sparrow"	4475	168967	3
+"1049"	"Summer"	"wasco"	"American Crow"	3554	168967	2
+"1050"	"Summer"	"wasco"	"Cliff Swallow"	2665	168967	2
+"1051"	"Summer"	"washington"	"European Starling"	301126	2510050	12
+"1052"	"Summer"	"washington"	"Mallard"	289845	2510050	12
+"1053"	"Summer"	"washington"	"Canada Goose"	266976	2510050	11
+"1054"	"Summer"	"washington"	"Red-winged Blackbird"	191090	2510050	8
+"1055"	"Summer"	"washington"	"Barn Swallow"	120677	2510050	5
+"1056"	"Summer"	"washington"	"Gadwall"	93266	2510050	4
+"1057"	"Summer"	"washington"	"American Crow"	44146	2510050	2
+"1058"	"Summer"	"washington"	"American Goldfinch"	39510	2510050	2
+"1059"	"Summer"	"washington"	"American Robin"	38716	2510050	2
+"1060"	"Summer"	"washington"	"Black-capped Chickadee"	40907	2510050	2
+"1061"	"Summer"	"wheeler"	"Brewer's Blackbird"	3569	34671	10
+"1062"	"Summer"	"wheeler"	"European Starling"	2148	34671	6
+"1063"	"Summer"	"wheeler"	"Mallard"	1305	34671	4
+"1064"	"Summer"	"wheeler"	"Red-winged Blackbird"	1442	34671	4
+"1065"	"Summer"	"wheeler"	"American Coot"	920	34671	3
+"1066"	"Summer"	"wheeler"	"American Robin"	1002	34671	3
+"1067"	"Summer"	"wheeler"	"Cliff Swallow"	1087	34671	3
+"1068"	"Summer"	"wheeler"	"House Sparrow"	958	34671	3
+"1069"	"Summer"	"wheeler"	"Mourning Dove"	1201	34671	3
+"1070"	"Summer"	"wheeler"	"California Quail"	718	34671	2
+"1071"	"Summer"	"yamhill"	"Barn Swallow"	175358	285752	61
+"1072"	"Summer"	"yamhill"	"Mallard"	7256	285752	3
+"1073"	"Summer"	"yamhill"	"Violet-green Swallow"	8076	285752	3
+"1074"	"Summer"	"yamhill"	"American Robin"	5570	285752	2
+"1075"	"Summer"	"yamhill"	"European Starling"	6546	285752	2
+"1076"	"Summer"	"yamhill"	"Northern Shoveler"	5776	285752	2
+"1077"	"Summer"	"yamhill"	"American Coot"	2362	285752	1
+"1078"	"Summer"	"yamhill"	"American Crow"	1437	285752	1
+"1079"	"Summer"	"yamhill"	"American Goldfinch"	3116	285752	1
+"1080"	"Summer"	"yamhill"	"Black-capped Chickadee"	2340	285752	1
+"1081"	"Summer"	NA	"Common Nighthawk"	1	2	50
+"1082"	"Summer"	NA	"Great Egret"	1	2	50
+"1083"	"Winter"	"baker"	"Canada Goose"	17914	97196	18
+"1084"	"Winter"	"baker"	"European Starling"	13030	97196	13
+"1085"	"Winter"	"baker"	"Mallard"	7526	97196	8
+"1086"	"Winter"	"baker"	"House Sparrow"	6392	97196	7
+"1087"	"Winter"	"baker"	"Dark-eyed Junco"	6247	97196	6
+"1088"	"Winter"	"baker"	"California Quail"	3869	97196	4
+"1089"	"Winter"	"baker"	"Horned Lark"	2768	97196	3
+"1090"	"Winter"	"baker"	"American Coot"	2200	97196	2
+"1091"	"Winter"	"baker"	"Black-billed Magpie"	2303	97196	2
+"1092"	"Winter"	"baker"	"Common Goldeneye"	2100	97196	2
+"1093"	"Winter"	"benton"	"Cackling Goose"	5458941	11091163	49
+"1094"	"Winter"	"benton"	"Northern Shoveler"	746078	11091163	7
+"1095"	"Winter"	"benton"	"European Starling"	697175	11091163	6
+"1096"	"Winter"	"benton"	"Canada Goose"	369262	11091163	3
+"1097"	"Winter"	"benton"	"Green-winged Teal"	370844	11091163	3
+"1098"	"Winter"	"benton"	"Mallard"	345959	11091163	3
+"1099"	"Winter"	"benton"	"Northern Pintail"	366358	11091163	3
+"1100"	"Winter"	"benton"	"American Robin"	242577	11091163	2
+"1101"	"Winter"	"benton"	"Ruddy Duck"	181326	11091163	2
+"1102"	"Winter"	"benton"	"American Coot"	132221	11091163	1
+"1103"	"Winter"	"clackamas"	"Cackling Goose"	300278	1137410	26
+"1104"	"Winter"	"clackamas"	"Mallard"	65585	1137410	6
+"1105"	"Winter"	"clackamas"	"American Crow"	53377	1137410	5
+"1106"	"Winter"	"clackamas"	"American Robin"	52121	1137410	5
+"1107"	"Winter"	"clackamas"	"Dark-eyed Junco"	56565	1137410	5
+"1108"	"Winter"	"clackamas"	"European Starling"	61343	1137410	5
+"1109"	"Winter"	"clackamas"	"Canada Goose"	46269	1137410	4
+"1110"	"Winter"	"clackamas"	"Song Sparrow"	28445	1137410	3
+"1111"	"Winter"	"clackamas"	"American Wigeon"	21750	1137410	2
+"1112"	"Winter"	"clackamas"	"Black-capped Chickadee"	25147	1137410	2
+"1113"	"Winter"	"clatsop"	"Cackling Goose"	429380	2277715	19
+"1114"	"Winter"	"clatsop"	"European Starling"	221713	2277715	10
+"1115"	"Winter"	"clatsop"	"Dunlin"	213381	2277715	9
+"1116"	"Winter"	"clatsop"	"American Wigeon"	140907	2277715	6
+"1117"	"Winter"	"clatsop"	"Mallard"	82303	2277715	4
+"1118"	"Winter"	"clatsop"	"Short-billed Gull"	97615	2277715	4
+"1119"	"Winter"	"clatsop"	"Bufflehead"	64155	2277715	3
+"1120"	"Winter"	"clatsop"	"Greater Scaup"	76692	2277715	3
+"1121"	"Winter"	"clatsop"	"Northern Pintail"	71808	2277715	3
+"1122"	"Winter"	"clatsop"	"American Coot"	46025	2277715	2
+"1123"	"Winter"	"columbia"	"Snow Goose"	1137484	3648449	31
+"1124"	"Winter"	"columbia"	"Cackling Goose"	908639	3648449	25
+"1125"	"Winter"	"columbia"	"Sandhill Crane"	171776	3648449	5
+"1126"	"Winter"	"columbia"	"American Coot"	151218	3648449	4
+"1127"	"Winter"	"columbia"	"Mallard"	109787	3648449	3
+"1128"	"Winter"	"columbia"	"Northern Pintail"	99852	3648449	3
+"1129"	"Winter"	"columbia"	"Canada Goose"	85892	3648449	2
+"1130"	"Winter"	"columbia"	"Dark-eyed Junco"	55772	3648449	2
+"1131"	"Winter"	"columbia"	"European Starling"	84903	3648449	2
+"1132"	"Winter"	"columbia"	"Red-winged Blackbird"	87460	3648449	2
+"1133"	"Winter"	"coos"	"Common Murre"	439460	1152494	38
+"1134"	"Winter"	"coos"	"American Wigeon"	88419	1152494	8
+"1135"	"Winter"	"coos"	"Northern Pintail"	41985	1152494	4
+"1136"	"Winter"	"coos"	"American Robin"	32156	1152494	3
+"1137"	"Winter"	"coos"	"European Starling"	33529	1152494	3
+"1138"	"Winter"	"coos"	"Surf Scoter"	36531	1152494	3
+"1139"	"Winter"	"coos"	"Western Gull"	33116	1152494	3
+"1140"	"Winter"	"coos"	"American Coot"	24150	1152494	2
+"1141"	"Winter"	"coos"	"American Crow"	24922	1152494	2
+"1142"	"Winter"	"coos"	"Bufflehead"	28046	1152494	2
+"1143"	"Winter"	"crook"	"American Robin"	1070736	1479777	72
+"1144"	"Winter"	"crook"	"Canada Goose"	135021	1479777	9
+"1145"	"Winter"	"crook"	"European Starling"	44078	1479777	3
+"1146"	"Winter"	"crook"	"Mallard"	22736	1479777	2
+"1147"	"Winter"	"crook"	"American Coot"	8058	1479777	1
+"1148"	"Winter"	"crook"	"American Wigeon"	10838	1479777	1
+"1149"	"Winter"	"crook"	"Brewer's Blackbird"	16633	1479777	1
+"1150"	"Winter"	"crook"	"Bufflehead"	7504	1479777	1
+"1151"	"Winter"	"crook"	"Greater White-fronted Goose"	10283	1479777	1
+"1152"	"Winter"	"crook"	"Green-winged Teal"	13961	1479777	1
+"1153"	"Winter"	"curry"	"American Robin"	19546	197386	10
+"1154"	"Winter"	"curry"	"European Starling"	13448	197386	7
+"1155"	"Winter"	"curry"	"Surf Scoter"	10324	197386	5
+"1156"	"Winter"	"curry"	"Western Gull"	10551	197386	5
+"1157"	"Winter"	"curry"	"American Crow"	8204	197386	4
+"1158"	"Winter"	"curry"	"Common Murre"	7053	197386	4
+"1159"	"Winter"	"curry"	"Dark-eyed Junco"	7749	197386	4
+"1160"	"Winter"	"curry"	"Pine Siskin"	7200	197386	4
+"1161"	"Winter"	"curry"	"Bufflehead"	6850	197386	3
+"1162"	"Winter"	"curry"	"California Gull"	5814	197386	3
+"1163"	"Winter"	"deschutes"	"Mallard"	302721	1609864	19
+"1164"	"Winter"	"deschutes"	"American Robin"	218526	1609864	14
+"1165"	"Winter"	"deschutes"	"Canada Goose"	159477	1609864	10
+"1166"	"Winter"	"deschutes"	"Dark-eyed Junco"	65781	1609864	4
+"1167"	"Winter"	"deschutes"	"House Sparrow"	57328	1609864	4
+"1168"	"Winter"	"deschutes"	"Bufflehead"	42291	1609864	3
+"1169"	"Winter"	"deschutes"	"European Starling"	41769	1609864	3
+"1170"	"Winter"	"deschutes"	"House Finch"	40889	1609864	3
+"1171"	"Winter"	"deschutes"	"American Coot"	38891	1609864	2
+"1172"	"Winter"	"deschutes"	"Mountain Chickadee"	30249	1609864	2
+"1173"	"Winter"	"douglas"	"American Coot"	32839	380840	9
+"1174"	"Winter"	"douglas"	"American Robin"	26111	380840	7
+"1175"	"Winter"	"douglas"	"Canada Goose"	27598	380840	7
+"1176"	"Winter"	"douglas"	"European Starling"	25061	380840	7
+"1177"	"Winter"	"douglas"	"Bufflehead"	20687	380840	5
+"1178"	"Winter"	"douglas"	"Mallard"	20080	380840	5
+"1179"	"Winter"	"douglas"	"Dark-eyed Junco"	14969	380840	4
+"1180"	"Winter"	"douglas"	"Northern Shoveler"	16800	380840	4
+"1181"	"Winter"	"douglas"	"American Wigeon"	9567	380840	3
+"1182"	"Winter"	"douglas"	"Rock Pigeon"	12969	380840	3
+"1183"	"Winter"	"gilliam"	"American Coot"	14375	89348	16
+"1184"	"Winter"	"gilliam"	"Ring-necked Duck"	9810	89348	11
+"1185"	"Winter"	"gilliam"	"Lesser Scaup"	8711	89348	10
+"1186"	"Winter"	"gilliam"	"California Gull"	6139	89348	7
+"1187"	"Winter"	"gilliam"	"Common Goldeneye"	6118	89348	7
+"1188"	"Winter"	"gilliam"	"Canada Goose"	4166	89348	5
+"1189"	"Winter"	"gilliam"	"European Starling"	4100	89348	5
+"1190"	"Winter"	"gilliam"	"Mallard"	4671	89348	5
+"1191"	"Winter"	"gilliam"	"Greater Scaup"	3347	89348	4
+"1192"	"Winter"	"gilliam"	"Rock Pigeon"	2542	89348	3
+"1193"	"Winter"	"grant"	"Dark-eyed Junco"	5548	43446	13
+"1194"	"Winter"	"grant"	"Canada Goose"	4814	43446	11
+"1195"	"Winter"	"grant"	"American Robin"	4245	43446	10
+"1196"	"Winter"	"grant"	"European Starling"	4190	43446	10
+"1197"	"Winter"	"grant"	"Mallard"	1813	43446	4
+"1198"	"Winter"	"grant"	"Red-winged Blackbird"	1896	43446	4
+"1199"	"Winter"	"grant"	"Wild Turkey"	1735	43446	4
+"1200"	"Winter"	"grant"	"Black-billed Magpie"	1166	43446	3
+"1201"	"Winter"	"grant"	"California Quail"	1403	43446	3
+"1202"	"Winter"	"grant"	"Common Raven"	1180	43446	3
+"1203"	"Winter"	"harney"	"Northern Pintail"	54203	414893	13
+"1204"	"Winter"	"harney"	"Ross's Goose"	55415	414893	13
+"1205"	"Winter"	"harney"	"Snow Goose"	54144	414893	13
+"1206"	"Winter"	"harney"	"Canada Goose"	43265	414893	10
+"1207"	"Winter"	"harney"	"California Quail"	21218	414893	5
+"1208"	"Winter"	"harney"	"European Starling"	21698	414893	5
+"1209"	"Winter"	"harney"	"Mallard"	15079	414893	4
+"1210"	"Winter"	"harney"	"American Robin"	13251	414893	3
+"1211"	"Winter"	"harney"	"Sandhill Crane"	10995	414893	3
+"1212"	"Winter"	"harney"	"American Wigeon"	7206	414893	2
+"1213"	"Winter"	"hood river"	"American Coot"	44803	158404	28
+"1214"	"Winter"	"hood river"	"Lesser Scaup"	15357	158404	10
+"1215"	"Winter"	"hood river"	"Canada Goose"	11037	158404	7
+"1216"	"Winter"	"hood river"	"American Wigeon"	7859	158404	5
+"1217"	"Winter"	"hood river"	"Bufflehead"	5554	158404	4
+"1218"	"Winter"	"hood river"	"Dark-eyed Junco"	5558	158404	4
+"1219"	"Winter"	"hood river"	"European Starling"	4636	158404	3
+"1220"	"Winter"	"hood river"	"Greater Scaup"	4418	158404	3
+"1221"	"Winter"	"hood river"	"Ring-necked Duck"	5030	158404	3
+"1222"	"Winter"	"hood river"	"American Crow"	2988	158404	2
+"1223"	"Winter"	"jackson"	"American Robin"	130796	1292577	10
+"1224"	"Winter"	"jackson"	"European Starling"	89400	1292577	7
+"1225"	"Winter"	"jackson"	"Canada Goose"	79844	1292577	6
+"1226"	"Winter"	"jackson"	"Dark-eyed Junco"	74291	1292577	6
+"1227"	"Winter"	"jackson"	"Red-winged Blackbird"	76295	1292577	6
+"1228"	"Winter"	"jackson"	"Golden-crowned Sparrow"	62256	1292577	5
+"1229"	"Winter"	"jackson"	"American Wigeon"	43244	1292577	3
+"1230"	"Winter"	"jackson"	"Brewer's Blackbird"	33705	1292577	3
+"1231"	"Winter"	"jackson"	"Lesser Goldfinch"	37496	1292577	3
+"1232"	"Winter"	"jackson"	"Mallard"	41157	1292577	3
+"1233"	"Winter"	"jefferson"	"Canada Goose"	45240	187818	24
+"1234"	"Winter"	"jefferson"	"European Starling"	24674	187818	13
+"1235"	"Winter"	"jefferson"	"American Robin"	14822	187818	8
+"1236"	"Winter"	"jefferson"	"Mallard"	12628	187818	7
+"1237"	"Winter"	"jefferson"	"Horned Lark"	9881	187818	5
+"1238"	"Winter"	"jefferson"	"Brewer's Blackbird"	6816	187818	4
+"1239"	"Winter"	"jefferson"	"Dark-eyed Junco"	5829	187818	3
+"1240"	"Winter"	"jefferson"	"American Coot"	3885	187818	2
+"1241"	"Winter"	"jefferson"	"Bufflehead"	3586	187818	2
+"1242"	"Winter"	"jefferson"	"Eurasian Collared-Dove"	2978	187818	2
+"1243"	"Winter"	"josephine"	"Canada Goose"	39194	351074	11
+"1244"	"Winter"	"josephine"	"American Robin"	33294	351074	9
+"1245"	"Winter"	"josephine"	"Dark-eyed Junco"	32978	351074	9
+"1246"	"Winter"	"josephine"	"American Coot"	19696	351074	6
+"1247"	"Winter"	"josephine"	"Mallard"	16863	351074	5
+"1248"	"Winter"	"josephine"	"American Crow"	14133	351074	4
+"1249"	"Winter"	"josephine"	"American Wigeon"	12510	351074	4
+"1250"	"Winter"	"josephine"	"European Starling"	15133	351074	4
+"1251"	"Winter"	"josephine"	"Rock Pigeon"	9393	351074	3
+"1252"	"Winter"	"josephine"	"Black-capped Chickadee"	6245	351074	2
+"1253"	"Winter"	"klamath"	"Greater White-fronted Goose"	237310	1871565	13
+"1254"	"Winter"	"klamath"	"Snow Goose"	212795	1871565	11
+"1255"	"Winter"	"klamath"	"Tundra Swan"	208126	1871565	11
+"1256"	"Winter"	"klamath"	"Northern Pintail"	142646	1871565	8
+"1257"	"Winter"	"klamath"	"Northern Shoveler"	117899	1871565	6
+"1258"	"Winter"	"klamath"	"Ruddy Duck"	105550	1871565	6
+"1259"	"Winter"	"klamath"	"American Wigeon"	87543	1871565	5
+"1260"	"Winter"	"klamath"	"Canada Goose"	71154	1871565	4
+"1261"	"Winter"	"klamath"	"Red-winged Blackbird"	76975	1871565	4
+"1262"	"Winter"	"klamath"	"American Coot"	48419	1871565	3
+"1263"	"Winter"	"lake"	"Snow Goose"	193224	325951	59
+"1264"	"Winter"	"lake"	"Northern Pintail"	23830	325951	7
+"1265"	"Winter"	"lake"	"Tundra Swan"	19923	325951	6
+"1266"	"Winter"	"lake"	"Greater White-fronted Goose"	9647	325951	3
+"1267"	"Winter"	"lake"	"American Coot"	6243	325951	2
+"1268"	"Winter"	"lake"	"Canada Goose"	6405	325951	2
+"1269"	"Winter"	"lake"	"American Robin"	3282	325951	1
+"1270"	"Winter"	"lake"	"American Wigeon"	2927	325951	1
+"1271"	"Winter"	"lake"	"Bufflehead"	4819	325951	1
+"1272"	"Winter"	"lake"	"Canvasback"	2462	325951	1
+"1273"	"Winter"	"lane"	"Cackling Goose"	2035115	6513007	31
+"1274"	"Winter"	"lane"	"European Starling"	1150239	6513007	18
+"1275"	"Winter"	"lane"	"Dunlin"	299717	6513007	5
+"1276"	"Winter"	"lane"	"American Robin"	196771	6513007	3
+"1277"	"Winter"	"lane"	"Canada Goose"	227536	6513007	3
+"1278"	"Winter"	"lane"	"American Coot"	134487	6513007	2
+"1279"	"Winter"	"lane"	"American Crow"	107423	6513007	2
+"1280"	"Winter"	"lane"	"Dark-eyed Junco"	158714	6513007	2
+"1281"	"Winter"	"lane"	"Green-winged Teal"	137458	6513007	2
+"1282"	"Winter"	"lane"	"Mallard"	128881	6513007	2
+"1283"	"Winter"	"lincoln"	"Surf Scoter"	252887	1833551	14
+"1284"	"Winter"	"lincoln"	"Common Murre"	236193	1833551	13
+"1285"	"Winter"	"lincoln"	"American Wigeon"	122214	1833551	7
+"1286"	"Winter"	"lincoln"	"Bufflehead"	102035	1833551	6
+"1287"	"Winter"	"lincoln"	"Western Gull"	84699	1833551	5
+"1288"	"Winter"	"lincoln"	"American Crow"	47220	1833551	3
+"1289"	"Winter"	"lincoln"	"European Starling"	47297	1833551	3
+"1290"	"Winter"	"lincoln"	"Northern Pintail"	50344	1833551	3
+"1291"	"Winter"	"lincoln"	"Short-billed Gull"	54527	1833551	3
+"1292"	"Winter"	"lincoln"	"Brant"	43544	1833551	2
+"1293"	"Winter"	"linn"	"Cackling Goose"	701270	2289070	31
+"1294"	"Winter"	"linn"	"European Starling"	436101	2289070	19
+"1295"	"Winter"	"linn"	"Tundra Swan"	217851	2289070	10
+"1296"	"Winter"	"linn"	"Dunlin"	139972	2289070	6
+"1297"	"Winter"	"linn"	"American Wigeon"	95160	2289070	4
+"1298"	"Winter"	"linn"	"American Robin"	47163	2289070	2
+"1299"	"Winter"	"linn"	"Green-winged Teal"	36175	2289070	2
+"1300"	"Winter"	"linn"	"Mallard"	38592	2289070	2
+"1301"	"Winter"	"linn"	"Red-winged Blackbird"	36360	2289070	2
+"1302"	"Winter"	"linn"	"American Pipit"	21673	2289070	1
+"1303"	"Winter"	"malheur"	"Snow Goose"	26883	85543	31
+"1304"	"Winter"	"malheur"	"Canada Goose"	5885	85543	7
+"1305"	"Winter"	"malheur"	"Common Goldeneye"	6340	85543	7
+"1306"	"Winter"	"malheur"	"Mallard"	5741	85543	7
+"1307"	"Winter"	"malheur"	"European Starling"	5495	85543	6
+"1308"	"Winter"	"malheur"	"American Coot"	3416	85543	4
+"1309"	"Winter"	"malheur"	"Red-winged Blackbird"	3820	85543	4
+"1310"	"Winter"	"malheur"	"American Wigeon"	1757	85543	2
+"1311"	"Winter"	"malheur"	"Rock Pigeon"	1451	85543	2
+"1312"	"Winter"	"malheur"	"American Robin"	902	85543	1
+"1313"	"Winter"	"marion"	"Cackling Goose"	1334207	2771326	48
+"1314"	"Winter"	"marion"	"Northern Pintail"	163115	2771326	6
+"1315"	"Winter"	"marion"	"American Wigeon"	106476	2771326	4
+"1316"	"Winter"	"marion"	"European Starling"	102914	2771326	4
+"1317"	"Winter"	"marion"	"Green-winged Teal"	104474	2771326	4
+"1318"	"Winter"	"marion"	"Canada Goose"	90117	2771326	3
+"1319"	"Winter"	"marion"	"Mallard"	89980	2771326	3
+"1320"	"Winter"	"marion"	"American Coot"	53669	2771326	2
+"1321"	"Winter"	"marion"	"American Robin"	55401	2771326	2
+"1322"	"Winter"	"marion"	"Dark-eyed Junco"	49882	2771326	2
+"1323"	"Winter"	"morrow"	"Snow Goose"	551188	998543	55
+"1324"	"Winter"	"morrow"	"Mallard"	119089	998543	12
+"1325"	"Winter"	"morrow"	"American Coot"	98374	998543	10
+"1326"	"Winter"	"morrow"	"Northern Pintail"	59551	998543	6
+"1327"	"Winter"	"morrow"	"Canada Goose"	38838	998543	4
+"1328"	"Winter"	"morrow"	"American Crow"	17161	998543	2
+"1329"	"Winter"	"morrow"	"Red-winged Blackbird"	18107	998543	2
+"1330"	"Winter"	"morrow"	"American Wigeon"	9097	998543	1
+"1331"	"Winter"	"morrow"	"Brewer's Blackbird"	10925	998543	1
+"1332"	"Winter"	"morrow"	"European Starling"	14468	998543	1
+"1333"	"Winter"	"multnomah"	"Cackling Goose"	1875624	7274040	26
+"1334"	"Winter"	"multnomah"	"American Crow"	996573	7274040	14
+"1335"	"Winter"	"multnomah"	"Snow Goose"	520273	7274040	7
+"1336"	"Winter"	"multnomah"	"Mallard"	265806	7274040	4
+"1337"	"Winter"	"multnomah"	"American Robin"	184497	7274040	3
+"1338"	"Winter"	"multnomah"	"Canada Goose"	217862	7274040	3
+"1339"	"Winter"	"multnomah"	"European Starling"	251752	7274040	3
+"1340"	"Winter"	"multnomah"	"Lesser Scaup"	215373	7274040	3
+"1341"	"Winter"	"multnomah"	"American Wigeon"	138389	7274040	2
+"1342"	"Winter"	"multnomah"	"Dark-eyed Junco"	176575	7274040	2
+"1343"	"Winter"	"polk"	"Cackling Goose"	1500882	2997553	50
+"1344"	"Winter"	"polk"	"European Starling"	191479	2997553	6
+"1345"	"Winter"	"polk"	"Northern Pintail"	181616	2997553	6
+"1346"	"Winter"	"polk"	"American Coot"	120938	2997553	4
+"1347"	"Winter"	"polk"	"Mallard"	127888	2997553	4
+"1348"	"Winter"	"polk"	"American Robin"	75154	2997553	3
+"1349"	"Winter"	"polk"	"Canada Goose"	62625	2997553	2
+"1350"	"Winter"	"polk"	"Dark-eyed Junco"	45061	2997553	2
+"1351"	"Winter"	"polk"	"Green-winged Teal"	72866	2997553	2
+"1352"	"Winter"	"polk"	"Northern Shoveler"	64912	2997553	2
+"1353"	"Winter"	"sherman"	"American Coot"	43046	182232	24
+"1354"	"Winter"	"sherman"	"Canada Goose"	20232	182232	11
+"1355"	"Winter"	"sherman"	"Lesser Scaup"	11753	182232	6
+"1356"	"Winter"	"sherman"	"American Goldfinch"	4967	182232	3
+"1357"	"Winter"	"sherman"	"American Wigeon"	6314	182232	3
+"1358"	"Winter"	"sherman"	"Bufflehead"	5345	182232	3
+"1359"	"Winter"	"sherman"	"Common Goldeneye"	5569	182232	3
+"1360"	"Winter"	"sherman"	"Dark-eyed Junco"	5338	182232	3
+"1361"	"Winter"	"sherman"	"European Starling"	5677	182232	3
+"1362"	"Winter"	"sherman"	"California Gull"	3229	182232	2
+"1363"	"Winter"	"tillamook"	"American Wigeon"	308039	2126254	14
+"1364"	"Winter"	"tillamook"	"European Starling"	294170	2126254	14
+"1365"	"Winter"	"tillamook"	"Cackling Goose"	131029	2126254	6
+"1366"	"Winter"	"tillamook"	"Northern Pintail"	126019	2126254	6
+"1367"	"Winter"	"tillamook"	"Bufflehead"	110509	2126254	5
+"1368"	"Winter"	"tillamook"	"Surf Scoter"	98197	2126254	5
+"1369"	"Winter"	"tillamook"	"Canada Goose"	75244	2126254	4
+"1370"	"Winter"	"tillamook"	"Mallard"	84714	2126254	4
+"1371"	"Winter"	"tillamook"	"Glaucous-winged Gull"	62993	2126254	3
+"1372"	"Winter"	"tillamook"	"American Crow"	48515	2126254	2
+"1373"	"Winter"	"umatilla"	"Snow Goose"	360195	1289749	28
+"1374"	"Winter"	"umatilla"	"Mallard"	111382	1289749	9
+"1375"	"Winter"	"umatilla"	"American Coot"	106948	1289749	8
+"1376"	"Winter"	"umatilla"	"American Wigeon"	104027	1289749	8
+"1377"	"Winter"	"umatilla"	"European Starling"	104618	1289749	8
+"1378"	"Winter"	"umatilla"	"Canada Goose"	74330	1289749	6
+"1379"	"Winter"	"umatilla"	"Cackling Goose"	23498	1289749	2
+"1380"	"Winter"	"umatilla"	"Northern Pintail"	21358	1289749	2
+"1381"	"Winter"	"umatilla"	"Red-winged Blackbird"	29749	1289749	2
+"1382"	"Winter"	"umatilla"	"Ring-billed Gull"	31397	1289749	2
+"1383"	"Winter"	"union"	"Mallard"	93086	728630	13
+"1384"	"Winter"	"union"	"Canada Goose"	84902	728630	12
+"1385"	"Winter"	"union"	"European Starling"	85434	728630	12
+"1386"	"Winter"	"union"	"Dark-eyed Junco"	44101	728630	6
+"1387"	"Winter"	"union"	"Red-winged Blackbird"	44996	728630	6
+"1388"	"Winter"	"union"	"Brewer's Blackbird"	18992	728630	3
+"1389"	"Winter"	"union"	"Greater White-fronted Goose"	20043	728630	3
+"1390"	"Winter"	"union"	"Horned Lark"	19104	728630	3
+"1391"	"Winter"	"union"	"House Finch"	19763	728630	3
+"1392"	"Winter"	"union"	"House Sparrow"	21936	728630	3
+"1393"	"Winter"	"wallowa"	"Mallard"	39881	248365	16
+"1394"	"Winter"	"wallowa"	"Canada Goose"	29053	248365	12
+"1395"	"Winter"	"wallowa"	"Gray-crowned Rosy-Finch"	22170	248365	9
+"1396"	"Winter"	"wallowa"	"European Starling"	18733	248365	8
+"1397"	"Winter"	"wallowa"	"Horned Lark"	11903	248365	5
+"1398"	"Winter"	"wallowa"	"American Robin"	10986	248365	4
+"1399"	"Winter"	"wallowa"	"Dark-eyed Junco"	8816	248365	4
+"1400"	"Winter"	"wallowa"	"Black-billed Magpie"	8026	248365	3
+"1401"	"Winter"	"wallowa"	"Bohemian Waxwing"	8529	248365	3
+"1402"	"Winter"	"wallowa"	"House Sparrow"	7982	248365	3
+"1403"	"Winter"	"wasco"	"American Coot"	99703	369992	27
+"1404"	"Winter"	"wasco"	"American Wigeon"	33326	369992	9
+"1405"	"Winter"	"wasco"	"Canada Goose"	33093	369992	9
+"1406"	"Winter"	"wasco"	"California Gull"	14651	369992	4
+"1407"	"Winter"	"wasco"	"Dark-eyed Junco"	13961	369992	4
+"1408"	"Winter"	"wasco"	"Ring-necked Duck"	13070	369992	4
+"1409"	"Winter"	"wasco"	"European Starling"	12258	369992	3
+"1410"	"Winter"	"wasco"	"Lesser Scaup"	12933	369992	3
+"1411"	"Winter"	"wasco"	"American Robin"	8484	369992	2
+"1412"	"Winter"	"wasco"	"Mallard"	6774	369992	2
+"1413"	"Winter"	"washington"	"Cackling Goose"	1883501	6165681	31
+"1414"	"Winter"	"washington"	"Northern Pintail"	763843	6165681	12
+"1415"	"Winter"	"washington"	"American Wigeon"	296140	6165681	5
+"1416"	"Winter"	"washington"	"Green-winged Teal"	288616	6165681	5
+"1417"	"Winter"	"washington"	"Mallard"	318362	6165681	5
+"1418"	"Winter"	"washington"	"Canada Goose"	269233	6165681	4
+"1419"	"Winter"	"washington"	"Dark-eyed Junco"	154402	6165681	3
+"1420"	"Winter"	"washington"	"American Coot"	149268	6165681	2
+"1421"	"Winter"	"washington"	"American Crow"	110214	6165681	2
+"1422"	"Winter"	"washington"	"American Robin"	129917	6165681	2
+"1423"	"Winter"	"wheeler"	"American Robin"	3344	19329	17
+"1424"	"Winter"	"wheeler"	"Canada Goose"	2389	19329	12
+"1425"	"Winter"	"wheeler"	"Wild Turkey"	1633	19329	8
+"1426"	"Winter"	"wheeler"	"Dark-eyed Junco"	1320	19329	7
+"1427"	"Winter"	"wheeler"	"European Starling"	1316	19329	7
+"1428"	"Winter"	"wheeler"	"House Sparrow"	772	19329	4
+"1429"	"Winter"	"wheeler"	"Ring-necked Duck"	774	19329	4
+"1430"	"Winter"	"wheeler"	"Mallard"	627	19329	3
+"1431"	"Winter"	"wheeler"	"Red-winged Blackbird"	561	19329	3
+"1432"	"Winter"	"wheeler"	"California Quail"	421	19329	2
+"1433"	"Winter"	"yamhill"	"Cackling Goose"	38133	257628	15
+"1434"	"Winter"	"yamhill"	"European Starling"	23915	257628	9
+"1435"	"Winter"	"yamhill"	"American Robin"	18147	257628	7
+"1436"	"Winter"	"yamhill"	"Dark-eyed Junco"	16021	257628	6
+"1437"	"Winter"	"yamhill"	"Northern Shoveler"	14732	257628	6
+"1438"	"Winter"	"yamhill"	"Canada Goose"	9815	257628	4
+"1439"	"Winter"	"yamhill"	"American Coot"	7828	257628	3
+"1440"	"Winter"	"yamhill"	"Green-winged Teal"	7492	257628	3
+"1441"	"Winter"	"yamhill"	"Lesser Scaup"	7329	257628	3
+"1442"	"Winter"	"yamhill"	"American Wigeon"	6334	257628	2
